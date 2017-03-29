@@ -40,8 +40,7 @@ function fa_link()
   src: url('{$pluginFolder}fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),
        url('{$pluginFolder}fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),
        url('{$pluginFolder}fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),
-       url('{$pluginFolder}fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),
-       url('{$pluginFolder}fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+       url('{$pluginFolder}fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
