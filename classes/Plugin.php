@@ -35,23 +35,10 @@ class Plugin
             return;
         }
         self::$isEmitted = true;
-        $pluginFolder = "{$pth['folder']['plugins']}fa/";
-        $hjs .= <<<HTML
-<style type="text/css">
-@font-face {
-  font-family: 'FontAwesome';
-  src: url('{$pluginFolder}fonts/fontawesome-webfont.eot?v=4.7.0');
-  src: url('{$pluginFolder}fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),
-       url('{$pluginFolder}fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),
-       url('{$pluginFolder}fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),
-       url('{$pluginFolder}fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-</style>
-<link rel="stylesheet" type="text/css" href="{$pluginFolder}css/font-awesome.css">
-
-HTML;
+        $view = new View('provider');
+        $view->fontsFolder = "{$pth['folder']['plugins']}fa/fonts/";
+        $view->cssFolder = "{$pth['folder']['plugins']}fa/css/";
+        $hjs .= $view;
     }
 
     public function run()
