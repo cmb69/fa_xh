@@ -51,4 +51,26 @@ class Plugin
 
 HTML;
     }
+
+    public function run()
+    {
+        XH_registerStandardPluginMenuItems(false);
+        if (XH_wantsPluginAdministration('fa')) {
+            $this->handlePluginAdministration();
+        }
+    }
+
+    private function handlePluginAdministration()
+    {
+        global $o, $action, $admin;
+
+        $o .= print_plugin_admin('off');
+        switch ($admin) {
+            case '':
+                // plugin info
+                break;
+            default:
+                $o .= plugin_admin_common($action, $admin, 'fa');
+        }
+    }
 }

@@ -23,3 +23,7 @@ function fa_link()
 {
     Fa\Plugin::emitLink();
 }
+
+$temp = new Fa\Plugin;
+$temp->run();
+$temp = null;
