@@ -23,6 +23,8 @@ namespace Fa;
 
 class Plugin
 {
+    const VERSION = '1.0beta1';
+
     private static $isEmitted = false;
 
     public static function emitLink()
@@ -67,10 +69,20 @@ HTML;
         $o .= print_plugin_admin('off');
         switch ($admin) {
             case '':
-                // plugin info
+                $o .= $this->handlePluginInfo();
                 break;
             default:
                 $o .= plugin_admin_common($action, $admin, 'fa');
         }
+    }
+
+    private function handlePluginInfo()
+    {
+        global $pth;
+
+        $view = new View('info');
+        $view->logo = "{$pth['folder']['plugins']}fa/fa.png";
+        $view->version = SELF::VERSION;
+        return $view;
     }
 }
