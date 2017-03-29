@@ -65,8 +65,9 @@ class Plugin
 
     private function handlePluginInfo()
     {
-        global $pth;
+        global $title, $pth;
 
+        $title = 'Fa';
         $view = new View('info');
         $view->logo = "{$pth['folder']['plugins']}fa/fa.png";
         $view->version = SELF::VERSION;
