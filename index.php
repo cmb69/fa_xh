@@ -19,7 +19,7 @@
  * along with Fa_XH.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-function fa_link()
+function fa_require()
 {
     $command = new Fa\RequireCommand;
     $command->execute();
