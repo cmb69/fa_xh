@@ -24,7 +24,13 @@
 <li><a href="#requirements">Requirements</a></li>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#settings">Settings</a></li>
-<li><a href="#usage">Usage</a></li>
+<li>
+    <a href="#usage">Usage</a>
+    <ul>
+        <li><a href="#usage-templates">Template Designers</a></li>
+        <li><a href="#usage-plugins">Plugin Developers</a></li>
+    </ul>
+</li>
 <!--<li><a href="#limitations">Limitations</a></li>-->
 <li><a href="#license">License</a></li>
 <li><a href="#credits">Credits</a></li>
@@ -97,6 +103,56 @@
 
 <section id="usage">
 <h2>Usage</h2>
+
+<section id="usage-templates">
+<h3>Template Designers</h3>
+<p>
+    If a template wants to use Font Awesome, you should document that Fa_XH has
+    to be installed, and you have to require Font Awesome early in the template
+    (that is before <code>&lt;?php echo head()?&gt;</code>):
+</p>
+<pre>&lt;?php fa_require()?&gt;</pre>
+<p>
+    If you want to cater to users who don't read the documentation, you can
+    check whether the function is available, and emit an error message
+    otherwise:
+</p>
+<pre>
+&lt;?php
+if (function_exists('fa_require')) {
+    fa_require();
+} else {
+    die('This template requires the Fa_XH plugin. See the documentation for details.');
+}
+?&gt;
+</pre>
+</section>
+
+<section id="usage-plugins">
+<h3>Plugin Developers</h3>
+<p>
+    If a plugins wants to use Font Awesome, you should document that Fa_XH has
+    to be installed, and you have to require Font Awesome before you're going to
+    actually use it. Simply calling <code>fa_require()</code> is not guaranteed
+    to work when called from a plugin, as the function may not have been
+    defined, so you have to execute the RequireCommand directly:
+</p>
+<pre>
+&lt;?php
+$command = new Fa\RequireCommand;
+$command->execute();
+?&gt;
+</pre>
+<p>
+    If your plugin requires PHP 5.4.0 or higher anyway, you can shorten:
+</p>
+<pre>&lt;?php (new Fa\RequireCommand)->execute()?&gt;</pre>
+<p>
+    To check whether Fa_XH is installed:
+</p>
+<pre>&lt;?php $fa_installed = class_exists('Fa\\RequireCommand')?&gt;</pre>
+</section>
+
 </section>
 
 <!--<section id="limitations">
