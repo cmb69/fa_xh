@@ -25,22 +25,6 @@ class Plugin
 {
     const VERSION = '1.0beta1';
 
-    private static $isEmitted = false;
-
-    public static function emitLink()
-    {
-        global $hjs, $pth;
-    
-        if (self::$isEmitted) {
-            return;
-        }
-        self::$isEmitted = true;
-        $view = new View('provider');
-        $view->fontsFolder = "{$pth['folder']['plugins']}fa/fonts/";
-        $view->cssFolder = "{$pth['folder']['plugins']}fa/css/";
-        $hjs .= $view;
-    }
-
     public function run()
     {
         if (XH_ADM) {

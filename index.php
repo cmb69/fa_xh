@@ -21,7 +21,8 @@
 
 function fa_link()
 {
-    Fa\Plugin::emitLink();
+    $command = new Fa\RequireCommand;
+    $command->execute();
 }
 
 $temp = new Fa\Plugin;
