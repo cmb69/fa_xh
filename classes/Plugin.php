@@ -27,6 +27,12 @@ class Plugin
 
     public function run()
     {
+        global $plugin_cf;
+
+        if ($plugin_cf['fa']['require_auto']) {
+            $command = new RequireCommand;
+            $command->execute();
+        }
         if (XH_ADM) {
             XH_registerStandardPluginMenuItems(false);
             if (XH_wantsPluginAdministration('fa')) {
