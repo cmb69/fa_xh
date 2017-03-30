@@ -23,7 +23,7 @@ namespace Fa;
 
 class Plugin
 {
-    const VERSION = '1.0beta1';
+    const VERSION = '@FA_VERSION@';
 
     public function run()
     {
