@@ -27,6 +27,7 @@
 <li>
     <a href="#usage">Usage</a>
     <ul>
+        <li><a href="#usage-content">End Users</a></li>
         <li><a href="#usage-templates">Template Designers</a></li>
         <li><a href="#usage-plugins">Plugin Developers</a></li>
     </ul>
@@ -104,6 +105,46 @@
 <section id="usage">
 <h2>Usage</h2>
 
+<section id="usage-content">
+<h3>End Users</h3>
+<p>
+    If you want to use Font Awesome icons in the content, simply enable
+    the configuration option <em>Require</em> → <em>Auto</em>. Basically,
+    this is sufficient, but with regard to WYSIWYG editors you may have to
+    make Font Awesome available to their &lt;iframe&gt;s.
+</p>
+
+<section id="usage-content-tinymce4">
+<h4>TinyMCE 4</h4>
+<p>
+    For TinyMCE 4 which is the default editor of CMSimple_XH 1.7, you'll want to
+    install the fontawesome plugin, so:
+</p>
+<ul>
+<li>
+    Copy the folder <code>plugins/fa/editors/tinymce4/fontawesome/</code> into
+    </code>plugins/tinymce4/tinymce/plugins/</code>.
+</li>
+<li>
+    Configure TinyMCE 4 to use the locally installed version, so edit
+    <code>plugins/tinymce/classes/required_classes.php</code> and
+    <code>define('TINYMCE4_VARIANT, '');</code>.
+</li>
+<li>
+    Copy <code>plugins/fa/editors/tinymce4/init_fontawesome.js</code> into
+    <code>plugins/tinymce4/inits/</code>, and configure TinyMCE 4 to use the
+    <em>fontawesome</em> <em>init</em>.
+</li>
+</ul>
+<p>
+    After these preparation steps, you find a new toolbar button at the top
+    right named <em>Icons</em> which opens a dialog where you can select and
+    insert the desired Font Awesome icon.
+</p>
+</section>
+
+</section>
+
 <section id="usage-templates">
 <h3>Template Designers</h3>
 <p>
@@ -177,6 +218,11 @@ $command->execute();
     Dave Gandy</a>. Many thanks for making this great iconic font and CSS
     toolkit available under <a href="http://fontawesome.io/license/">GPL
     friendly licenses</a>. 
+</p>
+<p>
+    This plugin contains an adapted version of the <a
+    href="https://github.com/josh18/TinyMCE-FontAwesome-Plugin">TinyMCE-FontAwesome-Plugin</a>
+    by josh18. Thanks for publishing this TinyMCE plugin under MIT license.
 </p>
 <p>
     Fa_XH has been inspired by frase. Many thanks!

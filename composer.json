@@ -3,6 +3,7 @@
         "phing/phing": "2.16.*",
         "squizlabs/php_codesniffer": "2.8.*",
         "phpmd/phpmd": "2.6.*",
-        "bartlett/php-compatinfo": "5.0.*"
+        "bartlett/php-compatinfo": "5.0.*",
+        "tedivm/jshrink": "1.1.*"
     }
 }
