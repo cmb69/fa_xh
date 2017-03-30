@@ -43,9 +43,11 @@ class Plugin
 
     public function run()
     {
-        XH_registerStandardPluginMenuItems(false);
-        if (XH_wantsPluginAdministration('fa')) {
-            $this->handlePluginAdministration();
+        if (XH_ADM) {
+            XH_registerStandardPluginMenuItems(false);
+            if (XH_wantsPluginAdministration('fa')) {
+                $this->handlePluginAdministration();
+            }
         }
     }
 
