@@ -49,6 +49,6 @@ class RequireCommand
         }
         self::$isEmitted = true;
         $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder
-            . 'css/font-awesome.css">';
+            . 'css/font-awesome.min.css">';
     }
 }
