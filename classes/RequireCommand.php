@@ -48,9 +48,7 @@ class RequireCommand
             return;
         }
         self::$isEmitted = true;
-        $view = new View('provider');
-        $view->fontsFolder = "{$this->pluginFolder}fonts/";
-        $view->cssFolder = "{$this->pluginFolder}css/";
-        $hjs .= $view;
+        $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder
+            . 'css/font-awesome.css">';
     }
 }

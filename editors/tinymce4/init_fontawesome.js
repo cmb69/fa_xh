@@ -16,7 +16,7 @@
   image_advtab: true,
   image_title: true,
   file_browser_callback: "%FILEBROWSER_CALLBACK%",
-  content_css: "%STYLESHEET%,plugins/fa/css/font-awesome-editor.css,../plugins/fa/css/font-awesome-editor.css",
+  content_css: "%STYLESHEET%,plugins/fa/css/font-awesome.css,../plugins/fa/css/font-awesome.css",
   importcss_append:true,
 //inserted 30.11.2016  
   style_formats_autohide: true,
