@@ -133,18 +133,18 @@
 </p>
 <ul>
 <li>
-    Copy the folder <code>plugins/fa/editors/tinymce4/fontawesome/</code> into
-    </code>plugins/tinymce4/tinymce/plugins/</code>.
-</li>
-<li>
-    Configure TinyMCE 4 to use the locally installed version, so edit
-    <code>plugins/tinymce/classes/required_classes.php</code> and
-    <code>define('TINYMCE4_VARIANT, '');</code>.
-</li>
-<li>
     Copy <code>plugins/fa/editors/tinymce4/init_fontawesome.js</code> into
-    <code>plugins/tinymce4/inits/</code>, and configure TinyMCE 4 to use the
-    <em>fontawesome</em> <em>init</em>.
+    <code>plugins/tinymce4/inits/</code>.
+</li>
+<li>
+    Edit the copied <code>init_fontawesome.js</code> and replace all occurances
+    of <code>%CMSIMPLE_ROOT%</code> with the absolute path of the CMSimple_XH
+    installation folder. If you have installed CMSimple_XH directly in the web
+    root, use <code>/</code> (a single slash); if you have installed it in a
+    subfolder named <code>sub</code>, use <code>/sub/</code>.
+</li>
+<li>
+    Configure TinyMCE 4 to use the <em>fontawesome</em> <em>init</em>.
 </li>
 </ul>
 <p>
