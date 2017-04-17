@@ -20,6 +20,13 @@ body {
 p {
     text-align: justify;
 }
+pre {
+    color: black;
+    background: #ffe;
+    overflow: auto;
+    padding: 0.2em 0.5em;
+    border: 1px solid silver;
+}
 nav {
     clear: both;
 }
