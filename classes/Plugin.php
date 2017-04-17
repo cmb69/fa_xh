@@ -63,6 +63,8 @@ class Plugin
         $view = new View('info');
         $view->logo = "{$pth['folder']['plugins']}fa/fa.png";
         $view->version = SELF::VERSION;
+        $checkService = new SystemCheckService;
+        $view->checks = $checkService->getChecks();
         return $view;
     }
 }
