@@ -31,7 +31,7 @@ CKEDITOR.plugins.add('fontawesome', {
             }
         });
         CKEDITOR.dialog.add('fontawesomeDialog', this.path + 'dialogs/fontawesome.js');
-        CKEDITOR.document.appendStyleSheet(CKEDITOR.plugins.getPath('fontawesome') + 'font-awesome/css/font-awesome.min.css');
+        CKEDITOR.document.appendStyleSheet(editor.config.fontawesomeCss_url);
         CKEDITOR.document.appendStyleSheet(CKEDITOR.plugins.getPath('fontawesome') + 'fontawesome.css');
     }
 });
