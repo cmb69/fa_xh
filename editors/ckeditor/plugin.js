@@ -6,10 +6,11 @@
 
 CKEDITOR.plugins.add('fontawesome', {
     requires: 'widget',
+    lang: 'de,en',
     icons: 'fontawesome',
     init: function(editor) {
         editor.widgets.add('FontAwesome', {
-            button: 'Insert Font Awesome',
+            button: editor.lang.fontawesome.title,
             template: '<span class="" style=""></span>',
             dialog: 'fontawesomeDialog',
             allowedContent: 'span(!fa){style}',

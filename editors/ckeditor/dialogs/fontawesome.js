@@ -661,7 +661,7 @@ function in_array(needle, haystack) {
 };
 CKEDITOR.dialog.add('fontawesomeDialog', function(editor) {
     return {
-        title: 'Insert Font Awesome',
+        title: editor.lang.fontawesome.title,
         minWidth: 600,
         minHeight: 400,
         resizable: false,
