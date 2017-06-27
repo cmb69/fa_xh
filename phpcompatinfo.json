@@ -2,7 +2,7 @@
     "source-providers": [
         {
             "in": ". as current",
-            "exclude": ["tests", "vendor"],
+            "exclude": ["editors", "tests", "vendor"],
             "name": "/\\.(php|htm)$/"
         }
     ],
