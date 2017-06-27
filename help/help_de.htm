@@ -244,6 +244,18 @@ $command->execute();
     Das Font Aweseome Plugin für TinyMCE 4 benötigt einen zeitgemäßen Browser;
     IE ≤ 8 wird nicht unterstützt.
 </p>
+<p>
+    TinyMCE 4 hat <a href="https://github.com/tinymce/tinymce/issues/3175">einen
+    Fehler</a> bezüglich Block-Level-Elementen, die nur andere Elemente, aber
+    keinen wirklichen Content enthalten. Also wird beim Einfügen eines Font
+    Awesome Icons in einen ansonsten leeren Absatz das Icon nicht erhalten. Das
+    TinyMCE 4 Font Awesome Plugin enthält einen Workaround dafür (nämlich, dass
+    zusätzlich ein geschütztes Leerzeichen eingefügt wird), aber das Verwenden
+    von Inhalten, die durch andere Editoren erstellt wurden, die diesen
+    Workaround nicht implementieren, wird hier nicht besonders berücksichtigt.
+    Es wird grundsätzlich empfohlen beim einmal gewählten Editor zu bleiben, so
+    dass dieses Problem ignoriert werden kann.
+</p>
 </section>
 
 <section id="license">

@@ -237,6 +237,17 @@ $command->execute();
     The TinyMCE 4 Font Awesome plugin requires a contempary browser; IE ≤ 8 is
     not supported.
 </p>
+<p>
+    TinyMCE 4 has <a href="https://github.com/tinymce/tinymce/issues/3175">a
+    bug</a> regarding block level elements which contain only other elements,
+    but no actual content. So adding only a Font Awesome icon to an otherwise
+    empty paragraph would not retain the icon. The TinyMCE 4 Font Awesome plugin
+    has a workaround for this issue (namely to also insert a non-breaking
+    space), but importing content from another editor which does not implement
+    this workaround, is not catered to, so you may loose some icons. It is
+    recommended to stick with the same editor, anyway, so you can ignore this
+    issue.
+</p>
 </section>
 
 <section id="license">
