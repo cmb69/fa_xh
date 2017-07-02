@@ -1,7 +1,7 @@
 Fa_XH – a CMSimple_XH plugin
 ======================================
 
-[![stable: 1.0](https://img.shields.io/badge/stable-1.0-green.svg)](https://github.com/cmb69/fa_xh/releases/tag/1.0)
+[![stable: 1.1](https://img.shields.io/badge/stable-1.1-green.svg)](https://github.com/cmb69/fa_xh/releases/tag/1.1)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 Copyright (c) 2017 Christoph M. Becker
