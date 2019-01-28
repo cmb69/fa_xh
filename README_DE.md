@@ -96,6 +96,21 @@ die als `<span>` ausgezeichnet sind.
 Icons, die in der HTML Quellcodeansicht mit dem üblicheren
 `<i>` eingefügt werden, werden entfernt!
 
+#### TinyMCE 5
+
+Sie benötigen eine aktuelle Version des TinyMCE 5 Plugins
+um das fontawesome Plugin verwenden zu können;
+dieses wird dann automatisch vom TinyMCE 5 geladen,
+falls das gewählte init dies unterstützt.
+
+Verwenden Sie `Tools` → `Font Awesome`,
+um das gewünschte Font Awesome Icon auszuwählen und einzufügen.
+
+Das fontawesome Plugin für TinyMCE 5 unterstützt nur Icons,
+die als `<span>` ausgezeichnet sind.
+Icons, die in der HTML Quellcodeansicht mit dem üblicheren
+`<i>` eingefügt werden, werden entfernt!
+
 #### CKEditor
 
 Sie benötigen zumindest CKEditor 2.2

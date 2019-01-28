@@ -92,6 +92,20 @@ marked up as `<span>`.
 Icons inserted in the HTML source code view with
 the more common `<i>` will be removed!
 
+#### TinyMCE 5
+
+You need a recent version of TinyMCE 5 to use the fontawesome plugin,
+in which case TinyMCE 5 loads the plugin automatically, if the
+chosen init supports it in its configuration.
+
+Use `Tools` → `Font Awesome` to select and insert
+the desired Font Awesome icon.
+
+The fontawesome plugin for TinyMCE 5 supports only icons
+marked up as `<span>`.
+Icons inserted in the HTML source code view with
+the more common `<i>` will be removed!
+
 #### CKEditor
 
 You need at least CKEditor 2.2 to use the fontawesome plugin,
