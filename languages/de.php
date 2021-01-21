@@ -10,5 +10,4 @@ $plugin_tx['fa']['syscheck_warning']="Warnung";
 $plugin_tx['fa']['syscheck_writable']="'%s' schreibbar ist";
 $plugin_tx['fa']['syscheck_xhversion']="die CMSimple_XH-Version ≥ %s";
 $plugin_tx['fa']['cf_require_auto']="Ob Font Awesome immer verfübar ist.";
-
-?>
+$plugin_tx['fa']['cf_select_fa-version']="Font Awesome Version";

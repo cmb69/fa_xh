@@ -42,13 +42,23 @@ class RequireCommand
 
     public function execute()
     {
-        global $hjs;
-    
+        global $hjs, $plugin_cf;
+        $fa_ver = $plugin_cf['fa']['select_fa-version'];
+
+        if ($fa_ver == '4') {
+            $fa_css_pth = 'v4/font-awesome.min.css';
+        }
+        if ($fa_ver == '5') {
+            $fa_css_pth = 'v5/all.min.css';
+        }
+
         if (self::$isEmitted) {
             return;
         }
         self::$isEmitted = true;
         $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder
-            . 'css/font-awesome.min.css">';
+            . 'css/'
+            . $fa_css_pth
+            . '">';
     }
 }
