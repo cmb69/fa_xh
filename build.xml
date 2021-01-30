@@ -47,14 +47,15 @@
         </move>
         <move todir="dist">
             <fileset dir="export">
+                <exclude name=".phive/**"/>
                 <exclude name="build.xml"/>
                 <exclude name="composer.*"/>
-                <exclude name="pax_global_header"/>
                 <exclude name="README.md"/>
                 <exclude name="phpcompatinfo.*"/>
                 <exclude name="editors/ckeditor/convert.php"/>
                 <exclude name="editors/ckeditor/UPDATING.md"/>
                 <exclude name="editors/tinymce4/fontawesome/UPDATING.md"/>
+                <exclude name="teplad.xml"/>
             </fileset>
         </move>
         <delete dir="export"/>
