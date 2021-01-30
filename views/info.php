@@ -2,7 +2,7 @@
 <img src="<?=$this->logo()?>" class="fa_logo" alt="<?=$this->text('alt_logo')?>">
 <p>Version: <?=$this->version()?></p>
 <p>
-    Copyright 2017 <a href="http://3-magi.net/" target="_blank">Christoph M.
+    Copyright 2017-2021 <a href="http://3-magi.net/" target="_blank">Christoph M.
     Becker</a>
 </p>
 <p>
