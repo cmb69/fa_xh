@@ -2,11 +2,6 @@
 
 <project name="Fa" default="help">
 
-    <fileset id="php-sources" dir=".">
-        <include name="index.php"/>
-        <include name="classes/*.php"/>
-    </fileset>
-
     <target name="help" description="lists available targets">
         <exec command="phing -l" outputProperty="help"/>
         <echo>${help}</echo>
@@ -22,9 +17,9 @@
     </target>
 
     <target name="mess" description="detects code flaws">
-        <phpmd>
-            <fileset refid="php-sources"/>
-         </phpmd>
+        <exec executable="phpmd" passthru="true" checkreturn="true">
+            <arg line="index.php,classes ansi codesize,unusedcode"/>
+        </exec>
     </target>
 
     <target name="compat" description="checks PHP requirements">
