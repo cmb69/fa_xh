@@ -22,6 +22,13 @@
         </exec>
     </target>
 
+    <target name="stan" description="run static analysis">
+        <exec executable="phpstan" passthru="true" checkreturn="true">
+            <arg value="--ansi"/>
+            <arg value="analyze"/>
+        </exec>
+    </target>
+
     <target name="compat" description="checks PHP requirements">
         <exec command="phpcompatinfo analyser:run --alias current" logoutput="true"/>
     </target>
@@ -76,8 +83,10 @@
                 <exclude name="help/template.htm"/>
                 <exclude name="build.xml"/>
                 <exclude name="composer.*"/>
+                <exclude name="constants.php"/>
                 <exclude name="README*.md"/>
                 <exclude name="phpcompatinfo.*"/>
+                <exclude name="phpstan.neon"/>
                 <exclude name="editors/ckeditor/convert.php"/>
                 <exclude name="editors/ckeditor/UPDATING.md"/>
                 <exclude name="editors/tinymce4/fontawesome/UPDATING.md"/>

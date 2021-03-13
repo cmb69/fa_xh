@@ -40,6 +40,9 @@ class RequireCommand
         $this->pluginFolder = "{$pth['folder']['plugins']}fa/";
     }
 
+    /**
+     * @return void
+     */
     public function execute()
     {
         global $hjs;

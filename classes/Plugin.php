@@ -25,6 +25,9 @@ class Plugin
 {
     const VERSION = '1.2';
 
+    /**
+     * @return void
+     */
     public function run()
     {
         global $plugin_cf;
@@ -33,7 +36,7 @@ class Plugin
             $command = new RequireCommand;
             $command->execute();
         }
-        if (XH_ADM) {
+        if (XH_ADM) { // @phpstan-ignore-line
             XH_registerStandardPluginMenuItems(false);
             if (XH_wantsPluginAdministration('fa')) {
                 $this->handlePluginAdministration();
@@ -41,9 +44,12 @@ class Plugin
         }
     }
 
+    /**
+     * @return void
+     */
     private function handlePluginAdministration()
     {
-        global $o, $action, $admin;
+        global $o, $admin;
 
         $o .= print_plugin_admin('off');
         switch ($admin) {
@@ -51,10 +57,13 @@ class Plugin
                 $o .= $this->handlePluginInfo();
                 break;
             default:
-                $o .= plugin_admin_common($action, $admin, 'fa');
+                $o .= plugin_admin_common();
         }
     }
 
+    /**
+     * @return string
+     */
     private function handlePluginInfo()
     {
         global $title, $pth;

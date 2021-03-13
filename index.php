@@ -19,6 +19,9 @@
  * along with Fa_XH.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+/**
+ * @return void
+ */
 function fa_require()
 {
     $command = new Fa\RequireCommand;
