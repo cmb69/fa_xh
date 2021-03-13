@@ -60,11 +60,13 @@ class Plugin
         global $title, $pth;
 
         $title = 'Fa';
-        $view = new View('info');
-        $view->logo = "{$pth['folder']['plugins']}fa/fa.png";
-        $view->version = self::VERSION;
         $checkService = new SystemCheckService;
-        $view->checks = $checkService->getChecks();
-        return $view;
+        $view = new View('info');
+        $view->data = array(
+            'logo' => "{$pth['folder']['plugins']}fa/fa.png",
+            'version' => self::VERSION,
+            'checks' => $checkService->getChecks(),
+        );
+        return (string) $view;
     }
 }
