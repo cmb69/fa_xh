@@ -57,7 +57,7 @@ class RequireCommand
                 $fa_css_pth = 'css/v5/all.min.css';
                 break;
             default:
-                $fa_css_pth = 'css/v4/font-awesome.min.css';
+                $fa_css_pth = 'css/font-awesome.min.css';
         }
         $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder . $fa_css_pth . '">';
         if ($plugin_cf['fa']['fontawesome_version'] === '5' && $plugin_cf['fa']['fontawesome_shim']) {
