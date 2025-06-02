@@ -76,6 +76,8 @@ class Plugin
             'version' => self::VERSION,
             'checks' => $checkService->getChecks(),
         );
-        return (string) $view;
+        ob_start();
+        $view->render();
+        return (string) ob_get_clean();
     }
 }

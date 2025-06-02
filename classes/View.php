@@ -70,16 +70,6 @@ class View
     }
 
     /**
-     * @return string
-     */
-    public function __toString()
-    {
-        ob_start();
-        $this->render();
-        return (string) ob_get_clean();
-    }
-
-    /**
      * @param string $key
      * @return string
      */
