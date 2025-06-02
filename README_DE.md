@@ -14,7 +14,7 @@ Wenn alle Komponenten Fa_XH nutzen, dann verwenden alle die gleiche Version.
 Weiterhin liefert Fa_XH Editor-Plugins aus,
 um die Verwendung von Font Awesome Icons im Content zu vereinfachen,
 wenn dies gewünscht wird.
-Zur Zeit werden TinyMCE 4 und CKEditor unterstützt.
+Zur Zeit werden TinyMCE 4/5 und CKEditor unterstützt.
 
 ## Inhaltsverzeichnis
 
