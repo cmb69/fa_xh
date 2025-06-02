@@ -1,5 +1,7 @@
 # Fa_XH
 
+<img src="https://raw.githubusercontent.com/cmb69/fa_xh/master/fa.png" alt="Festung" align="right">
+
 Fa_XH stellt CMSimple_XH Templates, Plugins und dem Content
 [Font Awesome](https://fontawesome.com/) zur Verfügung.
 Das Plugin wurde aus ähnlichen Gründen wie das

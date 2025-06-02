@@ -1,5 +1,7 @@
 # Fa_XH
 
+<img src="https://raw.githubusercontent.com/cmb69/fa_xh/master/fa.png" alt="Fort" align="right">
+
 Fa_XH provides [Font Awesome](https://fontawesome.com/)
 for CMSimple_XH templates, plugins and content.
 The plugin has been created for similar reasons as the
