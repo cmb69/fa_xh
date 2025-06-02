@@ -71,6 +71,19 @@ class View
 
     /**
      * @param string $key
+     * @return string
+     */
+    public function plain($key)
+    {
+        global $plugin_tx;
+
+        $args = func_get_args();
+        array_shift($args);
+        return vsprintf($plugin_tx['fa'][$key], $args);
+    }
+
+    /**
+     * @param string $key
      * @param int $count
      * @return string
      */

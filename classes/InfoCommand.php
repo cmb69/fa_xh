@@ -28,19 +28,13 @@ class InfoCommand
      */
     private $pluginFolder;
 
-    /**
-     * @var array<string,string>
-     */
-    private $lang;
-
     private View $view;
 
     public function __construct(View $view)
     {
-        global $pth, $plugin_tx;
+        global $pth;
 
         $this->pluginFolder = "{$pth['folder']['plugins']}fa";
-        $this->lang = $plugin_tx['fa'];
         $this->view = $view;
     }
 
@@ -76,8 +70,8 @@ class InfoCommand
     private function checkPhpVersion($version)
     {
         $state = $this->compareVersions(PHP_VERSION, $version, 'ge') ? 'success' : 'fail';
-        $label = sprintf($this->lang['syscheck_phpversion'], $version);
-        $stateLabel = $this->lang["syscheck_$state"];
+        $label = $this->view->plain("syscheck_phpversion", $version);
+        $stateLabel = $this->view->plain("syscheck_$state");
         return (object) compact('state', 'label', 'stateLabel');
     }
 
@@ -88,8 +82,8 @@ class InfoCommand
     private function checkXhVersion($version)
     {
         $state = $this->compareVersions(CMSIMPLE_XH_VERSION, "CMSimple_XH $version", 'ge') ? 'success' : 'fail';
-        $label = sprintf($this->lang['syscheck_xhversion'], $version);
-        $stateLabel = $this->lang["syscheck_$state"];
+        $label = $this->view->plain("syscheck_xhversion", $version);
+        $stateLabel = $this->view->plain("syscheck_$state");
         return (object) compact('state', 'label', 'stateLabel');
     }
 
@@ -100,8 +94,8 @@ class InfoCommand
     private function checkWritability($folder)
     {
         $state = $this->isWritable($folder) ? 'success' : 'warning';
-        $label = sprintf($this->lang['syscheck_writable'], $folder);
-        $stateLabel = $this->lang["syscheck_$state"];
+        $label = $this->view->plain("syscheck_writable", $folder);
+        $stateLabel = $this->view->plain("syscheck_$state");
         return (object) compact('state', 'label', 'stateLabel');
     }
 
