@@ -35,13 +35,13 @@ class InfoCommand
 
     private View $view;
 
-    public function __construct()
+    public function __construct(View $view)
     {
         global $pth, $plugin_tx;
 
         $this->pluginFolder = "{$pth['folder']['plugins']}fa";
         $this->lang = $plugin_tx['fa'];
-        $this->view = new View();
+        $this->view = $view;
     }
 
     public function __invoke(): string

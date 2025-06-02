@@ -36,6 +36,11 @@ class Plugin
 
     public static function infoCommand(): InfoCommand
     {
-        return new InfoCommand();
+        return new InfoCommand(self::view());
+    }
+
+    private static function view(): View
+    {
+        return new View();
     }
 }
