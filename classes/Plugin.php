@@ -23,7 +23,7 @@ namespace Fa;
 
 class Plugin
 {
-    public const VERSION = '1.3';
+    public const VERSION = '1.4-dev';
 
     public static function requireCommand(): RequireCommand
     {
