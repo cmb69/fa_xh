@@ -36,25 +36,15 @@ class View
         $this->text = $text;
     }
 
-    /**
-     * @param string $key
-     * @return string
-     */
-    public function text($key)
+    /** @param scalar $args */
+    public function text(string $key, ...$args): string
     {
-        $args = func_get_args();
-        array_shift($args);
         return $this->esc(vsprintf($this->text[$key], $args));
     }
 
-    /**
-     * @param string $key
-     * @return string
-     */
-    public function plain($key)
+    /** @param scalar $args */
+    public function plain(string $key, ...$args): string
     {
-        $args = func_get_args();
-        array_shift($args);
         return vsprintf($this->text[$key], $args);
     }
 
