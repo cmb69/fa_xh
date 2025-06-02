@@ -58,12 +58,9 @@ class View
         return (string) ob_get_clean();
     }
 
-    /**
-     * @param mixed $value
-     * @return mixed
-     */
-    public function esc($value)
+    /** @param scalar $value */
+    public function esc($value): string
     {
-        return XH_hsc($value);
+        return XH_hsc((string) $value);
     }
 }
