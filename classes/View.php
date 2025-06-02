@@ -72,7 +72,7 @@ class View
      * @param mixed $value
      * @return mixed
      */
-    protected function escape($value)
+    protected function esc($value)
     {
         return XH_hsc($value);
     }
