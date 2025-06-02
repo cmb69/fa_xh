@@ -72,13 +72,16 @@
         </jsMin>
         <move todir="dist">
             <fileset dir="export">
+                <exclude name=".github/**"/>
                 <exclude name=".phive/**"/>
                 <exclude name="help/template.htm"/>
+                <exclude name="tests/**"/>
+                <exclude name="README*.md"/>
                 <exclude name="build.xml"/>
                 <exclude name="composer.*"/>
                 <exclude name="constants.php"/>
-                <exclude name="README*.md"/>
                 <exclude name="phpstan.neon"/>
+                <exclude name="phpunit.xml"/>
                 <exclude name="editors/ckeditor/convert.php"/>
                 <exclude name="editors/ckeditor/UPDATING.md"/>
                 <exclude name="editors/tinymce4/fontawesome/UPDATING.md"/>
