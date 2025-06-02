@@ -41,7 +41,7 @@ class Plugin
 
     private static function view(): View
     {
-        global $pth;
-        return new View($pth["folder"]["plugins"] . "fa/views/");
+        global $pth, $plugin_tx;
+        return new View($pth["folder"]["plugins"] . "fa/views/", $plugin_tx["fa"]);
     }
 }

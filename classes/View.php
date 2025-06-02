@@ -26,14 +26,19 @@ class View
     /** @var string */
     private $templateFolder;
 
+    /** @var array<string,string> */
+    private $text;
+
     /**
      * @var array<string,mixed>
      */
     public $data = array();
 
-    public function __construct(string $templateFolder)
+    /** @param array<string,string> $text */
+    public function __construct(string $templateFolder, array $text)
     {
         $this->templateFolder = $templateFolder;
+        $this->text = $text;
     }
 
     /**
@@ -70,11 +75,9 @@ class View
      */
     protected function text($key)
     {
-        global $plugin_tx;
-
         $args = func_get_args();
         array_shift($args);
-        return $this->escape(vsprintf($plugin_tx['fa'][$key], $args));
+        return $this->escape(vsprintf($this->text[$key], $args));
     }
 
     /**
@@ -83,11 +86,9 @@ class View
      */
     public function plain($key)
     {
-        global $plugin_tx;
-
         $args = func_get_args();
         array_shift($args);
-        return vsprintf($plugin_tx['fa'][$key], $args);
+        return vsprintf($this->text[$key], $args);
     }
 
     /**
@@ -97,8 +98,6 @@ class View
      */
     protected function plural($key, $count)
     {
-        global $plugin_tx;
-
         if ($count == 0) {
             $key .= '_0';
         } else {
@@ -106,7 +105,7 @@ class View
         }
         $args = func_get_args();
         array_shift($args);
-        return $this->escape(vsprintf($plugin_tx['fa'][$key], $args));
+        return $this->escape(vsprintf($this->text[$key], $args));
     }
 
     public function render(string $template): string
