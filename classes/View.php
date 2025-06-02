@@ -78,7 +78,7 @@ class View
         $this->render();
         return (string) ob_get_clean();
     }
-    
+
     /**
      * @param string $key
      * @return string

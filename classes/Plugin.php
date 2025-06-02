@@ -33,7 +33,7 @@ class Plugin
         global $plugin_cf;
 
         if ($plugin_cf['fa']['require_auto']) {
-            $command = new RequireCommand;
+            $command = new RequireCommand();
             $command->execute();
         }
         if (XH_ADM) { // @phpstan-ignore-line
@@ -69,7 +69,7 @@ class Plugin
         global $title, $pth;
 
         $title = 'Fa';
-        $checkService = new SystemCheckService;
+        $checkService = new SystemCheckService();
         $view = new View('info');
         $view->data = array(
             'logo' => "{$pth['folder']['plugins']}fa/fa.png",

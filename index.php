@@ -24,10 +24,10 @@
  */
 function fa_require()
 {
-    $command = new Fa\RequireCommand;
+    $command = new Fa\RequireCommand();
     $command->execute();
 }
 
-$temp = new Fa\Plugin;
+$temp = new Fa\Plugin();
 $temp->run();
 $temp = null;
