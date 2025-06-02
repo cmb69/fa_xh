@@ -122,10 +122,6 @@ class View
      */
     protected function escape($value)
     {
-        if ($value instanceof HtmlString) {
-            return $value;
-        } else {
-            return XH_hsc($value);
-        }
+        return XH_hsc($value);
     }
 }
