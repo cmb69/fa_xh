@@ -111,8 +111,7 @@
                 <include name="css/stylesheet.css"/>
             </fileset>
         </delete>
-        <zip destfile="Fa_XH-1.4-dev-PATCH.zip" basedir="dist"
-             includeemptydirs="false"/>
+        <zip destfile="Fa_XH-1.4-dev-update-from-1.x.zip" basedir="dist" includeemptydirs="false"/>
         <delete dir="patchee" quiet="true"/>
         <delete dir="current" quiet="true"/>
         <delete dir="dist" quiet="true"/>
