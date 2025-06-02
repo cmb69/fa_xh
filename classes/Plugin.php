@@ -24,4 +24,14 @@ namespace Fa;
 class Plugin
 {
     const VERSION = '1.3';
+
+    public static function requireCommand(): RequireCommand
+    {
+        return new RequireCommand();
+    }
+
+    public static function infoCommand(): InfoCommand
+    {
+        return new InfoCommand();
+    }
 }

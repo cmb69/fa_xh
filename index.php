@@ -19,15 +19,14 @@
  * along with Fa_XH.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-use Fa\RequireCommand;
+use Fa\Plugin;
 
 /**
  * @var array<string,array<string,string>> $plugin_cf
  */
 
 if ($plugin_cf["fa"]["require_auto"]) {
-    $command = new RequireCommand();
-    $command->execute();
+    Plugin::requireCommand()->execute();
 }
 
 /**
@@ -35,6 +34,5 @@ if ($plugin_cf["fa"]["require_auto"]) {
  */
 function fa_require()
 {
-    $command = new RequireCommand();
-    $command->execute();
+    Plugin::requireCommand()->execute();
 }

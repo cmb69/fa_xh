@@ -19,7 +19,7 @@
  * along with Fa_XH.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-use Fa\InfoCommand;
+use Fa\Plugin;
 
 XH_registerStandardPluginMenuItems(false);
 if (XH_wantsPluginAdministration("fa")) {
@@ -27,7 +27,7 @@ if (XH_wantsPluginAdministration("fa")) {
     switch ($admin) {
         case '':
             $title = "Fa";
-            $o .= (new InfoCommand())();
+            $o .= Plugin::infoCommand()();
             break;
         default:
             $o .= plugin_admin_common();
