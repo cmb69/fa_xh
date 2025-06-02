@@ -24,17 +24,4 @@ namespace Fa;
 class Plugin
 {
     const VERSION = '1.3';
-
-    /**
-     * @return void
-     */
-    public function run()
-    {
-        global $plugin_cf;
-
-        if ($plugin_cf['fa']['require_auto']) {
-            $command = new RequireCommand();
-            $command->execute();
-        }
-    }
 }
