@@ -52,15 +52,6 @@ class View
 
     /**
      * @param string $name
-     * @return bool
-     */
-    public function __isset($name)
-    {
-        return isset($this->data[$name]);
-    }
-
-    /**
-     * @param string $name
      * @param mixed[] $args
      * @return string
      */
@@ -89,23 +80,6 @@ class View
         $args = func_get_args();
         array_shift($args);
         return vsprintf($this->text[$key], $args);
-    }
-
-    /**
-     * @param string $key
-     * @param int $count
-     * @return string
-     */
-    protected function plural($key, $count)
-    {
-        if ($count == 0) {
-            $key .= '_0';
-        } else {
-            $key .= XH_numberSuffix($count);
-        }
-        $args = func_get_args();
-        array_shift($args);
-        return $this->escape(vsprintf($this->text[$key], $args));
     }
 
     public function render(string $template): string
