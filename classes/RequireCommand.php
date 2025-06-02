@@ -32,7 +32,7 @@ class RequireCommand
     private $pluginFolder;
 
     /** @var array<string,string> */
-    private array $conf;
+    private $conf;
 
     /** @param array<string,string> $conf */
     public function __construct(string $pluginFolder, array $conf)

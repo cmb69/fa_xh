@@ -26,7 +26,8 @@ class InfoCommand
     /** @var string */
     private $pluginFolder;
 
-    private View $view;
+    /** @var View */
+    private $view;
 
     public function __construct(string $pluginFolder, View $view)
     {
