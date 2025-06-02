@@ -62,7 +62,7 @@ class RequireCommand
         }
         $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder . $fa_css_pth . '">';
         if ($this->conf['fontawesome_version'] === '5' && $this->conf['fontawesome_shim']) {
-            $hjs .= '<link rel="stylesheet" type"text/css" href="' . $this->pluginFolder . 'css/v5/v4-shims.min.css">';
+            $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder . 'css/v5/v4-shims.min.css">';
         }
     }
 }
