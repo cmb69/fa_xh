@@ -32,7 +32,7 @@ Currently, TinyMCE 4 and CKEditor are supported.
 ## Requirements
 
 Fa\_XH is a plugin for CMSimple\_XH ≥ 1.7.0.
-It requires PHP ≥ 5.3.0.
+It requires PHP ≥ 7.1.0.
 
 ## Download
 
