@@ -18,10 +18,22 @@
         </exec>
     </target>
 
+    <target name="test" description="runs all developer tests">
+        <exec executable="phpunit" passthru="true" checkreturn="true"/>
+    </target>
+
     <target name="stan" description="run static analysis">
         <exec executable="phpstan" passthru="true" checkreturn="true">
             <arg value="--ansi"/>
             <arg value="analyze"/>
+        </exec>
+    </target>
+
+    <target name="check" description="runs all checks" depends="sniff,stan,test"/>
+
+    <target name="coverage" description="generates coverage report">
+        <exec executable="phpunit" passthru="true" checkreturn="true">
+        <arg line="--coverage-html coverage"/>
         </exec>
     </target>
 
