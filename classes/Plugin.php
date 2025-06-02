@@ -36,39 +36,5 @@ class Plugin
             $command = new RequireCommand();
             $command->execute();
         }
-        if (XH_ADM) { // @phpstan-ignore-line
-            XH_registerStandardPluginMenuItems(false);
-            if (XH_wantsPluginAdministration('fa')) {
-                $this->handlePluginAdministration();
-            }
-        }
-    }
-
-    /**
-     * @return void
-     */
-    private function handlePluginAdministration()
-    {
-        global $o, $admin;
-
-        $o .= print_plugin_admin('off');
-        switch ($admin) {
-            case '':
-                $o .= $this->handlePluginInfo();
-                break;
-            default:
-                $o .= plugin_admin_common();
-        }
-    }
-
-    /**
-     * @return string
-     */
-    private function handlePluginInfo()
-    {
-        global $title;
-
-        $title = 'Fa';
-        return (new InfoCommand())();
     }
 }
