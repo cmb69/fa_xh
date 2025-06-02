@@ -101,15 +101,14 @@ class View
         return $this->escape(vsprintf($plugin_tx['fa'][$key], $args));
     }
 
-    /**
-     * @return void
-     */
-    public function render()
+    public function render(): string
     {
         global $pth;
 
+        ob_start();
         echo "<!-- {$this->template} -->", PHP_EOL;
         include "{$pth['folder']['plugins']}fa/views/{$this->template}.php";
+        return (string) ob_get_clean();
     }
 
     /**
