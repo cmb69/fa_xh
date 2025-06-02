@@ -23,26 +23,21 @@ namespace Fa;
 
 class InfoCommand
 {
-    /**
-     * @var string
-     */
+    /** @var string */
     private $pluginFolder;
 
     private View $view;
 
-    public function __construct(View $view)
+    public function __construct(string $pluginFolder, View $view)
     {
-        global $pth;
-
-        $this->pluginFolder = "{$pth['folder']['plugins']}fa";
+        $this->pluginFolder = $pluginFolder;
         $this->view = $view;
     }
 
     public function __invoke(): string
     {
-        global $pth;
         $this->view->data = array(
-            'logo' => "{$pth['folder']['plugins']}fa/fa.png",
+            'logo' => "{$this->pluginFolder}fa.png",
             'version' => Plugin::VERSION,
             'checks' => $this->getChecks(),
         );
@@ -57,9 +52,9 @@ class InfoCommand
         return array(
             $this->checkPhpVersion('7.1.0'),
             $this->checkXhVersion('1.7.0'),
-            $this->checkWritability("$this->pluginFolder/css/"),
-            $this->checkWritability("$this->pluginFolder/config/"),
-            $this->checkWritability("$this->pluginFolder/languages/")
+            $this->checkWritability($this->pluginFolder . "css/"),
+            $this->checkWritability($this->pluginFolder . "config/"),
+            $this->checkWritability($this->pluginFolder . "languages/")
         );
     }
 

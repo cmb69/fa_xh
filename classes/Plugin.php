@@ -36,7 +36,8 @@ class Plugin
 
     public static function infoCommand(): InfoCommand
     {
-        return new InfoCommand(self::view());
+        global $pth;
+        return new InfoCommand($pth["folder"]["plugins"] . "fa/", self::view());
     }
 
     private static function view(): View
