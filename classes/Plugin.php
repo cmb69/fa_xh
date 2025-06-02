@@ -27,7 +27,11 @@ class Plugin
 
     public static function requireCommand(): RequireCommand
     {
-        return new RequireCommand();
+        global $pth, $plugin_cf;
+        return new RequireCommand(
+            $pth["folder"]["plugins"] . "fa/",
+            $plugin_cf["fa"]
+        );
     }
 
     public static function infoCommand(): InfoCommand

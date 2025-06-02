@@ -28,16 +28,17 @@ class RequireCommand
      */
     private static $isEmitted = false;
 
-    /**
-     * @var string
-     */
+    /** @var string */
     private $pluginFolder;
 
-    public function __construct()
-    {
-        global $pth;
+    /** @var array<string,string> */
+    private array $conf;
 
-        $this->pluginFolder = "{$pth['folder']['plugins']}fa/";
+    /** @param array<string,string> $conf */
+    public function __construct(string $pluginFolder, array $conf)
+    {
+        $this->pluginFolder = $pluginFolder;
+        $this->conf = $conf;
     }
 
     /**
@@ -45,14 +46,14 @@ class RequireCommand
      */
     public function execute()
     {
-        global $hjs, $plugin_cf;
+        global $hjs;
 
         if (self::$isEmitted) {
             return;
         }
         self::$isEmitted = true;
 
-        switch ($plugin_cf['fa']['fontawesome_version']) {
+        switch ($this->conf['fontawesome_version']) {
             case '5':
                 $fa_css_pth = 'css/v5/all.min.css';
                 break;
@@ -60,7 +61,7 @@ class RequireCommand
                 $fa_css_pth = 'css/font-awesome.min.css';
         }
         $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder . $fa_css_pth . '">';
-        if ($plugin_cf['fa']['fontawesome_version'] === '5' && $plugin_cf['fa']['fontawesome_shim']) {
+        if ($this->conf['fontawesome_version'] === '5' && $this->conf['fontawesome_shim']) {
             $hjs .= '<link rel="stylesheet" type"text/css" href="' . $this->pluginFolder . 'css/v5/v4-shims.min.css">';
         }
     }
