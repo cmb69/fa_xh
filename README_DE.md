@@ -1,6 +1,6 @@
-# Fa\_XH
+# Fa_XH
 
-Fa\_XH stellt CMSimple\_XH Templates, Plugins und dem Content
+Fa_XH stellt CMSimple_XH Templates, Plugins und dem Content
 [Font Awesome](https://fontawesome.com/) zur Verfügung.
 Das Plugin wurde aus ähnlichen Gründen wie das
 [jQuery4CMSimple](https://wiki.cmsimple-xh.org/doku.php/extend:jquery4cmsimple)
@@ -9,9 +9,9 @@ nämlich um Konflikte zu vermeiden,
 wenn Font Awesome von mehreren Komponenten verwendet wird.
 Beispielsweise kann ein Template eine bestimmte Font Awesome Version enthalten,
 aber ein Plugin eine andere.
-Wenn alle Komponenten Fa\_XH nutzen, dann verwenden alle die gleiche Version.
+Wenn alle Komponenten Fa_XH nutzen, dann verwenden alle die gleiche Version.
 
-Weiterhin liefert Fa\_XH Editor-Plugins aus,
+Weiterhin liefert Fa_XH Editor-Plugins aus,
 um die Verwendung von Font Awesome Icons im Content zu vereinfachen,
 wenn dies gewünscht wird.
 Zur Zeit werden TinyMCE 4 und CKEditor unterstützt.
@@ -34,7 +34,7 @@ Zur Zeit werden TinyMCE 4 und CKEditor unterstützt.
 
 ## Voraussetzungen
 
-Fa\_XH ist ein Plugin für CMSimple\_XH ≥ 1.7.0.
+Fa_XH ist ein Plugin für CMSimple_XH ≥ 1.7.0.
 Es benötigt PHP ≥ 7.1.0.
 
 ## Download
@@ -44,14 +44,14 @@ kann von Github herunter geladen werden.
 
 ## Installation
 
-Die Installation erfolgt wie bei vielen anderen CMSimple\_XH-Plugins auch.
+Die Installation erfolgt wie bei vielen anderen CMSimple_XH-Plugins auch.
 Im [CMSimple_XH Wiki](https://wiki.cmsimple-xh.org/doku.php/de:installation)
 finden sie ausführliche Hinweise.
 
 1.  Sichern Sie die Daten auf Ihrem Server.
 2.  Entpacken Sie die ZIP-Datei auf Ihrem Computer.
 3.  Laden Sie das gesamte Verzeichnis `fa/` auf Ihren Server in
-    das `plugins/` Verzeichnis von CMSimple\_XH hoch.
+    das `plugins/` Verzeichnis von CMSimple_XH hoch.
 4.  Vergeben Sie Schreibrechte für die Unterverzeichnisse `config/`, `css/`,
     und `languages/`.
 5.  Navigieren Sie zu `Plugins` → `Fa` im Administrationsbereich,
@@ -63,7 +63,7 @@ Die Konfiguration des Plugins erfolgt wie bei vielen anderen
 CMSimple_XH-Plugins auch im Administrationsbereich der Website.
 Wählen Sie `Plugins` → `Fa`.
 
-Sie können die Original-Einstellungen von Fa\_XH unter `Konfiguration` ändern.
+Sie können die Original-Einstellungen von Fa_XH unter `Konfiguration` ändern.
 Beim Überfahren der Hilfe-Icons mit der Maus
 werden Hinweise zu den Einstellungen angezeigt.
 
@@ -72,7 +72,7 @@ Sie können die Zeichenketten in Ihre eigene Sprache übersetzen,
 falls keine entsprechende Sprachdatei zur Verfügung steht,
 oder sie entsprechend Ihren Anforderungen anpassen.
 
-Das Aussehen von Fa\_XH kann unter `Stylesheet` angepasst werden.
+Das Aussehen von Fa_XH kann unter `Stylesheet` angepasst werden.
 
 ## Verwendung
 
@@ -130,7 +130,7 @@ Icons, die in der HTML Quellcodeansicht mit dem üblicheren
 ### Template-Designer
 
 Wenn ein Template Font Awesome verwendet,
-sollten Sie dokumentieren, dass Fa\_XH installiert sein muss,
+sollten Sie dokumentieren, dass Fa_XH installiert sein muss,
 und Sie müssen Font Awesome früh im Template
 (das heißt vor `<?php echo head()?>`) erfodern.
 
@@ -155,7 +155,7 @@ if (function_exists('fa_require')) {
 ### Plugin-Entwickler
 
 Wenn ein Plugin Font Awesome verwendet,
-sollten Sie dokumentieren, dass Fa\_XH installiert sein muss,
+sollten Sie dokumentieren, dass Fa_XH installiert sein muss,
 und Sie müssen Font Awesome erfordern
 bevor Sie es tatsächlich verwenden.
 Es ist nicht garantiert,
@@ -178,7 +178,7 @@ können Sie kürzer schreiben:
 <?php (new Fa\RequireCommand)->execute()?>
 ````
 
-Um zu prüfen, ob Fa\_XH installiert ist:
+Um zu prüfen, ob Fa_XH installiert ist:
 
 ````
 <?php $fa_installed = class_exists('Fa\\RequireCommand')?>
@@ -215,18 +215,18 @@ oder im [CMSimple_XH Forum](https://cmsimpleforum.com/).
 
 ## Lizenz
 
-Fa\_XH ist freie Software. Sie können es unter den Bedingungen
+Fa_XH ist freie Software. Sie können es unter den Bedingungen
 der GNU General Public License, wie von der Free Software Foundation
 veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß
 Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
 
-Die Veröffentlichung von Fa\_XH erfolgt in der Hoffnung, daß es
+Die Veröffentlichung von Fa_XH erfolgt in der Hoffnung, daß es
 Ihnen von Nutzen sein wird, aber *ohne irgendeine Garantie*, sogar ohne
 die implizite Garantie der *Marktreife* oder der *Verwendbarkeit für einen
 bestimmten Zweck*. Details finden Sie in der GNU General Public License.
 
 Sie sollten ein Exemplar der GNU General Public License zusammen mit
-Fa\_XH erhalten haben. Falls nicht, siehe
+Fa_XH erhalten haben. Falls nicht, siehe
 <https://www.gnu.org/licenses/>.
 
 
@@ -249,10 +249,10 @@ Dieses Plugin enthält eine aktualisierte Version des
 von Michael Janea.
 Danke für die Veröffentlichung unter GPL.
 
-Fa\_XH wurde von *frase* angeregt. Vielen Dank!
+Fa_XH wurde von *frase* angeregt. Vielen Dank!
 
 Vielen Dank an die Gemeinschaft im
-[CMSimple\_XH-Forum](https://www.cmsimpleforum.com/)
+[CMSimple_XH-Forum](https://www.cmsimpleforum.com/)
 für Tipps, Anregungen und das Testen.
 Besonders möchte ich *lck* und *frase* für frühes Testen und Feedback danken,
 *manu* für Hilfe bei dem TinyMCE 4 Plugin,
@@ -260,5 +260,5 @@ und *Holger* für Hilfe bei dem CKEditor Plugin.
 
 Zu guter Letzt vielen Dank an
 [Peter Harteg](https://harteg.dk/), den „Vater“ von CMSimple,
-und allen Entwicklern von [CMSimple\_XH](https://www.cmsimple-xh.org/),
+und allen Entwicklern von [CMSimple_XH](https://www.cmsimple-xh.org/),
 ohne die dieses fantastische CMS nicht existieren würde.
