@@ -64,6 +64,33 @@ class RequireCommandTest extends TestCase
         );
     }
 
+
+    public function testRendersV6Link(): void
+    {
+        global $hjs;
+        $hjs = "";
+        $this->conf["fontawesome_version"] = "6";
+        $this->sut()->execute();
+        $this->assertSame(
+            '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">',
+            $hjs
+        );
+    }
+
+    public function testRendersV6LinkWithShim(): void
+    {
+        global $hjs;
+        $hjs = "";
+        $this->conf["fontawesome_version"] = "6";
+        $this->conf["fontawesome_shim"] = "true";
+        $this->sut()->execute();
+        $this->assertSame(
+            '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">'
+            . '<link rel="stylesheet" type="text/css" href="./css/v6/v4-shims.min.css">',
+            $hjs
+        );
+    }
+
     public function testRendersOnlyOnce(): void
     {
         global $hjs;
