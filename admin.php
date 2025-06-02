@@ -21,6 +21,11 @@
 
 use Fa\Plugin;
 
+if (!defined("CMSIMPLE_XH_VERSION")) {
+    http_response_code(403);
+    exit;
+}
+
 /**
  * @var string $admin
  * @var string $o
