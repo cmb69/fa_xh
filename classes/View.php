@@ -23,10 +23,18 @@ namespace Fa;
 
 class View
 {
+    /** @var string */
+    private $templateFolder;
+
     /**
      * @var array<string,mixed>
      */
     public $data = array();
+
+    public function __construct(string $templateFolder)
+    {
+        $this->templateFolder = $templateFolder;
+    }
 
     /**
      * @param string $name
@@ -103,11 +111,9 @@ class View
 
     public function render(string $template): string
     {
-        global $pth;
-
         ob_start();
         echo "<!-- {$template} -->", PHP_EOL;
-        include "{$pth['folder']['plugins']}fa/views/{$template}.php";
+        include "{$this->templateFolder}{$template}.php";
         return (string) ob_get_clean();
     }
 
