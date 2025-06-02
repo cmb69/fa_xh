@@ -87,6 +87,10 @@
       For instance, a template may include a certain Font Awesome version,
       but a plugin another one.
       If all components rely on Fa_XH, all will use the same version.
+      <br/><br/>
+      Furthermore Fa_XH delivers editor plugins to ease the use
+      of Font Awesome icons in the content, if this is desired.
+      Currently, TinyMCE 4/5 and CKEditor are supported.
     </description>
     <!-- Beschreibung des Plugins, ca. 200 Zeichen, es können <br/>, <ol></ol>, <ul></ul>, <li></li>, <b></b>, <i></i> genutzt werden. -->
     <description lang="de">
@@ -96,6 +100,11 @@
       Beispielsweise kann ein Template eine bestimmte Font Awesome Version enthalten,
       aber ein Plugin eine andere.
       Wenn alle Komponenten Fa_XH nutzen, dann verwenden alle die gleiche Version.
+      <br/><br/>
+      Weiterhin liefert Fa_XH Editor-Plugins aus,
+      um die Verwendung von Font Awesome Icons im Content zu vereinfachen,
+      wenn dies gewünscht wird.
+      Zur Zeit werden TinyMCE 4/5 und CKEditor unterstützt.
     </description>
     <!-- additional languages are possible, i.e. da, fr, pl, ... -->
     <!-- The use of this language is limited by the website where the repository is hosted. -->
