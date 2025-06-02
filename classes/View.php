@@ -24,22 +24,9 @@ namespace Fa;
 class View
 {
     /**
-     * @var string
-     */
-    private $template;
-
-    /**
      * @var array<string,mixed>
      */
     public $data = array();
-
-    /**
-     * @param string $template
-     */
-    public function __construct($template)
-    {
-        $this->template = $template;
-    }
 
     /**
      * @param string $name
@@ -101,13 +88,13 @@ class View
         return $this->escape(vsprintf($plugin_tx['fa'][$key], $args));
     }
 
-    public function render(): string
+    public function render(string $template): string
     {
         global $pth;
 
         ob_start();
-        echo "<!-- {$this->template} -->", PHP_EOL;
-        include "{$pth['folder']['plugins']}fa/views/{$this->template}.php";
+        echo "<!-- {$template} -->", PHP_EOL;
+        include "{$pth['folder']['plugins']}fa/views/{$template}.php";
         return (string) ob_get_clean();
     }
 
