@@ -21,11 +21,16 @@
 
 use Fa\Plugin;
 
+/**
+ * @var string $admin
+ * @var string $o
+ */
+
 XH_registerStandardPluginMenuItems(false);
 if (XH_wantsPluginAdministration("fa")) {
     $o .= print_plugin_admin("off");
     switch ($admin) {
-        case '':
+        case "":
             $title = "Fa";
             $o .= Plugin::infoCommand()();
             break;

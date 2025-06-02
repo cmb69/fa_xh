@@ -1,7 +1,8 @@
 parameters:
   level: 8
   paths:
-    - classes/
+    - classes
+    - admin.php
     - index.php
   bootstrapFiles:
     - constants.php
