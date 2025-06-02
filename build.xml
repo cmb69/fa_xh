@@ -16,21 +16,11 @@
         </exec>
     </target>
 
-    <target name="mess" description="detects code flaws">
-        <exec executable="phpmd" passthru="true" checkreturn="true">
-            <arg line="index.php,classes ansi codesize,unusedcode"/>
-        </exec>
-    </target>
-
     <target name="stan" description="run static analysis">
         <exec executable="phpstan" passthru="true" checkreturn="true">
             <arg value="--ansi"/>
             <arg value="analyze"/>
         </exec>
-    </target>
-
-    <target name="compat" description="checks PHP requirements">
-        <exec command="phpcompatinfo analyser:run --alias current" logoutput="true"/>
     </target>
 
     <target name="gen-help" description="builds help.htm from README.md">
@@ -85,7 +75,6 @@
                 <exclude name="composer.*"/>
                 <exclude name="constants.php"/>
                 <exclude name="README*.md"/>
-                <exclude name="phpcompatinfo.*"/>
                 <exclude name="phpstan.neon"/>
                 <exclude name="editors/ckeditor/convert.php"/>
                 <exclude name="editors/ckeditor/UPDATING.md"/>
