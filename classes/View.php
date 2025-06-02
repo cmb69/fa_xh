@@ -29,35 +29,11 @@ class View
     /** @var array<string,string> */
     private $text;
 
-    /**
-     * @var array<string,mixed>
-     */
-    public $data = array();
-
     /** @param array<string,string> $text */
     public function __construct(string $templateFolder, array $text)
     {
         $this->templateFolder = $templateFolder;
         $this->text = $text;
-    }
-
-    /**
-     * @param string $name
-     * @return string
-     */
-    public function __get($name)
-    {
-        return $this->data[$name];
-    }
-
-    /**
-     * @param string $name
-     * @param mixed[] $args
-     * @return string
-     */
-    public function __call($name, array $args)
-    {
-        return $this->escape($this->data[$name]);
     }
 
     /**
@@ -82,8 +58,10 @@ class View
         return vsprintf($this->text[$key], $args);
     }
 
-    public function render(string $template): string
+    /** @param array<string,mixed> $_data */
+    public function render(string $template, array $_data): string
     {
+        extract($_data);
         ob_start();
         echo "<!-- {$template} -->", PHP_EOL;
         include "{$this->templateFolder}{$template}.php";

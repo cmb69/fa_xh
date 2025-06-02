@@ -37,12 +37,11 @@ class InfoCommand
 
     public function __invoke(): string
     {
-        $this->view->data = array(
-            'logo' => "{$this->pluginFolder}fa.png",
-            'version' => Plugin::VERSION,
-            'checks' => $this->getChecks(),
-        );
-        return $this->view->render("info");
+        return $this->view->render("info", [
+            "logo" => $this->pluginFolder . "fa.png",
+            "version" => Plugin::VERSION,
+            "checks" => $this->getChecks(),
+        ]);
     }
 
     /**
