@@ -66,16 +66,9 @@ class Plugin
      */
     private function handlePluginInfo()
     {
-        global $title, $pth;
+        global $title;
 
         $title = 'Fa';
-        $checkService = new SystemCheckService();
-        $view = new View();
-        $view->data = array(
-            'logo' => "{$pth['folder']['plugins']}fa/fa.png",
-            'version' => self::VERSION,
-            'checks' => $checkService->getChecks(),
-        );
-        return $view->render("info");
+        return (new InfoCommand())();
     }
 }

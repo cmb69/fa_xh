@@ -21,7 +21,7 @@
 
 namespace Fa;
 
-class SystemCheckService
+class InfoCommand
 {
     /**
      * @var string
@@ -33,18 +33,32 @@ class SystemCheckService
      */
     private $lang;
 
+    private View $view;
+
     public function __construct()
     {
         global $pth, $plugin_tx;
 
         $this->pluginFolder = "{$pth['folder']['plugins']}fa";
         $this->lang = $plugin_tx['fa'];
+        $this->view = new View();
+    }
+
+    public function __invoke(): string
+    {
+        global $pth;
+        $this->view->data = array(
+            'logo' => "{$pth['folder']['plugins']}fa/fa.png",
+            'version' => Plugin::VERSION,
+            'checks' => $this->getChecks(),
+        );
+        return $this->view->render("info");
     }
 
     /**
      * @return object[]
      */
-    public function getChecks()
+    private function getChecks()
     {
         return array(
             $this->checkPhpVersion('7.1.0'),
