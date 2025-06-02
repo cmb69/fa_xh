@@ -2,6 +2,7 @@ parameters:
   level: 8
   paths:
     - classes
+    - views
     - admin.php
     - index.php
   bootstrapFiles:

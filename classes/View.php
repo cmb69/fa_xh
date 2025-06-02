@@ -40,11 +40,11 @@ class View
      * @param string $key
      * @return string
      */
-    protected function text($key)
+    public function text($key)
     {
         $args = func_get_args();
         array_shift($args);
-        return $this->escape(vsprintf($this->text[$key], $args));
+        return $this->esc(vsprintf($this->text[$key], $args));
     }
 
     /**
@@ -72,7 +72,7 @@ class View
      * @param mixed $value
      * @return mixed
      */
-    protected function esc($value)
+    public function esc($value)
     {
         return XH_hsc($value);
     }

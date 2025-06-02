@@ -1,3 +1,14 @@
+<?php
+
+use Fa\View;
+
+/**
+ * @var View $this
+ * @var string $logo
+ * @var string $version
+ * @var list<object{state:string,label:string,stateLabel:string}> $checks
+ */
+?>
 <h1>Fa</h1>
 <img src="<?=$this->esc($logo)?>" class="fa_logo" alt="<?=$this->text("alt_logo")?>">
 <p>Version: <?=$this->esc($version)?></p>
