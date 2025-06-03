@@ -28,7 +28,7 @@ class InfoCommandTest extends TestCase
     {
         global $title;
         $response = $this->sut()();
-        $this->assertSame("Fa 1.4-dev", $title);
+        $this->assertSame("Fa 1.4", $title);
         Approvals::verifyHtml($response);
     }
 }
