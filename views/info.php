@@ -11,11 +11,12 @@ if (!defined("CMSIMPLE_XH_VERSION")) {http_response_code(403); exit;}
  */
 ?>
 
-<h1>Fa <?=$this->esc($version)?></h1>
-<div style="clear:both"></div>
-<div class="fa_syscheck">
-    <h2><?=$this->text('syscheck_title')?></h2>
+<article class="fa_pluginfo">
+    <h1>Fa <?=$this->esc($version)?></h1>
+    <section class="fa_syscheck">
+        <h2><?=$this->text('syscheck_title')?></h2>
 <?php foreach ($checks as $check):?>
-    <p class="xh_<?=$this->esc($check->state)?>"><?=$this->text('syscheck_message', $check->label, $check->stateLabel)?></p>
+        <p class="xh_<?=$this->esc($check->state)?>"><?=$this->text('syscheck_message', $check->label, $check->stateLabel)?></p>
 <?php endforeach?>
-</div>
+    </section>
+</article>
