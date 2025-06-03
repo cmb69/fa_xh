@@ -40,7 +40,6 @@ class InfoCommand
         global $title;
         $title = "Fa " . $this->view->esc(Plugin::VERSION);
         return $this->view->render("info", [
-            "logo" => $this->pluginFolder . "fa.png",
             "version" => Plugin::VERSION,
             "checks" => $this->getChecks(),
         ]);
