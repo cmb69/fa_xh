@@ -53,7 +53,6 @@ class View
     {
         extract($_data);
         ob_start();
-        echo "<!-- {$template} -->", PHP_EOL;
         include "{$this->templateFolder}{$template}.php";
         return (string) ob_get_clean();
     }
