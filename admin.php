@@ -36,7 +36,6 @@ if (XH_wantsPluginAdministration("fa")) {
     $o .= print_plugin_admin("off");
     switch ($admin) {
         case "":
-            $title = "Fa";
             $o .= Plugin::infoCommand()();
             break;
         default:

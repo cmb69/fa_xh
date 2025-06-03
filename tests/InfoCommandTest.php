@@ -26,6 +26,9 @@ class InfoCommandTest extends TestCase
 
     public function testRendersPluginInfo(): void
     {
-        Approvals::verifyHtml($this->sut()());
+        global $title;
+        $response = $this->sut()();
+        $this->assertSame("Fa 1.4-dev", $title);
+        Approvals::verifyHtml($response);
     }
 }
