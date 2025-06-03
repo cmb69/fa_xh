@@ -65,7 +65,7 @@
         </exec>
         <unzip file="export.zip" todir="export"/>
         <delete file="export.zip"/>
-        <jsMin targetDir="dist" suffix="" failOnError="false">
+        <jsMin targetDir="dist" suffix="" failOnError="true">
             <fileset dir="export">
                 <include name="**/*.min.js"/>
             </fileset>
@@ -86,6 +86,7 @@
                 <exclude name="editors/ckeditor/UPDATING.md"/>
                 <exclude name="editors/tinymce4/fontawesome/UPDATING.md"/>
                 <exclude name="teplad.xml"/>
+                <exclude name="**/*.min.js"/>
             </fileset>
         </move>
         <delete dir="export"/>
