@@ -34,11 +34,15 @@ class RequireCommand
     /** @var array<string,string> */
     private $conf;
 
-    /** @param array<string,string> $conf */
-    public function __construct(string $pluginFolder, array $conf)
+    /**
+     * @api
+     * @param ?array<string,string> $conf
+     */
+    public function __construct(?string $pluginFolder = null, ?array $conf = null)
     {
-        $this->pluginFolder = $pluginFolder;
-        $this->conf = $conf;
+        global $pth, $plugin_cf;
+        $this->pluginFolder = $pluginFolder ?? $pth["folder"]["plugins"] . "fa/";
+        $this->conf = $conf ?? $plugin_cf["fa"];
     }
 
     /**
