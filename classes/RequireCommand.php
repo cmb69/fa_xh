@@ -46,6 +46,7 @@ class RequireCommand
     }
 
     /**
+     * @api
      * @return void
      */
     public function execute()

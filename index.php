@@ -37,6 +37,7 @@ if ($plugin_cf["fa"]["require_auto"]) {
 }
 
 /**
+ * @api
  * @return void
  */
 function fa_require()
