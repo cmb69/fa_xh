@@ -61,9 +61,15 @@ class RequireCommand
         switch ($this->conf['fontawesome_version']) {
             case "5":
                 $fa_css_pth = 'css/v5/all.min.css';
+                if (!is_file($this->pluginFolder . $fa_css_pth)) {
+                    $fa_css_pth = 'css/v5/all.css';
+                }
                 break;
             case "6":
                 $fa_css_pth = 'css/v6/all.min.css';
+                if (!is_file($this->pluginFolder . $fa_css_pth)) {
+                    $fa_css_pth = 'css/v6/all.css';
+                }
                 break;
             default:
                 $fa_css_pth = 'css/font-awesome.min.css';
@@ -72,13 +78,19 @@ class RequireCommand
         if ($this->conf['fontawesome_shim']) {
             switch ($this->conf['fontawesome_version']) {
                 case "5":
-                    $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder
-                        . 'css/v5/v4-shims.min.css">';
+                    $shims = 'css/v5/v4-shims.min.css';
+                    if (!is_file($this->pluginFolder . $shims)) {
+                        $shims = 'css/v5/v4-shims.css';
+                    }
                     break;
                 case "6":
-                    $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder
-                        . 'css/v6/v4-shims.min.css">';
+                    $shims = 'css/v6/v4-shims.min.css';
                     break;
+                default:
+                    $shims = null;
+            }
+            if ($shims !== null) {
+                $hjs .= '<link rel="stylesheet" type="text/css" href="' . $this->pluginFolder . $shims . '">';
             }
         }
     }

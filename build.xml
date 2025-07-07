@@ -34,6 +34,21 @@
         </exec>
     </target>
 
+    <target name="minify" description="minifies FA CSS">
+        <exec executable="uglifycss" dir="css/v5" passthru="true" checkreturn="true">
+            <arg line="--output all.min.css all.css"/>
+        </exec>
+        <exec executable="uglifycss" dir="css/v5" passthru="true" checkreturn="true">
+            <arg line="--output v4-shims.min.css v4-shims.css"/>
+        </exec>
+        <exec executable="uglifycss" dir="css/v6" passthru="true" checkreturn="true">
+            <arg line="--output all.min.css all.css"/>
+        </exec>
+        <exec executable="uglifycss" dir="css/v6" passthru="true" checkreturn="true">
+            <arg line="--output v4-shims.min.css v4-shims.css"/>
+        </exec>
+    </target>
+
     <target name="gen-help" description="builds help.htm from README.md">
         <exec executable="pandoc" passthru="true" checkreturn="true">
             <arg value="-s"/>
@@ -74,6 +89,9 @@
             <fileset dir="export">
                 <exclude name=".github/**"/>
                 <exclude name=".phive/**"/>
+                <exclude name="css/v*/all.css"/>
+                <exclude name="css/v*/v4-shims.css"/>
+                <exclude name="css/v*/*.patch"/>
                 <exclude name="help/template.htm"/>
                 <exclude name="tests/**"/>
                 <exclude name="README*.md"/>
