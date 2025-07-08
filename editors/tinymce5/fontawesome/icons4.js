@@ -3,7 +3,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Glass",
         "id": "glass",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "martini",
@@ -17,7 +17,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Music",
         "id": "music",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "note",
@@ -28,7 +28,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Search",
         "id": "search",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "magnify",
@@ -41,7 +41,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Envelope Outlined",
         "id": "envelope-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -57,8 +57,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Heart",
         "id": "heart",
         "categories": [
-            "Web Application Icons",
-            "Medical Icons"
+            "Web Application",
+            "Medical"
         ],
         "filter": [
             "love",
@@ -70,7 +70,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Star",
         "id": "star",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -85,7 +85,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Star Outlined",
         "id": "star-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -100,7 +100,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "User",
         "id": "user",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "person",
@@ -113,7 +113,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Film",
         "id": "film",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "movie"
@@ -123,7 +123,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "th-large",
         "id": "th-large",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "blocks",
@@ -136,7 +136,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "th",
         "id": "th",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "blocks",
@@ -149,7 +149,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "th-list",
         "id": "th-list",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "ul",
@@ -165,7 +165,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Check",
         "id": "check",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "checkmark",
@@ -182,7 +182,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Times",
         "id": "times",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "close",
@@ -195,7 +195,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Search Plus",
         "id": "search-plus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "magnify",
@@ -208,7 +208,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Search Minus",
         "id": "search-minus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "magnify",
@@ -221,7 +221,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Power Off",
         "id": "power-off",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "on"
@@ -231,7 +231,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "signal",
         "id": "signal",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "graph",
@@ -242,8 +242,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "cog",
         "id": "cog",
         "categories": [
-            "Web Application Icons",
-            "Spinner Icons"
+            "Web Application",
+            "Spinner"
         ],
         "filter": [
             "settings"
@@ -253,7 +253,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Trash Outlined",
         "id": "trash-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "garbage",
@@ -267,7 +267,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "home",
         "id": "home",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "main",
@@ -278,8 +278,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "File Outlined",
         "id": "file-o",
         "categories": [
-            "Text Editor Icons",
-            "File Type Icons"
+            "Text Editor",
+            "File Type"
         ],
         "filter": [
             "new",
@@ -292,7 +292,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Clock Outlined",
         "id": "clock-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "watch",
@@ -305,7 +305,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "road",
         "id": "road",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "street"
@@ -315,7 +315,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Download",
         "id": "download",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "import"
@@ -325,7 +325,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Outlined Down",
         "id": "arrow-circle-o-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "download"
@@ -335,28 +335,28 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Outlined Up",
         "id": "arrow-circle-o-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "inbox",
         "id": "inbox",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Play Circle Outlined",
         "id": "play-circle-o",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "Repeat",
         "id": "repeat",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "redo",
@@ -367,8 +367,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "refresh",
         "id": "refresh",
         "categories": [
-            "Web Application Icons",
-            "Spinner Icons"
+            "Web Application",
+            "Spinner"
         ],
         "filter": [
             "reload",
@@ -379,7 +379,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "list-alt",
         "id": "list-alt",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "ul",
@@ -395,7 +395,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "lock",
         "id": "lock",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "protect",
@@ -407,7 +407,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "flag",
         "id": "flag",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "report",
@@ -419,7 +419,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "headphones",
         "id": "headphones",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "sound",
@@ -432,7 +432,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "volume-off",
         "id": "volume-off",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "audio",
@@ -445,7 +445,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "volume-down",
         "id": "volume-down",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "audio",
@@ -459,7 +459,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "volume-up",
         "id": "volume-up",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "audio",
@@ -473,7 +473,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "qrcode",
         "id": "qrcode",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "scan"
@@ -483,7 +483,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "barcode",
         "id": "barcode",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "scan"
@@ -493,7 +493,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "tag",
         "id": "tag",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "label"
@@ -503,7 +503,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "tags",
         "id": "tags",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "labels"
@@ -513,7 +513,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "book",
         "id": "book",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "read",
@@ -524,7 +524,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "bookmark",
         "id": "bookmark",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "save"
@@ -534,14 +534,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "print",
         "id": "print",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "camera",
         "id": "camera",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "photo",
@@ -553,7 +553,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "font",
         "id": "font",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "text"
@@ -563,14 +563,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "bold",
         "id": "bold",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "italic",
         "id": "italic",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "italics"
@@ -580,21 +580,21 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "text-height",
         "id": "text-height",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "text-width",
         "id": "text-width",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "align-left",
         "id": "align-left",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "text"
@@ -604,7 +604,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "align-center",
         "id": "align-center",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "middle",
@@ -615,7 +615,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "align-right",
         "id": "align-right",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "text"
@@ -625,7 +625,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "align-justify",
         "id": "align-justify",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "text"
@@ -635,7 +635,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "list",
         "id": "list",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "ul",
@@ -651,21 +651,21 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Outdent",
         "id": "outdent",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Indent",
         "id": "indent",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Video Camera",
         "id": "video-camera",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "film",
@@ -677,14 +677,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Picture Outlined",
         "id": "picture-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "pencil",
         "id": "pencil",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "write",
@@ -696,7 +696,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "map-marker",
         "id": "map-marker",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "map",
@@ -714,7 +714,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "adjust",
         "id": "adjust",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "contrast"
@@ -724,7 +724,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "tint",
         "id": "tint",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "raindrop",
@@ -737,7 +737,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Pencil Square Outlined",
         "id": "pencil-square-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "write",
@@ -749,7 +749,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Share Square Outlined",
         "id": "share-square-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "social",
@@ -761,8 +761,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Check Square Outlined",
         "id": "check-square-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "todo",
@@ -777,8 +777,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrows",
         "id": "arrows",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "move",
@@ -790,7 +790,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "step-backward",
         "id": "step-backward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "rewind",
@@ -804,7 +804,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "fast-backward",
         "id": "fast-backward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "rewind",
@@ -818,7 +818,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "backward",
         "id": "backward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "rewind",
@@ -829,7 +829,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "play",
         "id": "play",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "start",
@@ -842,7 +842,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "pause",
         "id": "pause",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "wait"
@@ -852,7 +852,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "stop",
         "id": "stop",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "block",
@@ -864,7 +864,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "forward",
         "id": "forward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "forward",
@@ -875,7 +875,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "fast-forward",
         "id": "fast-forward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "next",
@@ -887,7 +887,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "step-forward",
         "id": "step-forward",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "next",
@@ -899,14 +899,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "eject",
         "id": "eject",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "chevron-left",
         "id": "chevron-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "bracket",
@@ -918,7 +918,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "chevron-right",
         "id": "chevron-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "bracket",
@@ -930,7 +930,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Plus Circle",
         "id": "plus-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "add",
@@ -943,7 +943,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Minus Circle",
         "id": "minus-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "delete",
@@ -956,7 +956,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Times Circle",
         "id": "times-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "close",
@@ -968,7 +968,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Check Circle",
         "id": "check-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "todo",
@@ -983,7 +983,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Question Circle",
         "id": "question-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "help",
@@ -996,7 +996,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Info Circle",
         "id": "info-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "help",
@@ -1009,7 +1009,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Crosshairs",
         "id": "crosshairs",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "picker"
@@ -1019,7 +1019,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Times Circle Outlined",
         "id": "times-circle-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "close",
@@ -1031,7 +1031,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Check Circle Outlined",
         "id": "check-circle-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "todo",
@@ -1046,7 +1046,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "ban",
         "id": "ban",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "delete",
@@ -1063,7 +1063,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "arrow-left",
         "id": "arrow-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -1074,7 +1074,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "arrow-right",
         "id": "arrow-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -1085,14 +1085,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "arrow-up",
         "id": "arrow-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "arrow-down",
         "id": "arrow-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "download"
@@ -1102,14 +1102,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Share",
         "id": "share",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Expand",
         "id": "expand",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "enlarge",
@@ -1121,7 +1121,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Compress",
         "id": "compress",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "collapse",
@@ -1135,7 +1135,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "plus",
         "id": "plus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "add",
@@ -1148,7 +1148,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "minus",
         "id": "minus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "hide",
@@ -1164,7 +1164,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "asterisk",
         "id": "asterisk",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "details"
@@ -1174,7 +1174,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Exclamation Circle",
         "id": "exclamation-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "warning",
@@ -1188,7 +1188,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "gift",
         "id": "gift",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "present"
@@ -1198,7 +1198,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "leaf",
         "id": "leaf",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "eco",
@@ -1210,7 +1210,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "fire",
         "id": "fire",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "flame",
@@ -1222,7 +1222,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Eye",
         "id": "eye",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "show",
@@ -1234,7 +1234,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Eye Slash",
         "id": "eye-slash",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "toggle",
@@ -1249,7 +1249,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Exclamation Triangle",
         "id": "exclamation-triangle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "warning",
@@ -1263,8 +1263,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "plane",
         "id": "plane",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "travel",
@@ -1280,7 +1280,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "calendar",
         "id": "calendar",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "date",
@@ -1293,8 +1293,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "random",
         "id": "random",
         "categories": [
-            "Web Application Icons",
-            "Video Player Icons"
+            "Web Application",
+            "Video Player"
         ],
         "filter": [
             "sort",
@@ -1305,7 +1305,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "comment",
         "id": "comment",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -1324,28 +1324,28 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "magnet",
         "id": "magnet",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "chevron-up",
         "id": "chevron-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "chevron-down",
         "id": "chevron-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "retweet",
         "id": "retweet",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "refresh",
@@ -1357,7 +1357,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "shopping-cart",
         "id": "shopping-cart",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "checkout",
@@ -1370,22 +1370,22 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Folder",
         "id": "folder",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Folder Open",
         "id": "folder-open",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Arrows Vertical",
         "id": "arrows-v",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "resize"
@@ -1395,8 +1395,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrows Horizontal",
         "id": "arrows-h",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "resize"
@@ -1406,8 +1406,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bar Chart",
         "id": "bar-chart",
         "categories": [
-            "Web Application Icons",
-            "Chart Icons"
+            "Web Application",
+            "Chart"
         ],
         "filter": [
             "graph",
@@ -1419,7 +1419,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Twitter Square",
         "id": "twitter-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "tweet",
@@ -1430,7 +1430,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Facebook Square",
         "id": "facebook-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "social network"
@@ -1440,7 +1440,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "camera-retro",
         "id": "camera-retro",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "photo",
@@ -1452,7 +1452,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "key",
         "id": "key",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "unlock",
@@ -1463,7 +1463,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "cogs",
         "id": "cogs",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "settings"
@@ -1473,7 +1473,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "comments",
         "id": "comments",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -1492,8 +1492,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Thumbs Up Outlined",
         "id": "thumbs-o-up",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ],
         "filter": [
             "like",
@@ -1507,8 +1507,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Thumbs Down Outlined",
         "id": "thumbs-o-down",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ],
         "filter": [
             "dislike",
@@ -1521,7 +1521,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "star-half",
         "id": "star-half",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -1534,8 +1534,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Heart Outlined",
         "id": "heart-o",
         "categories": [
-            "Web Application Icons",
-            "Medical Icons"
+            "Web Application",
+            "Medical"
         ],
         "filter": [
             "love",
@@ -1547,7 +1547,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sign Out",
         "id": "sign-out",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "log out",
@@ -1561,14 +1561,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "LinkedIn Square",
         "id": "linkedin-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Thumb Tack",
         "id": "thumb-tack",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "marker",
@@ -1581,7 +1581,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "External Link",
         "id": "external-link",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "open",
@@ -1592,7 +1592,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sign In",
         "id": "sign-in",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "enter",
@@ -1610,7 +1610,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "trophy",
         "id": "trophy",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -1624,7 +1624,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "GitHub Square",
         "id": "github-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "octocat"
@@ -1634,7 +1634,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Upload",
         "id": "upload",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "import"
@@ -1644,7 +1644,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Lemon Outlined",
         "id": "lemon-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "food"
@@ -1654,7 +1654,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Phone",
         "id": "phone",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "call",
@@ -1669,8 +1669,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Square Outlined",
         "id": "square-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "block",
@@ -1682,7 +1682,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bookmark Outlined",
         "id": "bookmark-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "save"
@@ -1692,7 +1692,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Phone Square",
         "id": "phone-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "call",
@@ -1706,7 +1706,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Twitter",
         "id": "twitter",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "tweet",
@@ -1717,7 +1717,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Facebook",
         "id": "facebook",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "social network"
@@ -1727,7 +1727,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "GitHub",
         "id": "github",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "octocat"
@@ -1737,7 +1737,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "unlock",
         "id": "unlock",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "protect",
@@ -1750,8 +1750,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "credit-card",
         "id": "credit-card",
         "categories": [
-            "Web Application Icons",
-            "Payment Icons"
+            "Web Application",
+            "Payment"
         ],
         "filter": [
             "money",
@@ -1766,7 +1766,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "rss",
         "id": "rss",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "blog"
@@ -1776,7 +1776,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "HDD",
         "id": "hdd-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "harddrive",
@@ -1789,7 +1789,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "bullhorn",
         "id": "bullhorn",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "announcement",
@@ -1803,7 +1803,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "bell",
         "id": "bell",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "alert",
@@ -1815,7 +1815,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "certificate",
         "id": "certificate",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "badge",
@@ -1826,8 +1826,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Hand Outlined Right",
         "id": "hand-o-right",
         "categories": [
-            "Directional Icons",
-            "Hand Icons"
+            "Directional",
+            "Hand"
         ],
         "filter": [
             "point",
@@ -1841,8 +1841,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Hand Outlined Left",
         "id": "hand-o-left",
         "categories": [
-            "Directional Icons",
-            "Hand Icons"
+            "Directional",
+            "Hand"
         ],
         "filter": [
             "point",
@@ -1856,8 +1856,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Hand Outlined Up",
         "id": "hand-o-up",
         "categories": [
-            "Directional Icons",
-            "Hand Icons"
+            "Directional",
+            "Hand"
         ],
         "filter": [
             "point",
@@ -1868,8 +1868,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Hand Outlined Down",
         "id": "hand-o-down",
         "categories": [
-            "Directional Icons",
-            "Hand Icons"
+            "Directional",
+            "Hand"
         ],
         "filter": [
             "point",
@@ -1880,7 +1880,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Left",
         "id": "arrow-circle-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -1891,7 +1891,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Right",
         "id": "arrow-circle-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -1902,14 +1902,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Up",
         "id": "arrow-circle-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "Arrow Circle Down",
         "id": "arrow-circle-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "download"
@@ -1919,7 +1919,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Globe",
         "id": "globe",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "world",
@@ -1942,7 +1942,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Wrench",
         "id": "wrench",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "settings",
@@ -1955,7 +1955,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Tasks",
         "id": "tasks",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "progress",
@@ -1969,7 +1969,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Filter",
         "id": "filter",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "funnel",
@@ -1980,7 +1980,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Briefcase",
         "id": "briefcase",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "work",
@@ -1994,8 +1994,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrows Alt",
         "id": "arrows-alt",
         "categories": [
-            "Video Player Icons",
-            "Directional Icons"
+            "Video Player",
+            "Directional"
         ],
         "filter": [
             "expand",
@@ -2012,7 +2012,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Users",
         "id": "users",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "people",
@@ -2024,7 +2024,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Link",
         "id": "link",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "chain"
@@ -2034,7 +2034,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Cloud",
         "id": "cloud",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "save"
@@ -2044,7 +2044,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Flask",
         "id": "flask",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "science",
@@ -2057,14 +2057,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Scissors",
         "id": "scissors",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Files Outlined",
         "id": "files-o",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "duplicate",
@@ -2076,7 +2076,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Paperclip",
         "id": "paperclip",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "attachment"
@@ -2086,15 +2086,15 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Floppy Outlined",
         "id": "floppy-o",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Square",
         "id": "square",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "block",
@@ -2105,7 +2105,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bars",
         "id": "bars",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "menu",
@@ -2125,7 +2125,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "list-ul",
         "id": "list-ul",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "ul",
@@ -2139,7 +2139,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "list-ol",
         "id": "list-ol",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "ul",
@@ -2155,21 +2155,21 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Strikethrough",
         "id": "strikethrough",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Underline",
         "id": "underline",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "table",
         "id": "table",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "data",
@@ -2181,7 +2181,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "magic",
         "id": "magic",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "wizard",
@@ -2193,8 +2193,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "truck",
         "id": "truck",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "shipping"
@@ -2204,21 +2204,21 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Pinterest",
         "id": "pinterest",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pinterest Square",
         "id": "pinterest-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Google Plus Square",
         "id": "google-plus-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "social network"
@@ -2228,7 +2228,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Google Plus",
         "id": "google-plus",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "social network"
@@ -2238,8 +2238,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Money",
         "id": "money",
         "categories": [
-            "Web Application Icons",
-            "Currency Icons"
+            "Web Application",
+            "Currency"
         ],
         "filter": [
             "cash",
@@ -2254,7 +2254,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Down",
         "id": "caret-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "more",
@@ -2268,7 +2268,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Up",
         "id": "caret-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "triangle up",
@@ -2279,7 +2279,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Left",
         "id": "caret-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -2292,7 +2292,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Right",
         "id": "caret-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -2305,7 +2305,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Columns",
         "id": "columns",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "split",
@@ -2316,7 +2316,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sort",
         "id": "sort",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "order"
@@ -2326,7 +2326,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sort Descending",
         "id": "sort-desc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "dropdown",
@@ -2339,7 +2339,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sort Ascending",
         "id": "sort-asc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "arrow"
@@ -2349,7 +2349,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Envelope",
         "id": "envelope",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -2365,14 +2365,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "LinkedIn",
         "id": "linkedin",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Undo",
         "id": "undo",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "back"
@@ -2382,7 +2382,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Gavel",
         "id": "gavel",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "judge",
@@ -2394,7 +2394,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Tachometer",
         "id": "tachometer",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speedometer",
@@ -2405,7 +2405,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "comment-o",
         "id": "comment-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -2424,7 +2424,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "comments-o",
         "id": "comments-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -2443,7 +2443,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Lightning Bolt",
         "id": "bolt",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "lightning",
@@ -2454,7 +2454,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sitemap",
         "id": "sitemap",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "directory",
@@ -2466,14 +2466,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Umbrella",
         "id": "umbrella",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Clipboard",
         "id": "clipboard",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "copy"
@@ -2483,7 +2483,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Lightbulb Outlined",
         "id": "lightbulb-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "idea",
@@ -2494,8 +2494,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Exchange",
         "id": "exchange",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "transfer",
@@ -2507,7 +2507,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Cloud Download",
         "id": "cloud-download",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "import"
@@ -2517,7 +2517,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Cloud Upload",
         "id": "cloud-upload",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "import"
@@ -2527,7 +2527,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "user-md",
         "id": "user-md",
         "categories": [
-            "Medical Icons"
+            "Medical"
         ],
         "filter": [
             "doctor",
@@ -2540,14 +2540,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Stethoscope",
         "id": "stethoscope",
         "categories": [
-            "Medical Icons"
+            "Medical"
         ]
     },
     {
         "name": "Suitcase",
         "id": "suitcase",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "trip",
@@ -2561,7 +2561,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bell Outlined",
         "id": "bell-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "alert",
@@ -2573,7 +2573,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Coffee",
         "id": "coffee",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "morning",
@@ -2588,7 +2588,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Cutlery",
         "id": "cutlery",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "food",
@@ -2603,8 +2603,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "File Text Outlined",
         "id": "file-text-o",
         "categories": [
-            "Text Editor Icons",
-            "File Type Icons"
+            "Text Editor",
+            "File Type"
         ],
         "filter": [
             "new",
@@ -2617,7 +2617,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Building Outlined",
         "id": "building-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "work",
@@ -2631,7 +2631,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "hospital Outlined",
         "id": "hospital-o",
         "categories": [
-            "Medical Icons"
+            "Medical"
         ],
         "filter": [
             "building"
@@ -2641,8 +2641,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "ambulance",
         "id": "ambulance",
         "categories": [
-            "Medical Icons",
-            "Transportation Icons"
+            "Medical",
+            "Transportation"
         ],
         "filter": [
             "vehicle",
@@ -2654,7 +2654,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "medkit",
         "id": "medkit",
         "categories": [
-            "Medical Icons"
+            "Medical"
         ],
         "filter": [
             "first aid",
@@ -2668,8 +2668,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "fighter-jet",
         "id": "fighter-jet",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "fly",
@@ -2684,7 +2684,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "beer",
         "id": "beer",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "alcohol",
@@ -2699,7 +2699,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "H Square",
         "id": "h-square",
         "categories": [
-            "Medical Icons"
+            "Medical"
         ],
         "filter": [
             "hospital",
@@ -2710,9 +2710,9 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Plus Square",
         "id": "plus-square",
         "categories": [
-            "Medical Icons",
-            "Web Application Icons",
-            "Form Control Icons"
+            "Medical",
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "add",
@@ -2725,7 +2725,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Angle Double Left",
         "id": "angle-double-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "laquo",
@@ -2739,7 +2739,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Angle Double Right",
         "id": "angle-double-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "raquo",
@@ -2753,7 +2753,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Angle Double Up",
         "id": "angle-double-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "arrows"
@@ -2763,7 +2763,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Angle Double Down",
         "id": "angle-double-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "arrows"
@@ -2773,7 +2773,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "angle-left",
         "id": "angle-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -2785,7 +2785,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "angle-right",
         "id": "angle-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -2797,7 +2797,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "angle-up",
         "id": "angle-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "arrow"
@@ -2807,7 +2807,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "angle-down",
         "id": "angle-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "arrow"
@@ -2817,7 +2817,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Desktop",
         "id": "desktop",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "monitor",
@@ -2832,7 +2832,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Laptop",
         "id": "laptop",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "demo",
@@ -2844,7 +2844,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "tablet",
         "id": "tablet",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "ipad",
@@ -2855,7 +2855,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Mobile Phone",
         "id": "mobile",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "cell phone",
@@ -2871,30 +2871,30 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Circle Outlined",
         "id": "circle-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ]
     },
     {
         "name": "quote-left",
         "id": "quote-left",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "quote-right",
         "id": "quote-right",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Spinner",
         "id": "spinner",
         "categories": [
-            "Web Application Icons",
-            "Spinner Icons"
+            "Web Application",
+            "Spinner"
         ],
         "filter": [
             "loading",
@@ -2905,8 +2905,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Circle",
         "id": "circle",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "dot",
@@ -2917,14 +2917,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Reply",
         "id": "reply",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "GitHub Alt",
         "id": "github-alt",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "octocat"
@@ -2934,21 +2934,21 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Folder Outlined",
         "id": "folder-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Folder Open Outlined",
         "id": "folder-open-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Smile Outlined",
         "id": "smile-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "face",
@@ -2963,7 +2963,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Frown Outlined",
         "id": "frown-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "face",
@@ -2977,7 +2977,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Meh Outlined",
         "id": "meh-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "face",
@@ -2990,7 +2990,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Gamepad",
         "id": "gamepad",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "controller"
@@ -3000,7 +3000,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Keyboard Outlined",
         "id": "keyboard-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "type",
@@ -3011,7 +3011,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Flag Outlined",
         "id": "flag-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "report",
@@ -3022,7 +3022,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "flag-checkered",
         "id": "flag-checkered",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "report",
@@ -3034,7 +3034,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Terminal",
         "id": "terminal",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "command",
@@ -3046,7 +3046,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Code",
         "id": "code",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "html",
@@ -3057,14 +3057,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "reply-all",
         "id": "reply-all",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Star Half Outlined",
         "id": "star-half-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -3077,7 +3077,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "location-arrow",
         "id": "location-arrow",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "map",
@@ -3092,14 +3092,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "crop",
         "id": "crop",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "code-fork",
         "id": "code-fork",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "git",
@@ -3116,7 +3116,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Chain Broken",
         "id": "chain-broken",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "remove"
@@ -3126,7 +3126,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Question",
         "id": "question",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "help",
@@ -3139,7 +3139,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Info",
         "id": "info",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "help",
@@ -3152,7 +3152,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "exclamation",
         "id": "exclamation",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "warning",
@@ -3167,7 +3167,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "superscript",
         "id": "superscript",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "exponential"
@@ -3177,15 +3177,15 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "subscript",
         "id": "subscript",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "eraser",
         "id": "eraser",
         "categories": [
-            "Text Editor Icons",
-            "Web Application Icons"
+            "Text Editor",
+            "Web Application"
         ],
         "filter": [
             "remove",
@@ -3196,7 +3196,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Puzzle Piece",
         "id": "puzzle-piece",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "addon",
@@ -3208,7 +3208,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "microphone",
         "id": "microphone",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "record",
@@ -3220,7 +3220,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Microphone Slash",
         "id": "microphone-slash",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "record",
@@ -3233,7 +3233,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "shield",
         "id": "shield",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "award",
@@ -3246,7 +3246,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "calendar-o",
         "id": "calendar-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "date",
@@ -3259,15 +3259,15 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "fire-extinguisher",
         "id": "fire-extinguisher",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "rocket",
         "id": "rocket",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "app"
@@ -3277,14 +3277,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "MaxCDN",
         "id": "maxcdn",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Chevron Circle Left",
         "id": "chevron-circle-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -3296,7 +3296,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Chevron Circle Right",
         "id": "chevron-circle-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -3308,7 +3308,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Chevron Circle Up",
         "id": "chevron-circle-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "arrow"
@@ -3318,7 +3318,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Chevron Circle Down",
         "id": "chevron-circle-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "more",
@@ -3331,14 +3331,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "HTML 5 Logo",
         "id": "html5",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "CSS 3 Logo",
         "id": "css3",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "code"
@@ -3348,7 +3348,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Anchor",
         "id": "anchor",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "link"
@@ -3358,7 +3358,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Unlock Alt",
         "id": "unlock-alt",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "protect",
@@ -3371,7 +3371,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bullseye",
         "id": "bullseye",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "target"
@@ -3381,7 +3381,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Ellipsis Horizontal",
         "id": "ellipsis-h",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "dots"
@@ -3391,7 +3391,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Ellipsis Vertical",
         "id": "ellipsis-v",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "dots"
@@ -3401,7 +3401,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "RSS Square",
         "id": "rss-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "feed",
@@ -3412,7 +3412,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Play Circle",
         "id": "play-circle",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ],
         "filter": [
             "start",
@@ -3423,7 +3423,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Ticket",
         "id": "ticket",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "movie",
@@ -3435,8 +3435,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Minus Square",
         "id": "minus-square",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "hide",
@@ -3452,8 +3452,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Minus Square Outlined",
         "id": "minus-square-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "hide",
@@ -3469,7 +3469,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Level Up",
         "id": "level-up",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "arrow"
@@ -3479,7 +3479,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Level Down",
         "id": "level-down",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "arrow"
@@ -3489,8 +3489,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Check Square",
         "id": "check-square",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "checkmark",
@@ -3506,7 +3506,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Pencil Square",
         "id": "pencil-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "write",
@@ -3518,7 +3518,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "External Link Square",
         "id": "external-link-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "open",
@@ -3529,7 +3529,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Share Square",
         "id": "share-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "social",
@@ -3540,7 +3540,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Compass",
         "id": "compass",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "safari",
@@ -3553,8 +3553,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Square Outlined Down",
         "id": "caret-square-o-down",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "more",
@@ -3566,16 +3566,16 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Square Outlined Up",
         "id": "caret-square-o-up",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ]
     },
     {
         "name": "Caret Square Outlined Right",
         "id": "caret-square-o-right",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "next",
@@ -3586,65 +3586,65 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Euro (EUR)",
         "id": "eur",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "GBP",
         "id": "gbp",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "US Dollar",
         "id": "usd",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Indian Rupee (INR)",
         "id": "inr",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Japanese Yen (JPY)",
         "id": "jpy",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Russian Ruble (RUB)",
         "id": "rub",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Korean Won (KRW)",
         "id": "krw",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Bitcoin (BTC)",
         "id": "btc",
         "categories": [
-            "Currency Icons",
-            "Brand Icons"
+            "Currency",
+            "Brand"
         ]
     },
     {
         "name": "File",
         "id": "file",
         "categories": [
-            "Text Editor Icons",
-            "File Type Icons"
+            "Text Editor",
+            "File Type"
         ],
         "filter": [
             "new",
@@ -3657,8 +3657,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "File Text",
         "id": "file-text",
         "categories": [
-            "Text Editor Icons",
-            "File Type Icons"
+            "Text Editor",
+            "File Type"
         ],
         "filter": [
             "new",
@@ -3671,35 +3671,35 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sort Alpha Ascending",
         "id": "sort-alpha-asc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sort Alpha Descending",
         "id": "sort-alpha-desc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sort Amount Ascending",
         "id": "sort-amount-asc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sort Amount Descending",
         "id": "sort-amount-desc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sort Numeric Ascending",
         "id": "sort-numeric-asc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "numbers"
@@ -3709,7 +3709,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sort Numeric Descending",
         "id": "sort-numeric-desc",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "numbers"
@@ -3719,8 +3719,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "thumbs-up",
         "id": "thumbs-up",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ],
         "filter": [
             "like",
@@ -3734,8 +3734,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "thumbs-down",
         "id": "thumbs-down",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ],
         "filter": [
             "dislike",
@@ -3748,7 +3748,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "YouTube Square",
         "id": "youtube-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "video",
@@ -3759,7 +3759,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "YouTube",
         "id": "youtube",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "video",
@@ -3770,22 +3770,22 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Xing",
         "id": "xing",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Xing Square",
         "id": "xing-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "YouTube Play",
         "id": "youtube-play",
         "categories": [
-            "Brand Icons",
-            "Video Player Icons"
+            "Brand",
+            "Video Player"
         ],
         "filter": [
             "start",
@@ -3796,42 +3796,42 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Dropbox",
         "id": "dropbox",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Stack Overflow",
         "id": "stack-overflow",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Instagram",
         "id": "instagram",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Flickr",
         "id": "flickr",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "App.net",
         "id": "adn",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Bitbucket",
         "id": "bitbucket",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "git"
@@ -3841,7 +3841,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bitbucket Square",
         "id": "bitbucket-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "git"
@@ -3851,35 +3851,35 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Tumblr",
         "id": "tumblr",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Tumblr Square",
         "id": "tumblr-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Long Arrow Down",
         "id": "long-arrow-down",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "Long Arrow Up",
         "id": "long-arrow-up",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "Long Arrow Left",
         "id": "long-arrow-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -3890,14 +3890,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Long Arrow Right",
         "id": "long-arrow-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ]
     },
     {
         "name": "Apple",
         "id": "apple",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "osx",
@@ -3908,7 +3908,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Windows",
         "id": "windows",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "microsoft"
@@ -3918,7 +3918,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Android",
         "id": "android",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "robot"
@@ -3928,7 +3928,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Linux",
         "id": "linux",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "tux"
@@ -3938,35 +3938,35 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Dribbble",
         "id": "dribbble",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Skype",
         "id": "skype",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Foursquare",
         "id": "foursquare",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Trello",
         "id": "trello",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Female",
         "id": "female",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "woman",
@@ -3979,7 +3979,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Male",
         "id": "male",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "man",
@@ -3992,7 +3992,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Gratipay (Gittip)",
         "id": "gratipay",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "heart",
@@ -4005,7 +4005,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Sun Outlined",
         "id": "sun-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "weather",
@@ -4019,7 +4019,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Moon Outlined",
         "id": "moon-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "night",
@@ -4031,7 +4031,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Archive",
         "id": "archive",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "box",
@@ -4042,7 +4042,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bug",
         "id": "bug",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "report",
@@ -4053,28 +4053,28 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "VK",
         "id": "vk",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Weibo",
         "id": "weibo",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Renren",
         "id": "renren",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pagelines",
         "id": "pagelines",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "leaf",
@@ -4089,14 +4089,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Stack Exchange",
         "id": "stack-exchange",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Arrow Circle Outlined Right",
         "id": "arrow-circle-o-right",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "next",
@@ -4107,7 +4107,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Arrow Circle Outlined Left",
         "id": "arrow-circle-o-left",
         "categories": [
-            "Directional Icons"
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -4118,8 +4118,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Caret Square Outlined Left",
         "id": "caret-square-o-left",
         "categories": [
-            "Web Application Icons",
-            "Directional Icons"
+            "Web Application",
+            "Directional"
         ],
         "filter": [
             "previous",
@@ -4130,8 +4130,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Dot Circle Outlined",
         "id": "dot-circle-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "target",
@@ -4143,10 +4143,10 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Wheelchair",
         "id": "wheelchair",
         "categories": [
-            "Web Application Icons",
-            "Medical Icons",
-            "Transportation Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Medical",
+            "Transportation",
+            "Accessibility"
         ],
         "filter": [
             "handicap",
@@ -4157,22 +4157,22 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Vimeo Square",
         "id": "vimeo-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Turkish Lira (TRY)",
         "id": "try",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "Plus Square Outlined",
         "id": "plus-square-o",
         "categories": [
-            "Web Application Icons",
-            "Form Control Icons"
+            "Web Application",
+            "Form Control"
         ],
         "filter": [
             "add",
@@ -4185,15 +4185,15 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Space Shuttle",
         "id": "space-shuttle",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ]
     },
     {
         "name": "Slack Logo",
         "id": "slack",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "hashtag",
@@ -4205,7 +4205,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Envelope Square",
         "id": "envelope-square",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -4221,28 +4221,28 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "WordPress Logo",
         "id": "wordpress",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "OpenID",
         "id": "openid",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "University",
         "id": "university",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Graduation Cap",
         "id": "graduation-cap",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "learning",
@@ -4254,91 +4254,91 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Yahoo Logo",
         "id": "yahoo",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Google Logo",
         "id": "google",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "reddit Logo",
         "id": "reddit",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "reddit Square",
         "id": "reddit-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "StumbleUpon Circle",
         "id": "stumbleupon-circle",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "StumbleUpon Logo",
         "id": "stumbleupon",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Delicious Logo",
         "id": "delicious",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Digg Logo",
         "id": "digg",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pied Piper PP Logo (Old)",
         "id": "pied-piper-pp",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pied Piper Alternate Logo",
         "id": "pied-piper-alt",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Drupal Logo",
         "id": "drupal",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Joomla Logo",
         "id": "joomla",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Language",
         "id": "language",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "translate"
@@ -4348,14 +4348,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Fax",
         "id": "fax",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Building",
         "id": "building",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "work",
@@ -4369,14 +4369,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Child",
         "id": "child",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Paw",
         "id": "paw",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "pet"
@@ -4386,64 +4386,64 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "spoon",
         "id": "spoon",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Cube",
         "id": "cube",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Cubes",
         "id": "cubes",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Behance",
         "id": "behance",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Behance Square",
         "id": "behance-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Steam",
         "id": "steam",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Steam Square",
         "id": "steam-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Recycle",
         "id": "recycle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Car",
         "id": "car",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "vehicle"
@@ -4453,8 +4453,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Taxi",
         "id": "taxi",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "vehicle"
@@ -4464,220 +4464,220 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Tree",
         "id": "tree",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Spotify",
         "id": "spotify",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "deviantART",
         "id": "deviantart",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "SoundCloud",
         "id": "soundcloud",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Database",
         "id": "database",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "PDF File Outlined",
         "id": "file-pdf-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Word File Outlined",
         "id": "file-word-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Excel File Outlined",
         "id": "file-excel-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Powerpoint File Outlined",
         "id": "file-powerpoint-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Image File Outlined",
         "id": "file-image-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Archive File Outlined",
         "id": "file-archive-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Audio File Outlined",
         "id": "file-audio-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Video File Outlined",
         "id": "file-video-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Code File Outlined",
         "id": "file-code-o",
         "categories": [
-            "Web Application Icons",
-            "File Type Icons"
+            "Web Application",
+            "File Type"
         ]
     },
     {
         "name": "Vine",
         "id": "vine",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Codepen",
         "id": "codepen",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "jsFiddle",
         "id": "jsfiddle",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Life Ring",
         "id": "life-ring",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Circle Outlined Notched",
         "id": "circle-o-notch",
         "categories": [
-            "Web Application Icons",
-            "Spinner Icons"
+            "Web Application",
+            "Spinner"
         ]
     },
     {
         "name": "Rebel Alliance",
         "id": "rebel",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Galactic Empire",
         "id": "empire",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Git Square",
         "id": "git-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Git",
         "id": "git",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Hacker News",
         "id": "hacker-news",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Tencent Weibo",
         "id": "tencent-weibo",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "QQ",
         "id": "qq",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Weixin (WeChat)",
         "id": "weixin",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Paper Plane",
         "id": "paper-plane",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Paper Plane Outlined",
         "id": "paper-plane-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "History",
         "id": "history",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "recent"
@@ -4687,14 +4687,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Circle Outlined Thin",
         "id": "circle-thin",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "header",
         "id": "header",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ],
         "filter": [
             "heading"
@@ -4704,14 +4704,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "paragraph",
         "id": "paragraph",
         "categories": [
-            "Text Editor Icons"
+            "Text Editor"
         ]
     },
     {
         "name": "Sliders",
         "id": "sliders",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "settings"
@@ -4721,52 +4721,52 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Share Alt",
         "id": "share-alt",
         "categories": [
-            "Web Application Icons",
-            "Brand Icons"
+            "Web Application",
+            "Brand"
         ]
     },
     {
         "name": "Share Alt Square",
         "id": "share-alt-square",
         "categories": [
-            "Web Application Icons",
-            "Brand Icons"
+            "Web Application",
+            "Brand"
         ]
     },
     {
         "name": "Bomb",
         "id": "bomb",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Futbol Outlined",
         "id": "futbol-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "TTY",
         "id": "tty",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Binoculars",
         "id": "binoculars",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Plug",
         "id": "plug",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power",
@@ -4777,28 +4777,28 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Slideshare",
         "id": "slideshare",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Twitch",
         "id": "twitch",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Yelp",
         "id": "yelp",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Newspaper Outlined",
         "id": "newspaper-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "press"
@@ -4808,62 +4808,62 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "WiFi",
         "id": "wifi",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Calculator",
         "id": "calculator",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Paypal",
         "id": "paypal",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Google Wallet",
         "id": "google-wallet",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Visa Credit Card",
         "id": "cc-visa",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "MasterCard Credit Card",
         "id": "cc-mastercard",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Discover Credit Card",
         "id": "cc-discover",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "American Express Credit Card",
         "id": "cc-amex",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ],
         "filter": [
             "amex"
@@ -4873,37 +4873,37 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Paypal Credit Card",
         "id": "cc-paypal",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Stripe Credit Card",
         "id": "cc-stripe",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Bell Slash",
         "id": "bell-slash",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bell Slash Outlined",
         "id": "bell-slash-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Trash",
         "id": "trash",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "garbage",
@@ -4916,14 +4916,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Copyright",
         "id": "copyright",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "At",
         "id": "at",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -4934,29 +4934,29 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Eyedropper",
         "id": "eyedropper",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Paint Brush",
         "id": "paint-brush",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Birthday Cake",
         "id": "birthday-cake",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Area Chart",
         "id": "area-chart",
         "categories": [
-            "Web Application Icons",
-            "Chart Icons"
+            "Web Application",
+            "Chart"
         ],
         "filter": [
             "graph",
@@ -4968,8 +4968,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Pie Chart",
         "id": "pie-chart",
         "categories": [
-            "Web Application Icons",
-            "Chart Icons"
+            "Web Application",
+            "Chart"
         ],
         "filter": [
             "graph",
@@ -4981,8 +4981,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Line Chart",
         "id": "line-chart",
         "categories": [
-            "Web Application Icons",
-            "Chart Icons"
+            "Web Application",
+            "Chart"
         ],
         "filter": [
             "graph",
@@ -4994,36 +4994,36 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "last.fm",
         "id": "lastfm",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "last.fm Square",
         "id": "lastfm-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Toggle Off",
         "id": "toggle-off",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Toggle On",
         "id": "toggle-on",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bicycle",
         "id": "bicycle",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "vehicle",
@@ -5034,8 +5034,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Bus",
         "id": "bus",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "vehicle"
@@ -5045,106 +5045,106 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "ioxhost",
         "id": "ioxhost",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "AngelList",
         "id": "angellist",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Closed Captions",
         "id": "cc",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Shekel (ILS)",
         "id": "ils",
         "categories": [
-            "Currency Icons"
+            "Currency"
         ]
     },
     {
         "name": "meanpath",
         "id": "meanpath",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "BuySellAds",
         "id": "buysellads",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Connect Develop",
         "id": "connectdevelop",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "DashCube",
         "id": "dashcube",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Forumbee",
         "id": "forumbee",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Leanpub",
         "id": "leanpub",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Sellsy",
         "id": "sellsy",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Shirts in Bulk",
         "id": "shirtsinbulk",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "SimplyBuilt",
         "id": "simplybuilt",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "skyatlas",
         "id": "skyatlas",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Add to Shopping Cart",
         "id": "cart-plus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "add",
@@ -5155,7 +5155,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Shopping Cart Arrow Down",
         "id": "cart-arrow-down",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "shopping"
@@ -5165,7 +5165,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Diamond",
         "id": "diamond",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "gem",
@@ -5176,8 +5176,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Ship",
         "id": "ship",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "boat",
@@ -5188,7 +5188,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "User Secret",
         "id": "user-secret",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "whisper",
@@ -5201,8 +5201,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Motorcycle",
         "id": "motorcycle",
         "categories": [
-            "Web Application Icons",
-            "Transportation Icons"
+            "Web Application",
+            "Transportation"
         ],
         "filter": [
             "vehicle",
@@ -5213,7 +5213,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Street View",
         "id": "street-view",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "map"
@@ -5223,8 +5223,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Heartbeat",
         "id": "heartbeat",
         "categories": [
-            "Web Application Icons",
-            "Medical Icons"
+            "Web Application",
+            "Medical"
         ],
         "filter": [
             "ekg"
@@ -5234,7 +5234,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Venus",
         "id": "venus",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ],
         "filter": [
             "female"
@@ -5244,7 +5244,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Mars",
         "id": "mars",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ],
         "filter": [
             "male"
@@ -5254,7 +5254,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Mercury",
         "id": "mercury",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ],
         "filter": [
             "transgender"
@@ -5264,105 +5264,105 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Transgender",
         "id": "transgender",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Transgender Alt",
         "id": "transgender-alt",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Venus Double",
         "id": "venus-double",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Mars Double",
         "id": "mars-double",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Venus Mars",
         "id": "venus-mars",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Mars Stroke",
         "id": "mars-stroke",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Mars Stroke Vertical",
         "id": "mars-stroke-v",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Mars Stroke Horizontal",
         "id": "mars-stroke-h",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Neuter",
         "id": "neuter",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Genderless",
         "id": "genderless",
         "categories": [
-            "Gender Icons"
+            "Gender"
         ]
     },
     {
         "name": "Facebook Official",
         "id": "facebook-official",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pinterest P",
         "id": "pinterest-p",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "What's App",
         "id": "whatsapp",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Server",
         "id": "server",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Add User",
         "id": "user-plus",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "sign up",
@@ -5373,14 +5373,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Remove User",
         "id": "user-times",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bed",
         "id": "bed",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "travel"
@@ -5390,64 +5390,64 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Viacoin (VIA)",
         "id": "viacoin",
         "categories": [
-            "Currency Icons",
-            "Brand Icons"
+            "Currency",
+            "Brand"
         ]
     },
     {
         "name": "Train",
         "id": "train",
         "categories": [
-            "Transportation Icons"
+            "Transportation"
         ]
     },
     {
         "name": "Subway",
         "id": "subway",
         "categories": [
-            "Transportation Icons"
+            "Transportation"
         ]
     },
     {
         "name": "Medium",
         "id": "medium",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Y Combinator",
         "id": "y-combinator",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Optin Monster",
         "id": "optin-monster",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "OpenCart",
         "id": "opencart",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "ExpeditedSSL",
         "id": "expeditedssl",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Battery Full",
         "id": "battery-full",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power"
@@ -5457,7 +5457,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Battery 3\/4 Full",
         "id": "battery-three-quarters",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power"
@@ -5467,7 +5467,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Battery 1\/2 Full",
         "id": "battery-half",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power"
@@ -5477,7 +5477,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Battery 1\/4 Full",
         "id": "battery-quarter",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power"
@@ -5487,7 +5487,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Battery Empty",
         "id": "battery-empty",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "power"
@@ -5497,65 +5497,65 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Mouse Pointer",
         "id": "mouse-pointer",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "I Beam Cursor",
         "id": "i-cursor",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Object Group",
         "id": "object-group",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Object Ungroup",
         "id": "object-ungroup",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sticky Note",
         "id": "sticky-note",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Sticky Note Outlined",
         "id": "sticky-note-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "JCB Credit Card",
         "id": "cc-jcb",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Diner's Club Credit Card",
         "id": "cc-diners-club",
         "categories": [
-            "Brand Icons",
-            "Payment Icons"
+            "Brand",
+            "Payment"
         ]
     },
     {
         "name": "Clone",
         "id": "clone",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "copy"
@@ -5565,58 +5565,58 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Balance Scale",
         "id": "balance-scale",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hourglass Outlined",
         "id": "hourglass-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hourglass Start",
         "id": "hourglass-start",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hourglass Half",
         "id": "hourglass-half",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hourglass End",
         "id": "hourglass-end",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hourglass",
         "id": "hourglass",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Rock (Hand)",
         "id": "hand-rock-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Paper (Hand)",
         "id": "hand-paper-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ],
         "filter": [
             "stop"
@@ -5626,119 +5626,119 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Scissors (Hand)",
         "id": "hand-scissors-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Lizard (Hand)",
         "id": "hand-lizard-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Spock (Hand)",
         "id": "hand-spock-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Hand Pointer",
         "id": "hand-pointer-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Hand Peace",
         "id": "hand-peace-o",
         "categories": [
-            "Web Application Icons",
-            "Hand Icons"
+            "Web Application",
+            "Hand"
         ]
     },
     {
         "name": "Trademark",
         "id": "trademark",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Registered Trademark",
         "id": "registered",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Creative Commons",
         "id": "creative-commons",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "GG Currency",
         "id": "gg",
         "categories": [
-            "Currency Icons",
-            "Brand Icons"
+            "Currency",
+            "Brand"
         ]
     },
     {
         "name": "GG Currency Circle",
         "id": "gg-circle",
         "categories": [
-            "Currency Icons",
-            "Brand Icons"
+            "Currency",
+            "Brand"
         ]
     },
     {
         "name": "TripAdvisor",
         "id": "tripadvisor",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Odnoklassniki",
         "id": "odnoklassniki",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Odnoklassniki Square",
         "id": "odnoklassniki-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Get Pocket",
         "id": "get-pocket",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Wikipedia W",
         "id": "wikipedia-w",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Safari",
         "id": "safari",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "browser"
@@ -5748,7 +5748,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Chrome",
         "id": "chrome",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "browser"
@@ -5758,7 +5758,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Firefox",
         "id": "firefox",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "browser"
@@ -5768,14 +5768,14 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Opera",
         "id": "opera",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Internet-explorer",
         "id": "internet-explorer",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "browser",
@@ -5786,7 +5786,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Television",
         "id": "television",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "display",
@@ -5798,49 +5798,49 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Contao",
         "id": "contao",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "500px",
         "id": "500px",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Amazon",
         "id": "amazon",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Calendar Plus Outlined",
         "id": "calendar-plus-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Calendar Minus Outlined",
         "id": "calendar-minus-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Calendar Times Outlined",
         "id": "calendar-times-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Calendar Check Outlined",
         "id": "calendar-check-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "ok"
@@ -5850,7 +5850,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Industry",
         "id": "industry",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "factory"
@@ -5860,35 +5860,35 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Map Pin",
         "id": "map-pin",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Map Signs",
         "id": "map-signs",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Map Outlined",
         "id": "map-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Map",
         "id": "map",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Commenting",
         "id": "commenting",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -5907,7 +5907,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Commenting Outlined",
         "id": "commenting-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "speech",
@@ -5926,42 +5926,42 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Houzz",
         "id": "houzz",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Vimeo",
         "id": "vimeo",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Font Awesome Black Tie",
         "id": "black-tie",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Fonticons",
         "id": "fonticons",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "reddit Alien",
         "id": "reddit-alien",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Edge Browser",
         "id": "edge",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "browser",
@@ -5972,8 +5972,8 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Credit Card",
         "id": "credit-card-alt",
         "categories": [
-            "Payment Icons",
-            "Web Application Icons"
+            "Payment",
+            "Web Application"
         ],
         "filter": [
             "money",
@@ -5989,149 +5989,149 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Codie Pie",
         "id": "codiepie",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "MODX",
         "id": "modx",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Fort Awesome",
         "id": "fort-awesome",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "USB",
         "id": "usb",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Product Hunt",
         "id": "product-hunt",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Mixcloud",
         "id": "mixcloud",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Scribd",
         "id": "scribd",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pause Circle",
         "id": "pause-circle",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "Pause Circle Outlined",
         "id": "pause-circle-o",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "Stop Circle",
         "id": "stop-circle",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "Stop Circle Outlined",
         "id": "stop-circle-o",
         "categories": [
-            "Video Player Icons"
+            "Video Player"
         ]
     },
     {
         "name": "Shopping Bag",
         "id": "shopping-bag",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Shopping Basket",
         "id": "shopping-basket",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Hashtag",
         "id": "hashtag",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bluetooth",
         "id": "bluetooth",
         "categories": [
-            "Web Application Icons",
-            "Brand Icons"
+            "Web Application",
+            "Brand"
         ]
     },
     {
         "name": "Bluetooth",
         "id": "bluetooth-b",
         "categories": [
-            "Web Application Icons",
-            "Brand Icons"
+            "Web Application",
+            "Brand"
         ]
     },
     {
         "name": "Percent",
         "id": "percent",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "GitLab",
         "id": "gitlab",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "WPBeginner",
         "id": "wpbeginner",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "WPForms",
         "id": "wpforms",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Envira Gallery",
         "id": "envira",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ],
         "filter": [
             "leaf"
@@ -6141,18 +6141,18 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Universal Access",
         "id": "universal-access",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Wheelchair Alt",
         "id": "wheelchair-alt",
         "categories": [
-            "Web Application Icons",
-            "Medical Icons",
-            "Transportation Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Medical",
+            "Transportation",
+            "Accessibility"
         ],
         "filter": [
             "handicap",
@@ -6163,32 +6163,32 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Question Circle Outlined",
         "id": "question-circle-o",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Blind",
         "id": "blind",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Audio Description",
         "id": "audio-description",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Volume Control Phone",
         "id": "volume-control-phone",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ],
         "filter": [
             "telephone"
@@ -6198,153 +6198,153 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Braille",
         "id": "braille",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Assistive Listening Systems",
         "id": "assistive-listening-systems",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "American Sign Language Interpreting",
         "id": "american-sign-language-interpreting",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Deaf",
         "id": "deaf",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Glide",
         "id": "glide",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Glide G",
         "id": "glide-g",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Sign Language",
         "id": "sign-language",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Low Vision",
         "id": "low-vision",
         "categories": [
-            "Web Application Icons",
-            "Accessibility Icons"
+            "Web Application",
+            "Accessibility"
         ]
     },
     {
         "name": "Viadeo",
         "id": "viadeo",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Viadeo Square",
         "id": "viadeo-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Snapchat",
         "id": "snapchat",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Snapchat Ghost",
         "id": "snapchat-ghost",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Snapchat Square",
         "id": "snapchat-square",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Pied Piper Logo",
         "id": "pied-piper",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "First Order",
         "id": "first-order",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Yoast",
         "id": "yoast",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "ThemeIsle",
         "id": "themeisle",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Google Plus Official",
         "id": "google-plus-official",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Font Awesome",
         "id": "font-awesome",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Handshake Outlined",
         "id": "handshake-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Envelope Open",
         "id": "envelope-open",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -6360,7 +6360,7 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Envelope Open Outlined",
         "id": "envelope-open-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ],
         "filter": [
             "email",
@@ -6376,266 +6376,266 @@ window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
         "name": "Linode",
         "id": "linode",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Address Book",
         "id": "address-book",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Address Book Outlined",
         "id": "address-book-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Address Card",
         "id": "address-card",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Address Card Outlined",
         "id": "address-card-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "User Circle",
         "id": "user-circle",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "User Circle Outlined",
         "id": "user-circle-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "User Outlined",
         "id": "user-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Identification Badge",
         "id": "id-badge",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Identification Card",
         "id": "id-card",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Identification Card Outlined",
         "id": "id-card-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Quora",
         "id": "quora",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Free Code Camp",
         "id": "free-code-camp",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Telegram",
         "id": "telegram",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Thermometer Full",
         "id": "thermometer-full",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Thermometer 3\/4 Full",
         "id": "thermometer-three-quarters",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Thermometer 1\/2 Full",
         "id": "thermometer-half",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Thermometer 1\/4 Full",
         "id": "thermometer-quarter",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Thermometer Empty",
         "id": "thermometer-empty",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Shower",
         "id": "shower",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bath",
         "id": "bath",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Podcast",
         "id": "podcast",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Window Maximize",
         "id": "window-maximize",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Window Minimize",
         "id": "window-minimize",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Window Restore",
         "id": "window-restore",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Window Close",
         "id": "window-close",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Window Close Outline",
         "id": "window-close-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Bandcamp",
         "id": "bandcamp",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Grav",
         "id": "grav",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Etsy",
         "id": "etsy",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "IMDB",
         "id": "imdb",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Ravelry",
         "id": "ravelry",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Eercast",
         "id": "eercast",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Microchip",
         "id": "microchip",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Snowflake Outlined",
         "id": "snowflake-o",
         "categories": [
-            "Web Application Icons"
+            "Web Application"
         ]
     },
     {
         "name": "Superpowers",
         "id": "superpowers",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "WPExplorer",
         "id": "wpexplorer",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     },
     {
         "name": "Meetup",
         "id": "meetup",
         "categories": [
-            "Brand Icons"
+            "Brand"
         ]
     }
 ]);

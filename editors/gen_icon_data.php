@@ -4,10 +4,13 @@ $iconfile = $argv[1];
 
 $icons = yaml_parse_file($iconfile)["icons"];
 $icons = array_map(function ($icon) {
+    $categories = array_map(function ($category) {
+        return preg_replace('/ Icons$/', "", $category);
+    }, $icon["categories"]);
     $res = [
         "name" => $icon["name"],
         "id" => $icon["id"],
-        "categories" => $icon["categories"],
+        "categories" => $categories,
     ];
     if (isset($icon["filter"])) {
         $res["filter"] = $icon["filter"];
