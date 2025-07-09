@@ -24,7 +24,7 @@ switch ($version) {
 
 $out = __DIR__ . "/tinymce5/fontawesome/icons$version.js";
 $contents = 'window.tinymce.Resource.add("tinymce.plugins.fontawesome", '
-    . json_encode($icons, JSON_PRETTY_PRINT) . ');' . "\n";
+    . json_encode($icons) . ');' . "\n";
 file_put_contents($out, $contents);
 
 function usage(): void
