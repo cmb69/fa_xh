@@ -87,6 +87,10 @@
     color: rgba(0, 0, 0, .4)
 }
 
+.mce-fontawesome-search-container input[type=search] {
+    margin-left: 1em;
+}
+
 .mce-fontawesome-search-container-clear {
     position: absolute;
     display: none;
