@@ -92,6 +92,7 @@
                 <exclude name="css/v*/all.css"/>
                 <exclude name="css/v*/v4-shims.css"/>
                 <exclude name="css/v*/*.patch"/>
+                <exclude name="editors/gen_icon_data.php"/>
                 <exclude name="help/template.htm"/>
                 <exclude name="tests/**"/>
                 <exclude name="README*.md"/>
