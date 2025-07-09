@@ -46,6 +46,7 @@ function v4Icons(string $folder): array
             "name" => $icon["name"],
             "id" => $icon["id"],
             "categories" => $categories,
+            "class" => "fa",
         ];
         if (isset($icon["filter"])) {
             $res["filter"] = $icon["filter"];

@@ -58,13 +58,23 @@
     border-radius: 3px
 }
 
-.mce-fontawesome-panel .fa.fab {
+.mce-fontawesome-panel .fab {
+    display: block;
+    line-height: 29px;
     font-family: "Font Awesome 5 Brands";
+    cursor: pointer;
+    text-align: center;
+    border-radius: 3px
 }
 
-.mce-fontawesome-panel .fa.fas {
+.mce-fontawesome-panel .fas {
+    display: block;
+    line-height: 29px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 3px
 }
 
 .mce-fontawesome-panel .fa:focus,
