@@ -1,0 +1,22246 @@
+window.tinymce.Resource.add("tinymce.plugins.fontawesome", [
+    {
+        "name": "500px",
+        "id": "500px",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Accessible Icon",
+        "id": "accessible-icon",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Health",
+            "Users & People",
+            "Vehicles"
+        ],
+        "class": "fab",
+        "filter": [
+            "accessibility",
+            "handicap",
+            "person",
+            "wheelchair",
+            "wheelchair-alt"
+        ]
+    },
+    {
+        "name": "Accusoft",
+        "id": "accusoft",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Acquisitions Incorporated",
+        "id": "acquisitions-incorporated",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "game",
+            "gaming",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "Ad",
+        "id": "ad",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "advertisement",
+            "media",
+            "newspaper",
+            "promotion",
+            "publicity"
+        ]
+    },
+    {
+        "name": "Address Book",
+        "id": "address-book",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "contact",
+            "directory",
+            "index",
+            "little black book",
+            "rolodex"
+        ]
+    },
+    {
+        "name": "Address Card",
+        "id": "address-card",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "about",
+            "contact",
+            "id",
+            "identification",
+            "postcard",
+            "profile"
+        ]
+    },
+    {
+        "name": "adjust",
+        "id": "adjust",
+        "categories": [
+            "All",
+            "Design",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "contrast",
+            "dark",
+            "light",
+            "saturation"
+        ]
+    },
+    {
+        "name": "App.net",
+        "id": "adn",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Adversal",
+        "id": "adversal",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "affiliatetheme",
+        "id": "affiliatetheme",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Air Freshener",
+        "id": "air-freshener",
+        "categories": [
+            "All",
+            "Automotive"
+        ],
+        "class": "fas",
+        "filter": [
+            "car",
+            "deodorize",
+            "fresh",
+            "pine",
+            "scent"
+        ]
+    },
+    {
+        "name": "Airbnb",
+        "id": "airbnb",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Algolia",
+        "id": "algolia",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "align-center",
+        "id": "align-center",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "format",
+            "middle",
+            "paragraph",
+            "text"
+        ]
+    },
+    {
+        "name": "align-justify",
+        "id": "align-justify",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "format",
+            "paragraph",
+            "text"
+        ]
+    },
+    {
+        "name": "align-left",
+        "id": "align-left",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "format",
+            "paragraph",
+            "text"
+        ]
+    },
+    {
+        "name": "align-right",
+        "id": "align-right",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "format",
+            "paragraph",
+            "text"
+        ]
+    },
+    {
+        "name": "Alipay",
+        "id": "alipay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Allergies",
+        "id": "allergies",
+        "categories": [
+            "All",
+            "Hands",
+            "Medical",
+            "Spring"
+        ],
+        "class": "fas",
+        "filter": [
+            "allergy",
+            "freckles",
+            "hand",
+            "hives",
+            "pox",
+            "skin",
+            "spots"
+        ]
+    },
+    {
+        "name": "Amazon",
+        "id": "amazon",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Amazon Pay",
+        "id": "amazon-pay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "ambulance",
+        "id": "ambulance",
+        "categories": [
+            "All",
+            "Automotive",
+            "Health",
+            "Maps",
+            "Medical",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "emergency",
+            "emt",
+            "er",
+            "help",
+            "hospital",
+            "support",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "American Sign Language Interpreting",
+        "id": "american-sign-language-interpreting",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "asl",
+            "deaf",
+            "finger",
+            "hand",
+            "interpret",
+            "speak"
+        ]
+    },
+    {
+        "name": "Amilia",
+        "id": "amilia",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Anchor",
+        "id": "anchor",
+        "categories": [
+            "All",
+            "Maps",
+            "Maritime",
+            "Objects",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "berth",
+            "boat",
+            "dock",
+            "embed",
+            "link",
+            "maritime",
+            "moor",
+            "secure"
+        ]
+    },
+    {
+        "name": "Android",
+        "id": "android",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "robot"
+        ]
+    },
+    {
+        "name": "AngelList",
+        "id": "angellist",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Angle Double Down",
+        "id": "angle-double-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "caret",
+            "download",
+            "expand"
+        ]
+    },
+    {
+        "name": "Angle Double Left",
+        "id": "angle-double-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "back",
+            "caret",
+            "laquo",
+            "previous",
+            "quote"
+        ]
+    },
+    {
+        "name": "Angle Double Right",
+        "id": "angle-double-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "caret",
+            "forward",
+            "more",
+            "next",
+            "quote",
+            "raquo"
+        ]
+    },
+    {
+        "name": "Angle Double Up",
+        "id": "angle-double-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "caret",
+            "collapse",
+            "upload"
+        ]
+    },
+    {
+        "name": "angle-down",
+        "id": "angle-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "caret",
+            "download",
+            "expand"
+        ]
+    },
+    {
+        "name": "angle-left",
+        "id": "angle-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "back",
+            "caret",
+            "less",
+            "previous"
+        ]
+    },
+    {
+        "name": "angle-right",
+        "id": "angle-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "care",
+            "forward",
+            "more",
+            "next"
+        ]
+    },
+    {
+        "name": "angle-up",
+        "id": "angle-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "caret",
+            "collapse",
+            "upload"
+        ]
+    },
+    {
+        "name": "Angry Face",
+        "id": "angry",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "disapprove",
+            "emoticon",
+            "face",
+            "mad",
+            "upset"
+        ]
+    },
+    {
+        "name": "Angry Creative",
+        "id": "angrycreative",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Angular",
+        "id": "angular",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ankh",
+        "id": "ankh",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "amulet",
+            "copper",
+            "coptic christianity",
+            "copts",
+            "crux ansata",
+            "egypt",
+            "venus"
+        ]
+    },
+    {
+        "name": "App Store",
+        "id": "app-store",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "iOS App Store",
+        "id": "app-store-ios",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Apper Systems AB",
+        "id": "apper",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Apple",
+        "id": "apple",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "fruit",
+            "ios",
+            "mac",
+            "operating system",
+            "os",
+            "osx"
+        ]
+    },
+    {
+        "name": "Fruit Apple",
+        "id": "apple-alt",
+        "categories": [
+            "All",
+            "Autumn",
+            "Childhood",
+            "Education",
+            "Food",
+            "Fruits & Vegetables"
+        ],
+        "class": "fas",
+        "filter": [
+            "fall",
+            "fruit",
+            "fuji",
+            "macintosh",
+            "orchard",
+            "seasonal",
+            "vegan"
+        ]
+    },
+    {
+        "name": "Apple Pay",
+        "id": "apple-pay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Archive",
+        "id": "archive",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Files",
+            "Moving",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "box",
+            "package",
+            "save",
+            "storage"
+        ]
+    },
+    {
+        "name": "Archway",
+        "id": "archway",
+        "categories": [
+            "All",
+            "Buildings",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "arc",
+            "monument",
+            "road",
+            "street",
+            "tunnel"
+        ]
+    },
+    {
+        "name": "Alternate Arrow Circle Down",
+        "id": "arrow-alt-circle-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow-circle-o-down",
+            "download"
+        ]
+    },
+    {
+        "name": "Alternate Arrow Circle Left",
+        "id": "arrow-alt-circle-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow-circle-o-left",
+            "back",
+            "previous"
+        ]
+    },
+    {
+        "name": "Alternate Arrow Circle Right",
+        "id": "arrow-alt-circle-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow-circle-o-right",
+            "forward",
+            "next"
+        ]
+    },
+    {
+        "name": "Alternate Arrow Circle Up",
+        "id": "arrow-alt-circle-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow-circle-o-up"
+        ]
+    },
+    {
+        "name": "Arrow Circle Down",
+        "id": "arrow-circle-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "download"
+        ]
+    },
+    {
+        "name": "Arrow Circle Left",
+        "id": "arrow-circle-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "previous"
+        ]
+    },
+    {
+        "name": "Arrow Circle Right",
+        "id": "arrow-circle-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "next"
+        ]
+    },
+    {
+        "name": "Arrow Circle Up",
+        "id": "arrow-circle-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "upload"
+        ]
+    },
+    {
+        "name": "arrow-down",
+        "id": "arrow-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "download"
+        ]
+    },
+    {
+        "name": "arrow-left",
+        "id": "arrow-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "previous"
+        ]
+    },
+    {
+        "name": "arrow-right",
+        "id": "arrow-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "next"
+        ]
+    },
+    {
+        "name": "arrow-up",
+        "id": "arrow-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "upload"
+        ]
+    },
+    {
+        "name": "Alternate Arrows",
+        "id": "arrows-alt",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "arrows",
+            "bigger",
+            "enlarge",
+            "expand",
+            "fullscreen",
+            "move",
+            "position",
+            "reorder",
+            "resize"
+        ]
+    },
+    {
+        "name": "Alternate Arrows Horizontal",
+        "id": "arrows-alt-h",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows-h",
+            "expand",
+            "horizontal",
+            "landscape",
+            "resize",
+            "wide"
+        ]
+    },
+    {
+        "name": "Alternate Arrows Vertical",
+        "id": "arrows-alt-v",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows-v",
+            "expand",
+            "portrait",
+            "resize",
+            "tall",
+            "vertical"
+        ]
+    },
+    {
+        "name": "Artstation",
+        "id": "artstation",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Assistive Listening Systems",
+        "id": "assistive-listening-systems",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "amplify",
+            "audio",
+            "deaf",
+            "ear",
+            "headset",
+            "hearing",
+            "sound"
+        ]
+    },
+    {
+        "name": "asterisk",
+        "id": "asterisk",
+        "categories": [
+            "All",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "annotation",
+            "details",
+            "reference",
+            "star"
+        ]
+    },
+    {
+        "name": "Asymmetrik, Ltd.",
+        "id": "asymmetrik",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "At",
+        "id": "at",
+        "categories": [
+            "All",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "author",
+            "e-mail",
+            "email",
+            "handle"
+        ]
+    },
+    {
+        "name": "Atlas",
+        "id": "atlas",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "book",
+            "directions",
+            "geography",
+            "globe",
+            "map",
+            "travel",
+            "wayfinding"
+        ]
+    },
+    {
+        "name": "Atlassian",
+        "id": "atlassian",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Atom",
+        "id": "atom",
+        "categories": [
+            "All",
+            "Education",
+            "Energy",
+            "Religion",
+            "Science",
+            "Science Fiction",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "atheism",
+            "chemistry",
+            "electron",
+            "ion",
+            "isotope",
+            "neutron",
+            "nuclear",
+            "proton",
+            "science"
+        ]
+    },
+    {
+        "name": "Audible",
+        "id": "audible",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Audio Description",
+        "id": "audio-description",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "blind",
+            "narration",
+            "video",
+            "visual"
+        ]
+    },
+    {
+        "name": "Autoprefixer",
+        "id": "autoprefixer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "avianex",
+        "id": "avianex",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Aviato",
+        "id": "aviato",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Award",
+        "id": "award",
+        "categories": [
+            "All",
+            "Education",
+            "Interfaces",
+            "Objects",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "honor",
+            "praise",
+            "prize",
+            "recognition",
+            "ribbon",
+            "trophy"
+        ]
+    },
+    {
+        "name": "Amazon Web Services (AWS)",
+        "id": "aws",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Baby",
+        "id": "baby",
+        "categories": [
+            "All",
+            "Childhood",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "child",
+            "diaper",
+            "doll",
+            "human",
+            "infant",
+            "kid",
+            "offspring",
+            "person",
+            "sprout"
+        ]
+    },
+    {
+        "name": "Baby Carriage",
+        "id": "baby-carriage",
+        "categories": [
+            "All",
+            "Childhood",
+            "Hotel",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "buggy",
+            "carrier",
+            "infant",
+            "push",
+            "stroller",
+            "transportation",
+            "walk",
+            "wheels"
+        ]
+    },
+    {
+        "name": "Backspace",
+        "id": "backspace",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "command",
+            "delete",
+            "erase",
+            "keyboard",
+            "undo"
+        ]
+    },
+    {
+        "name": "backward",
+        "id": "backward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "previous",
+            "rewind"
+        ]
+    },
+    {
+        "name": "Bacon",
+        "id": "bacon",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "blt",
+            "breakfast",
+            "ham",
+            "lard",
+            "meat",
+            "pancetta",
+            "pork",
+            "rasher"
+        ]
+    },
+    {
+        "name": "Bacteria",
+        "id": "bacteria",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "antibiotic",
+            "antibody",
+            "covid-19",
+            "health",
+            "organism",
+            "sick"
+        ]
+    },
+    {
+        "name": "Bacterium",
+        "id": "bacterium",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "antibiotic",
+            "antibody",
+            "covid-19",
+            "health",
+            "organism",
+            "sick"
+        ]
+    },
+    {
+        "name": "Bah\u00e1'\u00ed",
+        "id": "bahai",
+        "categories": [
+            "All",
+            "Religion",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "bahai",
+            "bah\u00e1'\u00ed",
+            "star"
+        ]
+    },
+    {
+        "name": "Balance Scale",
+        "id": "balance-scale",
+        "categories": [
+            "All",
+            "Business",
+            "Finance",
+            "Maps",
+            "Objects",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "balanced",
+            "justice",
+            "legal",
+            "measure",
+            "weight"
+        ]
+    },
+    {
+        "name": "Balance Scale (Left-Weighted)",
+        "id": "balance-scale-left",
+        "categories": [
+            "All",
+            "Business",
+            "Finance",
+            "Maps",
+            "Objects",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "justice",
+            "legal",
+            "measure",
+            "unbalanced",
+            "weight"
+        ]
+    },
+    {
+        "name": "Balance Scale (Right-Weighted)",
+        "id": "balance-scale-right",
+        "categories": [
+            "All",
+            "Business",
+            "Finance",
+            "Maps",
+            "Objects",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "justice",
+            "legal",
+            "measure",
+            "unbalanced",
+            "weight"
+        ]
+    },
+    {
+        "name": "ban",
+        "id": "ban",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "abort",
+            "ban",
+            "block",
+            "cancel",
+            "delete",
+            "hide",
+            "prohibit",
+            "remove",
+            "stop",
+            "trash"
+        ]
+    },
+    {
+        "name": "Band-Aid",
+        "id": "band-aid",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "bandage",
+            "boo boo",
+            "first aid",
+            "ouch"
+        ]
+    },
+    {
+        "name": "Bandcamp",
+        "id": "bandcamp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "barcode",
+        "id": "barcode",
+        "categories": [
+            "All",
+            "Code",
+            "Interfaces",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "info",
+            "laser",
+            "price",
+            "scan",
+            "upc"
+        ]
+    },
+    {
+        "name": "Bars",
+        "id": "bars",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "drag",
+            "hamburger",
+            "list",
+            "menu",
+            "nav",
+            "navigation",
+            "ol",
+            "reorder",
+            "settings",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "Baseball Ball",
+        "id": "baseball-ball",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "foul",
+            "hardball",
+            "league",
+            "leather",
+            "mlb",
+            "softball",
+            "sport"
+        ]
+    },
+    {
+        "name": "Basketball Ball",
+        "id": "basketball-ball",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "dribble",
+            "dunk",
+            "hoop",
+            "nba"
+        ]
+    },
+    {
+        "name": "Bath",
+        "id": "bath",
+        "categories": [
+            "All",
+            "Childhood",
+            "Code",
+            "Hotel",
+            "Household",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "clean",
+            "shower",
+            "tub",
+            "wash"
+        ]
+    },
+    {
+        "name": "Battery Empty",
+        "id": "battery-empty",
+        "categories": [
+            "All",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "charge",
+            "dead",
+            "power",
+            "status"
+        ]
+    },
+    {
+        "name": "Battery Full",
+        "id": "battery-full",
+        "categories": [
+            "All",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "charge",
+            "power",
+            "status"
+        ]
+    },
+    {
+        "name": "Battery 1\/2 Full",
+        "id": "battery-half",
+        "categories": [
+            "All",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "charge",
+            "power",
+            "status"
+        ]
+    },
+    {
+        "name": "Battery 1\/4 Full",
+        "id": "battery-quarter",
+        "categories": [
+            "All",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "charge",
+            "low",
+            "power",
+            "status"
+        ]
+    },
+    {
+        "name": "Battery 3\/4 Full",
+        "id": "battery-three-quarters",
+        "categories": [
+            "All",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "charge",
+            "power",
+            "status"
+        ]
+    },
+    {
+        "name": "Battle.net",
+        "id": "battle-net",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bed",
+        "id": "bed",
+        "categories": [
+            "All",
+            "Hotel",
+            "Household",
+            "Maps",
+            "Objects",
+            "Travel",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "lodging",
+            "mattress",
+            "rest",
+            "sleep",
+            "travel"
+        ]
+    },
+    {
+        "name": "beer",
+        "id": "beer",
+        "categories": [
+            "All",
+            "Beverage",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "ale",
+            "bar",
+            "beverage",
+            "brewery",
+            "drink",
+            "lager",
+            "liquor",
+            "mug",
+            "stein"
+        ]
+    },
+    {
+        "name": "Behance",
+        "id": "behance",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Behance Square",
+        "id": "behance-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "bell",
+        "id": "bell",
+        "categories": [
+            "All",
+            "Alert",
+            "Communication",
+            "Date & Time",
+            "Education",
+            "Household",
+            "Interfaces",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "alarm",
+            "alert",
+            "chime",
+            "notification",
+            "reminder"
+        ]
+    },
+    {
+        "name": "Bell Slash",
+        "id": "bell-slash",
+        "categories": [
+            "All",
+            "Alert",
+            "Communication",
+            "Date & Time",
+            "Education",
+            "Interfaces",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "alert",
+            "cancel",
+            "disabled",
+            "notification",
+            "off",
+            "reminder"
+        ]
+    },
+    {
+        "name": "Bezier Curve",
+        "id": "bezier-curve",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "curves",
+            "illustrator",
+            "lines",
+            "path",
+            "vector"
+        ]
+    },
+    {
+        "name": "Bible",
+        "id": "bible",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "book",
+            "catholicism",
+            "christianity",
+            "god",
+            "holy"
+        ]
+    },
+    {
+        "name": "Bicycle",
+        "id": "bicycle",
+        "categories": [
+            "All",
+            "Fitness",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "bike",
+            "gears",
+            "pedal",
+            "transportation",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Biking",
+        "id": "biking",
+        "categories": [
+            "All",
+            "Childhood",
+            "Fitness",
+            "Sports",
+            "Summer",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "bicycle",
+            "bike",
+            "cycle",
+            "cycling",
+            "ride",
+            "wheel"
+        ]
+    },
+    {
+        "name": "BIMobject",
+        "id": "bimobject",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Binoculars",
+        "id": "binoculars",
+        "categories": [
+            "All",
+            "Camping",
+            "Maps",
+            "Maritime",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "glasses",
+            "magnify",
+            "scenic",
+            "spyglass",
+            "view"
+        ]
+    },
+    {
+        "name": "Biohazard",
+        "id": "biohazard",
+        "categories": [
+            "All",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "danger",
+            "dangerous",
+            "hazmat",
+            "medical",
+            "radioactive",
+            "toxic",
+            "waste",
+            "zombie"
+        ]
+    },
+    {
+        "name": "Birthday Cake",
+        "id": "birthday-cake",
+        "categories": [
+            "All",
+            "Business",
+            "Childhood",
+            "Maps",
+            "Objects",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "anniversary",
+            "bakery",
+            "candles",
+            "celebration",
+            "dessert",
+            "frosting",
+            "holiday",
+            "party",
+            "pastry"
+        ]
+    },
+    {
+        "name": "Bitbucket",
+        "id": "bitbucket",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "atlassian",
+            "bitbucket-square",
+            "git"
+        ]
+    },
+    {
+        "name": "Bitcoin",
+        "id": "bitcoin",
+        "categories": [
+            "All",
+            "Currency",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bity",
+        "id": "bity",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Font Awesome Black Tie",
+        "id": "black-tie",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "BlackBerry",
+        "id": "blackberry",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Blender",
+        "id": "blender",
+        "categories": [
+            "All",
+            "Beverage",
+            "Household",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cocktail",
+            "milkshake",
+            "mixer",
+            "puree",
+            "smoothie"
+        ]
+    },
+    {
+        "name": "Blender Phone",
+        "id": "blender-phone",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "appliance",
+            "cocktail",
+            "communication",
+            "fantasy",
+            "milkshake",
+            "mixer",
+            "puree",
+            "silly",
+            "smoothie"
+        ]
+    },
+    {
+        "name": "Blind",
+        "id": "blind",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Maps",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "cane",
+            "disability",
+            "person",
+            "sight"
+        ]
+    },
+    {
+        "name": "Blog",
+        "id": "blog",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "journal",
+            "log",
+            "online",
+            "personal",
+            "post",
+            "web 2.0",
+            "wordpress",
+            "writing"
+        ]
+    },
+    {
+        "name": "Blogger",
+        "id": "blogger",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Blogger B",
+        "id": "blogger-b",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bluetooth",
+        "id": "bluetooth",
+        "categories": [
+            "All",
+            "Communication"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bluetooth",
+        "id": "bluetooth-b",
+        "categories": [
+            "All",
+            "Communication"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "bold",
+        "id": "bold",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "emphasis",
+            "format",
+            "text"
+        ]
+    },
+    {
+        "name": "Lightning Bolt",
+        "id": "bolt",
+        "categories": [
+            "All",
+            "Images",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "electricity",
+            "lightning",
+            "weather",
+            "zap"
+        ]
+    },
+    {
+        "name": "Bomb",
+        "id": "bomb",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "error",
+            "explode",
+            "fuse",
+            "grenade",
+            "warning"
+        ]
+    },
+    {
+        "name": "Bone",
+        "id": "bone",
+        "categories": [
+            "All",
+            "Food",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "calcium",
+            "dog",
+            "skeletal",
+            "skeleton",
+            "tibia"
+        ]
+    },
+    {
+        "name": "Bong",
+        "id": "bong",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "aparatus",
+            "cannabis",
+            "marijuana",
+            "pipe",
+            "smoke",
+            "smoking"
+        ]
+    },
+    {
+        "name": "book",
+        "id": "book",
+        "categories": [
+            "All",
+            "Business",
+            "Finance",
+            "Maps",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "diary",
+            "documentation",
+            "journal",
+            "library",
+            "read"
+        ]
+    },
+    {
+        "name": "Book of the Dead",
+        "id": "book-dead",
+        "categories": [
+            "All",
+            "Tabletop Gaming",
+            "Halloween",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "crossbones",
+            "d&d",
+            "dark arts",
+            "death",
+            "dnd",
+            "documentation",
+            "evil",
+            "fantasy",
+            "halloween",
+            "holiday",
+            "necronomicon",
+            "read",
+            "skull",
+            "spell"
+        ]
+    },
+    {
+        "name": "Medical Book",
+        "id": "book-medical",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "diary",
+            "documentation",
+            "health",
+            "history",
+            "journal",
+            "library",
+            "read",
+            "record"
+        ]
+    },
+    {
+        "name": "Book Open",
+        "id": "book-open",
+        "categories": [
+            "All",
+            "Education"
+        ],
+        "class": "fas",
+        "filter": [
+            "flyer",
+            "library",
+            "notebook",
+            "open book",
+            "pamphlet",
+            "reading"
+        ]
+    },
+    {
+        "name": "Book Reader",
+        "id": "book-reader",
+        "categories": [
+            "All",
+            "Education"
+        ],
+        "class": "fas",
+        "filter": [
+            "flyer",
+            "library",
+            "notebook",
+            "open book",
+            "pamphlet",
+            "reading"
+        ]
+    },
+    {
+        "name": "bookmark",
+        "id": "bookmark",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Shapes",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "favorite",
+            "marker",
+            "read",
+            "remember",
+            "save"
+        ]
+    },
+    {
+        "name": "Bootstrap",
+        "id": "bootstrap",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Border All",
+        "id": "border-all",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "cell",
+            "grid",
+            "outline",
+            "stroke",
+            "table"
+        ]
+    },
+    {
+        "name": "Border None",
+        "id": "border-none",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "cell",
+            "grid",
+            "outline",
+            "stroke",
+            "table"
+        ]
+    },
+    {
+        "name": "Border Style",
+        "id": "border-style",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Bowling Ball",
+        "id": "bowling-ball",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "alley",
+            "candlepin",
+            "gutter",
+            "lane",
+            "strike",
+            "tenpin"
+        ]
+    },
+    {
+        "name": "Box",
+        "id": "box",
+        "categories": [
+            "All",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "container",
+            "package",
+            "storage"
+        ]
+    },
+    {
+        "name": "Box Open",
+        "id": "box-open",
+        "categories": [
+            "All",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "container",
+            "package",
+            "storage",
+            "unpack"
+        ]
+    },
+    {
+        "name": "Tissue Box",
+        "id": "box-tissue",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "cough",
+            "covid-19",
+            "kleenex",
+            "mucus",
+            "nose",
+            "sneeze",
+            "snot"
+        ]
+    },
+    {
+        "name": "Boxes",
+        "id": "boxes",
+        "categories": [
+            "All",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "archives",
+            "inventory",
+            "storage",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Braille",
+        "id": "braille",
+        "categories": [
+            "All",
+            "Accessibility"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabet",
+            "blind",
+            "dots",
+            "raised",
+            "vision"
+        ]
+    },
+    {
+        "name": "Brain",
+        "id": "brain",
+        "categories": [
+            "All",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "cerebellum",
+            "gray matter",
+            "intellect",
+            "medulla oblongata",
+            "mind",
+            "noodle",
+            "wit"
+        ]
+    },
+    {
+        "name": "Bread Slice",
+        "id": "bread-slice",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "bake",
+            "bakery",
+            "baking",
+            "dough",
+            "flour",
+            "gluten",
+            "grain",
+            "sandwich",
+            "sourdough",
+            "toast",
+            "wheat",
+            "yeast"
+        ]
+    },
+    {
+        "name": "Briefcase",
+        "id": "briefcase",
+        "categories": [
+            "All",
+            "Business",
+            "Hotel",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bag",
+            "business",
+            "luggage",
+            "office",
+            "work"
+        ]
+    },
+    {
+        "name": "Medical Briefcase",
+        "id": "briefcase-medical",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "doctor",
+            "emt",
+            "first aid",
+            "health"
+        ]
+    },
+    {
+        "name": "Broadcast Tower",
+        "id": "broadcast-tower",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Energy",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "airwaves",
+            "antenna",
+            "radio",
+            "reception",
+            "waves"
+        ]
+    },
+    {
+        "name": "Broom",
+        "id": "broom",
+        "categories": [
+            "All",
+            "Halloween",
+            "Spring"
+        ],
+        "class": "fas",
+        "filter": [
+            "clean",
+            "firebolt",
+            "fly",
+            "halloween",
+            "nimbus 2000",
+            "quidditch",
+            "sweep",
+            "witch"
+        ]
+    },
+    {
+        "name": "Brush",
+        "id": "brush",
+        "categories": [
+            "All",
+            "Construction",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "art",
+            "bristles",
+            "color",
+            "handle",
+            "paint"
+        ]
+    },
+    {
+        "name": "BTC",
+        "id": "btc",
+        "categories": [
+            "All",
+            "Currency",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Buffer",
+        "id": "buffer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bug",
+        "id": "bug",
+        "categories": [
+            "All",
+            "Code",
+            "Interfaces",
+            "Objects",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "beetle",
+            "error",
+            "insect",
+            "report"
+        ]
+    },
+    {
+        "name": "Building",
+        "id": "building",
+        "categories": [
+            "All",
+            "Buildings",
+            "Business",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "apartment",
+            "business",
+            "city",
+            "company",
+            "office",
+            "work"
+        ]
+    },
+    {
+        "name": "bullhorn",
+        "id": "bullhorn",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Interfaces",
+            "Marketing",
+            "Objects",
+            "Payments & Shopping",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "announcement",
+            "broadcast",
+            "louder",
+            "megaphone",
+            "share"
+        ]
+    },
+    {
+        "name": "Bullseye",
+        "id": "bullseye",
+        "categories": [
+            "All",
+            "Business",
+            "Interfaces",
+            "Marketing",
+            "Objects",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "archery",
+            "goal",
+            "objective",
+            "target"
+        ]
+    },
+    {
+        "name": "Burn",
+        "id": "burn",
+        "categories": [
+            "All",
+            "Energy",
+            "Fitness",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "caliente",
+            "energy",
+            "fire",
+            "flame",
+            "gas",
+            "heat",
+            "hot"
+        ]
+    },
+    {
+        "name": "B\u00fcrom\u00f6bel-Experte GmbH & Co. KG.",
+        "id": "buromobelexperte",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Bus",
+        "id": "bus",
+        "categories": [
+            "All",
+            "Automotive",
+            "Objects",
+            "Travel",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "public transportation",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Bus Alt",
+        "id": "bus-alt",
+        "categories": [
+            "All",
+            "Automotive",
+            "Travel",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "mta",
+            "public transportation",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Business Time",
+        "id": "business-time",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "alarm",
+            "briefcase",
+            "business socks",
+            "clock",
+            "flight of the conchords",
+            "reminder",
+            "wednesday"
+        ]
+    },
+    {
+        "name": "Buy n Large",
+        "id": "buy-n-large",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "BuySellAds",
+        "id": "buysellads",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Calculator",
+        "id": "calculator",
+        "categories": [
+            "All",
+            "Business",
+            "Interfaces",
+            "Mathematics",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "abacus",
+            "addition",
+            "arithmetic",
+            "counting",
+            "math",
+            "multiplication",
+            "subtraction"
+        ]
+    },
+    {
+        "name": "Calendar",
+        "id": "calendar",
+        "categories": [
+            "All",
+            "Business",
+            "Date & Time",
+            "Interfaces",
+            "Objects",
+            "Shapes",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "calendar-o",
+            "date",
+            "event",
+            "schedule",
+            "time",
+            "when"
+        ]
+    },
+    {
+        "name": "Alternate Calendar",
+        "id": "calendar-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Date & Time",
+            "Interfaces",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "calendar",
+            "date",
+            "event",
+            "schedule",
+            "time",
+            "when"
+        ]
+    },
+    {
+        "name": "Calendar Check",
+        "id": "calendar-check",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "appointment",
+            "confirm",
+            "correct",
+            "date",
+            "done",
+            "event",
+            "ok",
+            "schedule",
+            "select",
+            "success",
+            "tick",
+            "time",
+            "todo",
+            "when"
+        ]
+    },
+    {
+        "name": "Calendar with Day Focus",
+        "id": "calendar-day",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "date",
+            "detail",
+            "event",
+            "focus",
+            "schedule",
+            "single day",
+            "time",
+            "today",
+            "when"
+        ]
+    },
+    {
+        "name": "Calendar Minus",
+        "id": "calendar-minus",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "calendar",
+            "date",
+            "delete",
+            "event",
+            "negative",
+            "remove",
+            "schedule",
+            "time",
+            "when"
+        ]
+    },
+    {
+        "name": "Calendar Plus",
+        "id": "calendar-plus",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "calendar",
+            "create",
+            "date",
+            "event",
+            "new",
+            "positive",
+            "schedule",
+            "time",
+            "when"
+        ]
+    },
+    {
+        "name": "Calendar Times",
+        "id": "calendar-times",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "calendar",
+            "date",
+            "delete",
+            "event",
+            "remove",
+            "schedule",
+            "time",
+            "when",
+            "x"
+        ]
+    },
+    {
+        "name": "Calendar with Week Focus",
+        "id": "calendar-week",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "date",
+            "detail",
+            "event",
+            "focus",
+            "schedule",
+            "single week",
+            "time",
+            "today",
+            "when"
+        ]
+    },
+    {
+        "name": "camera",
+        "id": "camera",
+        "categories": [
+            "All",
+            "Images",
+            "Objects",
+            "Payments & Shopping",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "image",
+            "lens",
+            "photo",
+            "picture",
+            "record",
+            "shutter",
+            "video"
+        ]
+    },
+    {
+        "name": "Retro Camera",
+        "id": "camera-retro",
+        "categories": [
+            "All",
+            "Images",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "image",
+            "lens",
+            "photo",
+            "picture",
+            "record",
+            "shutter",
+            "video"
+        ]
+    },
+    {
+        "name": "Campground",
+        "id": "campground",
+        "categories": [
+            "All",
+            "Autumn",
+            "Buildings",
+            "Camping"
+        ],
+        "class": "fas",
+        "filter": [
+            "camping",
+            "fall",
+            "outdoors",
+            "teepee",
+            "tent",
+            "tipi"
+        ]
+    },
+    {
+        "name": "Canadian Maple Leaf",
+        "id": "canadian-maple-leaf",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "canada",
+            "flag",
+            "flora",
+            "nature",
+            "plant"
+        ]
+    },
+    {
+        "name": "Candy Cane",
+        "id": "candy-cane",
+        "categories": [
+            "All",
+            "Food",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "candy",
+            "christmas",
+            "holiday",
+            "mint",
+            "peppermint",
+            "striped",
+            "xmas"
+        ]
+    },
+    {
+        "name": "Cannabis",
+        "id": "cannabis",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "bud",
+            "chronic",
+            "drugs",
+            "endica",
+            "endo",
+            "ganja",
+            "marijuana",
+            "mary jane",
+            "pot",
+            "reefer",
+            "sativa",
+            "spliff",
+            "weed",
+            "whacky-tabacky"
+        ]
+    },
+    {
+        "name": "Capsules",
+        "id": "capsules",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medicine",
+            "pills",
+            "prescription"
+        ]
+    },
+    {
+        "name": "Car",
+        "id": "car",
+        "categories": [
+            "All",
+            "Automotive",
+            "Hotel",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "automobile",
+            "sedan",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Alternate Car",
+        "id": "car-alt",
+        "categories": [
+            "All",
+            "Automotive",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "automobile",
+            "sedan",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Car Battery",
+        "id": "car-battery",
+        "categories": [
+            "All",
+            "Automotive"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "electric",
+            "mechanic",
+            "power"
+        ]
+    },
+    {
+        "name": "Car Crash",
+        "id": "car-crash",
+        "categories": [
+            "All",
+            "Automotive",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "accident",
+            "auto",
+            "automobile",
+            "insurance",
+            "sedan",
+            "transportation",
+            "vehicle",
+            "wreck"
+        ]
+    },
+    {
+        "name": "Car Side",
+        "id": "car-side",
+        "categories": [
+            "All",
+            "Automotive",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "automobile",
+            "sedan",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Caravan",
+        "id": "caravan",
+        "categories": [
+            "All",
+            "Automotive",
+            "Camping",
+            "Moving",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "camper",
+            "motor home",
+            "rv",
+            "trailer",
+            "travel"
+        ]
+    },
+    {
+        "name": "Caret Down",
+        "id": "caret-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "dropdown",
+            "expand",
+            "menu",
+            "more",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Left",
+        "id": "caret-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "back",
+            "previous",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Right",
+        "id": "caret-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "forward",
+            "next",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Square Down",
+        "id": "caret-square-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "caret-square-o-down",
+            "dropdown",
+            "expand",
+            "menu",
+            "more",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Square Left",
+        "id": "caret-square-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "back",
+            "caret-square-o-left",
+            "previous",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Square Right",
+        "id": "caret-square-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "caret-square-o-right",
+            "forward",
+            "next",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Caret Square Up",
+        "id": "caret-square-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "caret-square-o-up",
+            "collapse",
+            "triangle",
+            "upload"
+        ]
+    },
+    {
+        "name": "Caret Up",
+        "id": "caret-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "collapse",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Carrot",
+        "id": "carrot",
+        "categories": [
+            "All",
+            "Food",
+            "Fruits & Vegetables",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bugs bunny",
+            "orange",
+            "vegan",
+            "vegetable"
+        ]
+    },
+    {
+        "name": "Shopping Cart Arrow Down",
+        "id": "cart-arrow-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Payments & Shopping",
+            "Shopping",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "download",
+            "save",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Add to Shopping Cart",
+        "id": "cart-plus",
+        "categories": [
+            "All",
+            "Payments & Shopping",
+            "Shopping",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "create",
+            "new",
+            "positive",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Cash Register",
+        "id": "cash-register",
+        "categories": [
+            "All",
+            "Finance",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "cha-ching",
+            "change",
+            "checkout",
+            "commerce",
+            "leaerboard",
+            "machine",
+            "pay",
+            "payment",
+            "purchase",
+            "store"
+        ]
+    },
+    {
+        "name": "Cat",
+        "id": "cat",
+        "categories": [
+            "All",
+            "Animals",
+            "Halloween"
+        ],
+        "class": "fas",
+        "filter": [
+            "feline",
+            "halloween",
+            "holiday",
+            "kitten",
+            "kitty",
+            "meow",
+            "pet"
+        ]
+    },
+    {
+        "name": "Amazon Pay Credit Card",
+        "id": "cc-amazon-pay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "American Express Credit Card",
+        "id": "cc-amex",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": [
+            "amex"
+        ]
+    },
+    {
+        "name": "Apple Pay Credit Card",
+        "id": "cc-apple-pay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Diner's Club Credit Card",
+        "id": "cc-diners-club",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Discover Credit Card",
+        "id": "cc-discover",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "JCB Credit Card",
+        "id": "cc-jcb",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "MasterCard Credit Card",
+        "id": "cc-mastercard",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Paypal Credit Card",
+        "id": "cc-paypal",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stripe Credit Card",
+        "id": "cc-stripe",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Visa Credit Card",
+        "id": "cc-visa",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Centercode",
+        "id": "centercode",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Centos",
+        "id": "centos",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linux",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "certificate",
+        "id": "certificate",
+        "categories": [
+            "All",
+            "Business",
+            "Interfaces",
+            "Payments & Shopping",
+            "Shapes",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "badge",
+            "star",
+            "verified"
+        ]
+    },
+    {
+        "name": "Chair",
+        "id": "chair",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "furniture",
+            "seat",
+            "sit"
+        ]
+    },
+    {
+        "name": "Chalkboard",
+        "id": "chalkboard",
+        "categories": [
+            "All",
+            "Communication",
+            "Education",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "blackboard",
+            "learning",
+            "school",
+            "teaching",
+            "whiteboard",
+            "writing"
+        ]
+    },
+    {
+        "name": "Chalkboard Teacher",
+        "id": "chalkboard-teacher",
+        "categories": [
+            "All",
+            "Education",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "blackboard",
+            "instructor",
+            "learning",
+            "professor",
+            "school",
+            "whiteboard",
+            "writing"
+        ]
+    },
+    {
+        "name": "Charging Station",
+        "id": "charging-station",
+        "categories": [
+            "All",
+            "Automotive",
+            "Energy"
+        ],
+        "class": "fas",
+        "filter": [
+            "electric",
+            "ev",
+            "tesla",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Area Chart",
+        "id": "chart-area",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "analytics",
+            "area",
+            "chart",
+            "graph"
+        ]
+    },
+    {
+        "name": "Bar Chart",
+        "id": "chart-bar",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "analytics",
+            "bar",
+            "chart",
+            "graph"
+        ]
+    },
+    {
+        "name": "Line Chart",
+        "id": "chart-line",
+        "categories": [
+            "All",
+            "Arrows",
+            "Business",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "analytics",
+            "chart",
+            "dashboard",
+            "gain",
+            "graph",
+            "increase",
+            "line"
+        ]
+    },
+    {
+        "name": "Pie Chart",
+        "id": "chart-pie",
+        "categories": [
+            "All",
+            "Business",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "analytics",
+            "chart",
+            "diagram",
+            "graph",
+            "pie"
+        ]
+    },
+    {
+        "name": "Check",
+        "id": "check",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "checkmark",
+            "confirm",
+            "correct",
+            "done",
+            "notice",
+            "notification",
+            "notify",
+            "ok",
+            "select",
+            "success",
+            "tick",
+            "todo",
+            "yes"
+        ]
+    },
+    {
+        "name": "Check Circle",
+        "id": "check-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "confirm",
+            "correct",
+            "done",
+            "ok",
+            "select",
+            "success",
+            "tick",
+            "todo",
+            "yes"
+        ]
+    },
+    {
+        "name": "Double Check",
+        "id": "check-double",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "checkmark",
+            "confirm",
+            "correct",
+            "done",
+            "notice",
+            "notification",
+            "notify",
+            "ok",
+            "select",
+            "success",
+            "tick",
+            "todo"
+        ]
+    },
+    {
+        "name": "Check Square",
+        "id": "check-square",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "checkmark",
+            "confirm",
+            "correct",
+            "done",
+            "ok",
+            "select",
+            "success",
+            "tick",
+            "todo",
+            "yes"
+        ]
+    },
+    {
+        "name": "Cheese",
+        "id": "cheese",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "cheddar",
+            "curd",
+            "gouda",
+            "melt",
+            "parmesan",
+            "sandwich",
+            "swiss",
+            "wedge"
+        ]
+    },
+    {
+        "name": "Chess",
+        "id": "chess",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "castle",
+            "checkmate",
+            "game",
+            "king",
+            "rook",
+            "strategy",
+            "tournament"
+        ]
+    },
+    {
+        "name": "Chess Bishop",
+        "id": "chess-bishop",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess Board",
+        "id": "chess-board",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess King",
+        "id": "chess-king",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess Knight",
+        "id": "chess-knight",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "horse",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess Pawn",
+        "id": "chess-pawn",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess Queen",
+        "id": "chess-queen",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chess Rook",
+        "id": "chess-rook",
+        "categories": [
+            "All",
+            "Chess",
+            "Games"
+        ],
+        "class": "fas",
+        "filter": [
+            "board",
+            "castle",
+            "checkmate",
+            "game",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Chevron Circle Down",
+        "id": "chevron-circle-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "download",
+            "dropdown",
+            "menu",
+            "more"
+        ]
+    },
+    {
+        "name": "Chevron Circle Left",
+        "id": "chevron-circle-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "back",
+            "previous"
+        ]
+    },
+    {
+        "name": "Chevron Circle Right",
+        "id": "chevron-circle-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "forward",
+            "next"
+        ]
+    },
+    {
+        "name": "Chevron Circle Up",
+        "id": "chevron-circle-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "collapse",
+            "upload"
+        ]
+    },
+    {
+        "name": "chevron-down",
+        "id": "chevron-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "download",
+            "expand"
+        ]
+    },
+    {
+        "name": "chevron-left",
+        "id": "chevron-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "back",
+            "bracket",
+            "previous"
+        ]
+    },
+    {
+        "name": "chevron-right",
+        "id": "chevron-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "bracket",
+            "forward",
+            "next"
+        ]
+    },
+    {
+        "name": "chevron-up",
+        "id": "chevron-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "collapse",
+            "upload"
+        ]
+    },
+    {
+        "name": "Child",
+        "id": "child",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "boy",
+            "girl",
+            "kid",
+            "toddler",
+            "young"
+        ]
+    },
+    {
+        "name": "Chrome",
+        "id": "chrome",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser"
+        ]
+    },
+    {
+        "name": "Chromecast",
+        "id": "chromecast",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Church",
+        "id": "church",
+        "categories": [
+            "All",
+            "Buildings",
+            "Objects",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "cathedral",
+            "chapel",
+            "community",
+            "religion"
+        ]
+    },
+    {
+        "name": "Circle",
+        "id": "circle",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Interfaces",
+            "Shapes",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "circle-thin",
+            "diameter",
+            "dot",
+            "ellipse",
+            "notification",
+            "round"
+        ]
+    },
+    {
+        "name": "Circle Notched",
+        "id": "circle-notch",
+        "categories": [
+            "All",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "circle-o-notch",
+            "diameter",
+            "dot",
+            "ellipse",
+            "round",
+            "spinner"
+        ]
+    },
+    {
+        "name": "City",
+        "id": "city",
+        "categories": [
+            "All",
+            "Buildings",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "buildings",
+            "busy",
+            "skyscrapers",
+            "urban",
+            "windows"
+        ]
+    },
+    {
+        "name": "Medical Clinic",
+        "id": "clinic-medical",
+        "categories": [
+            "All",
+            "Buildings",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "doctor",
+            "general practitioner",
+            "hospital",
+            "infirmary",
+            "medicine",
+            "office",
+            "outpatient"
+        ]
+    },
+    {
+        "name": "Clipboard",
+        "id": "clipboard",
+        "categories": [
+            "All",
+            "Business",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "copy",
+            "notes",
+            "paste",
+            "record"
+        ]
+    },
+    {
+        "name": "Clipboard with Check",
+        "id": "clipboard-check",
+        "categories": [
+            "All",
+            "Logistics",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "agree",
+            "confirm",
+            "done",
+            "ok",
+            "select",
+            "success",
+            "tick",
+            "todo",
+            "yes"
+        ]
+    },
+    {
+        "name": "Clipboard List",
+        "id": "clipboard-list",
+        "categories": [
+            "All",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "intinerary",
+            "ol",
+            "schedule",
+            "tick",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "Clock",
+        "id": "clock",
+        "categories": [
+            "All",
+            "Date & Time"
+        ],
+        "class": "fas",
+        "filter": [
+            "date",
+            "late",
+            "schedule",
+            "time",
+            "timer",
+            "timestamp",
+            "watch"
+        ]
+    },
+    {
+        "name": "Clone",
+        "id": "clone",
+        "categories": [
+            "All",
+            "Design",
+            "Editors",
+            "Files",
+            "Images",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "copy",
+            "duplicate",
+            "paste"
+        ]
+    },
+    {
+        "name": "Closed Captioning",
+        "id": "closed-captioning",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "cc",
+            "deaf",
+            "hearing",
+            "subtitle",
+            "subtitling",
+            "text",
+            "video"
+        ]
+    },
+    {
+        "name": "Cloud",
+        "id": "cloud",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Objects",
+            "Shapes",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "atmosphere",
+            "fog",
+            "overcast",
+            "save",
+            "upload",
+            "weather"
+        ]
+    },
+    {
+        "name": "Alternate Cloud Download",
+        "id": "cloud-download-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "download",
+            "export",
+            "save"
+        ]
+    },
+    {
+        "name": "Cloud with (a chance of) Meatball",
+        "id": "cloud-meatball",
+        "categories": [
+            "All",
+            "Food",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "FLDSMDFR",
+            "food",
+            "spaghetti",
+            "storm"
+        ]
+    },
+    {
+        "name": "Cloud with Moon",
+        "id": "cloud-moon",
+        "categories": [
+            "All",
+            "Halloween",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "crescent",
+            "evening",
+            "lunar",
+            "night",
+            "partly cloudy",
+            "sky"
+        ]
+    },
+    {
+        "name": "Cloud with Moon and Rain",
+        "id": "cloud-moon-rain",
+        "categories": [
+            "All",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "crescent",
+            "evening",
+            "lunar",
+            "night",
+            "partly cloudy",
+            "precipitation",
+            "rain",
+            "sky",
+            "storm"
+        ]
+    },
+    {
+        "name": "Cloud with Rain",
+        "id": "cloud-rain",
+        "categories": [
+            "All",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "precipitation",
+            "rain",
+            "sky",
+            "storm"
+        ]
+    },
+    {
+        "name": "Cloud with Heavy Showers",
+        "id": "cloud-showers-heavy",
+        "categories": [
+            "All",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "precipitation",
+            "rain",
+            "sky",
+            "storm"
+        ]
+    },
+    {
+        "name": "Cloud with Sun",
+        "id": "cloud-sun",
+        "categories": [
+            "All",
+            "Autumn",
+            "Spring",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "clear",
+            "day",
+            "daytime",
+            "fall",
+            "outdoors",
+            "overcast",
+            "partly cloudy"
+        ]
+    },
+    {
+        "name": "Cloud with Sun and Rain",
+        "id": "cloud-sun-rain",
+        "categories": [
+            "All",
+            "Spring",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "day",
+            "overcast",
+            "precipitation",
+            "storm",
+            "summer",
+            "sunshower"
+        ]
+    },
+    {
+        "name": "Alternate Cloud Upload",
+        "id": "cloud-upload-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "cloud-upload",
+            "import",
+            "save",
+            "upload"
+        ]
+    },
+    {
+        "name": "Cloudflare",
+        "id": "cloudflare",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "cloudscale.ch",
+        "id": "cloudscale",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Cloudsmith",
+        "id": "cloudsmith",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "cloudversify",
+        "id": "cloudversify",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Cocktail",
+        "id": "cocktail",
+        "categories": [
+            "All",
+            "Beverage",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "beverage",
+            "drink",
+            "gin",
+            "glass",
+            "margarita",
+            "martini",
+            "vodka"
+        ]
+    },
+    {
+        "name": "Code",
+        "id": "code",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "brackets",
+            "code",
+            "development",
+            "html"
+        ]
+    },
+    {
+        "name": "Code Branch",
+        "id": "code-branch",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "branch",
+            "code-fork",
+            "fork",
+            "git",
+            "github",
+            "rebase",
+            "svn",
+            "vcs",
+            "version"
+        ]
+    },
+    {
+        "name": "Codepen",
+        "id": "codepen",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Codie Pie",
+        "id": "codiepie",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Coffee",
+        "id": "coffee",
+        "categories": [
+            "All",
+            "Beverage",
+            "Business",
+            "Code",
+            "Hotel",
+            "Household",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "beverage",
+            "breakfast",
+            "cafe",
+            "drink",
+            "fall",
+            "morning",
+            "mug",
+            "seasonal",
+            "tea"
+        ]
+    },
+    {
+        "name": "cog",
+        "id": "cog",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Objects",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "gear",
+            "mechanical",
+            "settings",
+            "sprocket",
+            "wheel"
+        ]
+    },
+    {
+        "name": "cogs",
+        "id": "cogs",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "gears",
+            "mechanical",
+            "settings",
+            "sprocket",
+            "wheel"
+        ]
+    },
+    {
+        "name": "Coins",
+        "id": "coins",
+        "categories": [
+            "All",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "dime",
+            "financial",
+            "gold",
+            "money",
+            "penny"
+        ]
+    },
+    {
+        "name": "Columns",
+        "id": "columns",
+        "categories": [
+            "All",
+            "Business",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "browser",
+            "dashboard",
+            "organize",
+            "panes",
+            "split"
+        ]
+    },
+    {
+        "name": "comment",
+        "id": "comment",
+        "categories": [
+            "All",
+            "Chat",
+            "Communication",
+            "Shapes",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "note",
+            "notification",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "Alternate Comment",
+        "id": "comment-alt",
+        "categories": [
+            "All",
+            "Chat",
+            "Communication",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "note",
+            "notification",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "Comment Dollar",
+        "id": "comment-dollar",
+        "categories": [
+            "All",
+            "Finance",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "money",
+            "note",
+            "notification",
+            "pay",
+            "sms",
+            "speech",
+            "spend",
+            "texting",
+            "transfer"
+        ]
+    },
+    {
+        "name": "Comment Dots",
+        "id": "comment-dots",
+        "categories": [
+            "All",
+            "Chat"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "more",
+            "note",
+            "notification",
+            "reply",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "Alternate Medical Chat",
+        "id": "comment-medical",
+        "categories": [
+            "All",
+            "Chat",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "advice",
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "diagnose",
+            "feedback",
+            "message",
+            "note",
+            "notification",
+            "prescription",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "Comment Slash",
+        "id": "comment-slash",
+        "categories": [
+            "All",
+            "Chat",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "cancel",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "mute",
+            "note",
+            "notification",
+            "quiet",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "comments",
+        "id": "comments",
+        "categories": [
+            "All",
+            "Chat",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "note",
+            "notification",
+            "sms",
+            "speech",
+            "texting"
+        ]
+    },
+    {
+        "name": "Comments Dollar",
+        "id": "comments-dollar",
+        "categories": [
+            "All",
+            "Finance",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubble",
+            "chat",
+            "commenting",
+            "conversation",
+            "feedback",
+            "message",
+            "money",
+            "note",
+            "notification",
+            "pay",
+            "sms",
+            "speech",
+            "spend",
+            "texting",
+            "transfer"
+        ]
+    },
+    {
+        "name": "Compact Disc",
+        "id": "compact-disc",
+        "categories": [
+            "All",
+            "Computers",
+            "Music",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "album",
+            "bluray",
+            "cd",
+            "disc",
+            "dvd",
+            "media",
+            "movie",
+            "music",
+            "record",
+            "video",
+            "vinyl"
+        ]
+    },
+    {
+        "name": "Compass",
+        "id": "compass",
+        "categories": [
+            "All",
+            "Business",
+            "Camping",
+            "Maritime",
+            "Objects",
+            "Spinners",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "directory",
+            "location",
+            "menu",
+            "navigation",
+            "safari",
+            "travel"
+        ]
+    },
+    {
+        "name": "Compress",
+        "id": "compress",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "collapse",
+            "fullscreen",
+            "minimize",
+            "move",
+            "resize",
+            "shrink",
+            "smaller"
+        ]
+    },
+    {
+        "name": "Alternate Compress",
+        "id": "compress-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "collapse",
+            "fullscreen",
+            "minimize",
+            "move",
+            "resize",
+            "shrink",
+            "smaller"
+        ]
+    },
+    {
+        "name": "Alternate Compress Arrows",
+        "id": "compress-arrows-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "collapse",
+            "fullscreen",
+            "minimize",
+            "move",
+            "resize",
+            "shrink",
+            "smaller"
+        ]
+    },
+    {
+        "name": "Concierge Bell",
+        "id": "concierge-bell",
+        "categories": [
+            "All",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "attention",
+            "hotel",
+            "receptionist",
+            "service",
+            "support"
+        ]
+    },
+    {
+        "name": "Confluence",
+        "id": "confluence",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "atlassian"
+        ]
+    },
+    {
+        "name": "Connect Develop",
+        "id": "connectdevelop",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Contao",
+        "id": "contao",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Cookie",
+        "id": "cookie",
+        "categories": [
+            "All",
+            "Childhood",
+            "Food",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "baked good",
+            "chips",
+            "chocolate",
+            "eat",
+            "snack",
+            "sweet",
+            "treat"
+        ]
+    },
+    {
+        "name": "Cookie Bite",
+        "id": "cookie-bite",
+        "categories": [
+            "All",
+            "Childhood",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "baked good",
+            "bitten",
+            "chips",
+            "chocolate",
+            "eat",
+            "snack",
+            "sweet",
+            "treat"
+        ]
+    },
+    {
+        "name": "Copy",
+        "id": "copy",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Files",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "clone",
+            "duplicate",
+            "file",
+            "files-o",
+            "paper",
+            "paste"
+        ]
+    },
+    {
+        "name": "Copyright",
+        "id": "copyright",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "brand",
+            "mark",
+            "register",
+            "trademark"
+        ]
+    },
+    {
+        "name": "Cotton Bureau",
+        "id": "cotton-bureau",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "clothing",
+            "t-shirts",
+            "tshirts"
+        ]
+    },
+    {
+        "name": "Couch",
+        "id": "couch",
+        "categories": [
+            "All",
+            "Household",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "chair",
+            "cushion",
+            "furniture",
+            "relax",
+            "sofa"
+        ]
+    },
+    {
+        "name": "cPanel",
+        "id": "cpanel",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons",
+        "id": "creative-commons",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Attribution",
+        "id": "creative-commons-by",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Noncommercial",
+        "id": "creative-commons-nc",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Noncommercial (Euro Sign)",
+        "id": "creative-commons-nc-eu",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Noncommercial (Yen Sign)",
+        "id": "creative-commons-nc-jp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons No Derivative Works",
+        "id": "creative-commons-nd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Public Domain",
+        "id": "creative-commons-pd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Alternate Creative Commons Public Domain",
+        "id": "creative-commons-pd-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Remix",
+        "id": "creative-commons-remix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Share Alike",
+        "id": "creative-commons-sa",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Sampling",
+        "id": "creative-commons-sampling",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Sampling +",
+        "id": "creative-commons-sampling-plus",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons Share",
+        "id": "creative-commons-share",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Creative Commons CC0",
+        "id": "creative-commons-zero",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Credit Card",
+        "id": "credit-card",
+        "categories": [
+            "All",
+            "Finance",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "checkout",
+            "credit-card-alt",
+            "debit",
+            "money",
+            "payment",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Critical Role",
+        "id": "critical-role",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "game",
+            "gaming",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "crop",
+        "id": "crop",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "frame",
+            "mask",
+            "resize",
+            "shrink"
+        ]
+    },
+    {
+        "name": "Alternate Crop",
+        "id": "crop-alt",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "frame",
+            "mask",
+            "resize",
+            "shrink"
+        ]
+    },
+    {
+        "name": "Cross",
+        "id": "cross",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "catholicism",
+            "christianity",
+            "church",
+            "jesus"
+        ]
+    },
+    {
+        "name": "Crosshairs",
+        "id": "crosshairs",
+        "categories": [
+            "All",
+            "Design",
+            "Maps",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "aim",
+            "bullseye",
+            "gpd",
+            "picker",
+            "position"
+        ]
+    },
+    {
+        "name": "Crow",
+        "id": "crow",
+        "categories": [
+            "All",
+            "Animals",
+            "Halloween"
+        ],
+        "class": "fas",
+        "filter": [
+            "bird",
+            "bullfrog",
+            "fauna",
+            "halloween",
+            "holiday",
+            "toad"
+        ]
+    },
+    {
+        "name": "Crown",
+        "id": "crown",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "award",
+            "favorite",
+            "king",
+            "queen",
+            "royal",
+            "tiara"
+        ]
+    },
+    {
+        "name": "Crutch",
+        "id": "crutch",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "cane",
+            "injury",
+            "mobility",
+            "wheelchair"
+        ]
+    },
+    {
+        "name": "CSS 3 Logo",
+        "id": "css3",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "code"
+        ]
+    },
+    {
+        "name": "Alternate CSS3 Logo",
+        "id": "css3-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Cube",
+        "id": "cube",
+        "categories": [
+            "All",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "3d",
+            "block",
+            "dice",
+            "package",
+            "square",
+            "tesseract"
+        ]
+    },
+    {
+        "name": "Cubes",
+        "id": "cubes",
+        "categories": [
+            "All",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "3d",
+            "block",
+            "dice",
+            "package",
+            "pyramid",
+            "square",
+            "stack",
+            "tesseract"
+        ]
+    },
+    {
+        "name": "Cut",
+        "id": "cut",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Files",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "clip",
+            "scissors",
+            "snip"
+        ]
+    },
+    {
+        "name": "Cuttlefish",
+        "id": "cuttlefish",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dungeons & Dragons",
+        "id": "d-and-d",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "D&D Beyond",
+        "id": "d-and-d-beyond",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "gaming",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "dailymotion",
+        "id": "dailymotion",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "DashCube",
+        "id": "dashcube",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Database",
+        "id": "database",
+        "categories": [
+            "All",
+            "Computers",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "development",
+            "directory",
+            "memory",
+            "storage"
+        ]
+    },
+    {
+        "name": "Deaf",
+        "id": "deaf",
+        "categories": [
+            "All",
+            "Accessibility"
+        ],
+        "class": "fas",
+        "filter": [
+            "ear",
+            "hearing",
+            "sign language"
+        ]
+    },
+    {
+        "name": "Deezer",
+        "id": "deezer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Delicious",
+        "id": "delicious",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Democrat",
+        "id": "democrat",
+        "categories": [
+            "All",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "american",
+            "democratic party",
+            "donkey",
+            "election",
+            "left",
+            "left-wing",
+            "liberal",
+            "politics",
+            "usa"
+        ]
+    },
+    {
+        "name": "deploy.dog",
+        "id": "deploydog",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Deskpro",
+        "id": "deskpro",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Desktop",
+        "id": "desktop",
+        "categories": [
+            "All",
+            "Computers"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "cpu",
+            "demo",
+            "desktop",
+            "device",
+            "imac",
+            "machine",
+            "monitor",
+            "pc",
+            "screen"
+        ]
+    },
+    {
+        "name": "DEV",
+        "id": "dev",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "deviantART",
+        "id": "deviantart",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dharmachakra",
+        "id": "dharmachakra",
+        "categories": [
+            "All",
+            "Maritime",
+            "Religion",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "buddhism",
+            "buddhist",
+            "wheel of dharma"
+        ]
+    },
+    {
+        "name": "DHL",
+        "id": "dhl",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dalsey",
+            "Hillblom and Lynn",
+            "german",
+            "package",
+            "shipping"
+        ]
+    },
+    {
+        "name": "Diagnoses",
+        "id": "diagnoses",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "analyze",
+            "detect",
+            "diagnosis",
+            "examine",
+            "medicine"
+        ]
+    },
+    {
+        "name": "Diaspora",
+        "id": "diaspora",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dice",
+        "id": "dice",
+        "categories": [
+            "All",
+            "Games",
+            "Hotel",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice D20",
+        "id": "dice-d20",
+        "categories": [
+            "All",
+            "Games",
+            "Tabletop Gaming",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "chance",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice D6",
+        "id": "dice-d6",
+        "categories": [
+            "All",
+            "Games",
+            "Tabletop Gaming",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "chance",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice Five",
+        "id": "dice-five",
+        "categories": [
+            "All",
+            "Games",
+            "Hotel",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice Four",
+        "id": "dice-four",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice One",
+        "id": "dice-one",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice Six",
+        "id": "dice-six",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice Three",
+        "id": "dice-three",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Dice Two",
+        "id": "dice-two",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "chance",
+            "gambling",
+            "game",
+            "roll"
+        ]
+    },
+    {
+        "name": "Digg Logo",
+        "id": "digg",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Digital Ocean",
+        "id": "digital-ocean",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Digital Tachograph",
+        "id": "digital-tachograph",
+        "categories": [
+            "All",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "data",
+            "distance",
+            "speed",
+            "tachometer"
+        ]
+    },
+    {
+        "name": "Directions",
+        "id": "directions",
+        "categories": [
+            "All",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "map",
+            "navigation",
+            "sign",
+            "turn"
+        ]
+    },
+    {
+        "name": "Discord",
+        "id": "discord",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Discourse",
+        "id": "discourse",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Disease",
+        "id": "disease",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "bacteria",
+            "cancer",
+            "covid-19",
+            "illness",
+            "infection",
+            "sickness",
+            "virus"
+        ]
+    },
+    {
+        "name": "Divide",
+        "id": "divide",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "calculus",
+            "division",
+            "math"
+        ]
+    },
+    {
+        "name": "Dizzy Face",
+        "id": "dizzy",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "dazed",
+            "dead",
+            "disapprove",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "DNA",
+        "id": "dna",
+        "categories": [
+            "All",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "double helix",
+            "genetic",
+            "helix",
+            "molecule",
+            "protein"
+        ]
+    },
+    {
+        "name": "DocHub",
+        "id": "dochub",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Docker",
+        "id": "docker",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dog",
+        "id": "dog",
+        "categories": [
+            "All",
+            "Animals"
+        ],
+        "class": "fas",
+        "filter": [
+            "animal",
+            "canine",
+            "fauna",
+            "mammal",
+            "pet",
+            "pooch",
+            "puppy",
+            "woof"
+        ]
+    },
+    {
+        "name": "Dollar Sign",
+        "id": "dollar-sign",
+        "categories": [
+            "All",
+            "Charity",
+            "Currency",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "$",
+            "cost",
+            "dollar-sign",
+            "money",
+            "price",
+            "usd"
+        ]
+    },
+    {
+        "name": "Dolly",
+        "id": "dolly",
+        "categories": [
+            "All",
+            "Logistics",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "shipping",
+            "transport"
+        ]
+    },
+    {
+        "name": "Dolly Flatbed",
+        "id": "dolly-flatbed",
+        "categories": [
+            "All",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "inventory",
+            "shipping",
+            "transport"
+        ]
+    },
+    {
+        "name": "Donate",
+        "id": "donate",
+        "categories": [
+            "All",
+            "Charity",
+            "Finance",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "contribute",
+            "generosity",
+            "gift",
+            "give"
+        ]
+    },
+    {
+        "name": "Door Closed",
+        "id": "door-closed",
+        "categories": [
+            "All",
+            "Hotel",
+            "Household",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "enter",
+            "exit",
+            "locked"
+        ]
+    },
+    {
+        "name": "Door Open",
+        "id": "door-open",
+        "categories": [
+            "All",
+            "Hotel",
+            "Household",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "enter",
+            "exit",
+            "welcome"
+        ]
+    },
+    {
+        "name": "Dot Circle",
+        "id": "dot-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "bullseye",
+            "notification",
+            "target"
+        ]
+    },
+    {
+        "name": "Dove",
+        "id": "dove",
+        "categories": [
+            "All",
+            "Animals",
+            "Charity",
+            "Political",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "bird",
+            "fauna",
+            "flying",
+            "peace",
+            "war"
+        ]
+    },
+    {
+        "name": "Download",
+        "id": "download",
+        "categories": [
+            "All",
+            "Arrows",
+            "Computers",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "export",
+            "hard drive",
+            "save",
+            "transfer"
+        ]
+    },
+    {
+        "name": "Draft2digital",
+        "id": "draft2digital",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Drafting Compass",
+        "id": "drafting-compass",
+        "categories": [
+            "All",
+            "Construction",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "map",
+            "mechanical drawing",
+            "plot",
+            "plotting"
+        ]
+    },
+    {
+        "name": "Dragon",
+        "id": "dragon",
+        "categories": [
+            "All",
+            "Animals",
+            "Tabletop Gaming"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "fire",
+            "lizard",
+            "serpent"
+        ]
+    },
+    {
+        "name": "Draw Polygon",
+        "id": "draw-polygon",
+        "categories": [
+            "All",
+            "Design",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "anchors",
+            "lines",
+            "object",
+            "render",
+            "shape"
+        ]
+    },
+    {
+        "name": "Dribbble",
+        "id": "dribbble",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dribbble Square",
+        "id": "dribbble-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dropbox",
+        "id": "dropbox",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Drum",
+        "id": "drum",
+        "categories": [
+            "All",
+            "Music",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "instrument",
+            "music",
+            "percussion",
+            "snare",
+            "sound"
+        ]
+    },
+    {
+        "name": "Drum Steelpan",
+        "id": "drum-steelpan",
+        "categories": [
+            "All",
+            "Music",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "calypso",
+            "instrument",
+            "music",
+            "percussion",
+            "reggae",
+            "snare",
+            "sound",
+            "steel",
+            "tropical"
+        ]
+    },
+    {
+        "name": "Drumstick with Bite Taken Out",
+        "id": "drumstick-bite",
+        "categories": [
+            "All",
+            "Autumn",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "bone",
+            "chicken",
+            "leg",
+            "meat",
+            "poultry",
+            "turkey"
+        ]
+    },
+    {
+        "name": "Drupal Logo",
+        "id": "drupal",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Dumbbell",
+        "id": "dumbbell",
+        "categories": [
+            "All",
+            "Hotel",
+            "Sports",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "exercise",
+            "gym",
+            "strength",
+            "weight",
+            "weight-lifting"
+        ]
+    },
+    {
+        "name": "Dumpster",
+        "id": "dumpster",
+        "categories": [
+            "All",
+            "Construction"
+        ],
+        "class": "fas",
+        "filter": [
+            "alley",
+            "bin",
+            "commercial",
+            "trash",
+            "waste"
+        ]
+    },
+    {
+        "name": "Dumpster Fire",
+        "id": "dumpster-fire",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "alley",
+            "bin",
+            "commercial",
+            "danger",
+            "dangerous",
+            "euphemism",
+            "flame",
+            "heat",
+            "hot",
+            "trash",
+            "waste"
+        ]
+    },
+    {
+        "name": "Dungeon",
+        "id": "dungeon",
+        "categories": [
+            "All",
+            "Buildings",
+            "Tabletop Gaming",
+            "Household",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "building",
+            "d&d",
+            "dnd",
+            "door",
+            "entrance",
+            "fantasy",
+            "gate"
+        ]
+    },
+    {
+        "name": "Dyalog",
+        "id": "dyalog",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Earlybirds",
+        "id": "earlybirds",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "eBay",
+        "id": "ebay",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Edge Browser",
+        "id": "edge",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser",
+            "ie"
+        ]
+    },
+    {
+        "name": "Edge Legacy Browser",
+        "id": "edge-legacy",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Edit",
+        "id": "edit",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "pen",
+            "pencil",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Egg",
+        "id": "egg",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "breakfast",
+            "chicken",
+            "easter",
+            "shell",
+            "yolk"
+        ]
+    },
+    {
+        "name": "eject",
+        "id": "eject",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "abort",
+            "cancel",
+            "cd",
+            "discharge"
+        ]
+    },
+    {
+        "name": "Elementor",
+        "id": "elementor",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Horizontal Ellipsis",
+        "id": "ellipsis-h",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "dots",
+            "drag",
+            "kebab",
+            "list",
+            "menu",
+            "nav",
+            "navigation",
+            "ol",
+            "reorder",
+            "settings",
+            "ul"
+        ]
+    },
+    {
+        "name": "Vertical Ellipsis",
+        "id": "ellipsis-v",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "dots",
+            "drag",
+            "kebab",
+            "list",
+            "menu",
+            "nav",
+            "navigation",
+            "ol",
+            "reorder",
+            "settings",
+            "ul"
+        ]
+    },
+    {
+        "name": "Ello",
+        "id": "ello",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ember",
+        "id": "ember",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Galactic Empire",
+        "id": "empire",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Envelope",
+        "id": "envelope",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Interfaces",
+            "Objects",
+            "Social",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "e-mail",
+            "email",
+            "letter",
+            "mail",
+            "message",
+            "notification",
+            "support"
+        ]
+    },
+    {
+        "name": "Envelope Open",
+        "id": "envelope-open",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Interfaces",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "e-mail",
+            "email",
+            "letter",
+            "mail",
+            "message",
+            "notification",
+            "support"
+        ]
+    },
+    {
+        "name": "Envelope Open-text",
+        "id": "envelope-open-text",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "e-mail",
+            "email",
+            "letter",
+            "mail",
+            "message",
+            "notification",
+            "support"
+        ]
+    },
+    {
+        "name": "Envelope Square",
+        "id": "envelope-square",
+        "categories": [
+            "All",
+            "Business",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "e-mail",
+            "email",
+            "letter",
+            "mail",
+            "message",
+            "notification",
+            "support"
+        ]
+    },
+    {
+        "name": "Envira Gallery",
+        "id": "envira",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "leaf"
+        ]
+    },
+    {
+        "name": "Equals",
+        "id": "equals",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "even",
+            "match",
+            "math"
+        ]
+    },
+    {
+        "name": "eraser",
+        "id": "eraser",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "art",
+            "delete",
+            "remove",
+            "rubber"
+        ]
+    },
+    {
+        "name": "Erlang",
+        "id": "erlang",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ethereum",
+        "id": "ethereum",
+        "categories": [
+            "All",
+            "Currency",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ethernet",
+        "id": "ethernet",
+        "categories": [
+            "All",
+            "Computers"
+        ],
+        "class": "fas",
+        "filter": [
+            "cable",
+            "cat 5",
+            "cat 6",
+            "connection",
+            "hardware",
+            "internet",
+            "network",
+            "wired"
+        ]
+    },
+    {
+        "name": "Etsy",
+        "id": "etsy",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Euro Sign",
+        "id": "euro-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "dollar",
+            "exchange",
+            "money"
+        ]
+    },
+    {
+        "name": "Evernote",
+        "id": "evernote",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Alternate Exchange",
+        "id": "exchange-alt",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "arrows",
+            "exchange",
+            "reciprocate",
+            "return",
+            "swap",
+            "transfer"
+        ]
+    },
+    {
+        "name": "exclamation",
+        "id": "exclamation",
+        "categories": [
+            "All",
+            "Alert",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "alert",
+            "danger",
+            "error",
+            "important",
+            "notice",
+            "notification",
+            "notify",
+            "problem",
+            "warning"
+        ]
+    },
+    {
+        "name": "Exclamation Circle",
+        "id": "exclamation-circle",
+        "categories": [
+            "All",
+            "Alert",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "alert",
+            "danger",
+            "error",
+            "important",
+            "notice",
+            "notification",
+            "notify",
+            "problem",
+            "warning"
+        ]
+    },
+    {
+        "name": "Exclamation Triangle",
+        "id": "exclamation-triangle",
+        "categories": [
+            "All",
+            "Alert",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "alert",
+            "danger",
+            "error",
+            "important",
+            "notice",
+            "notification",
+            "notify",
+            "problem",
+            "warning"
+        ]
+    },
+    {
+        "name": "Expand",
+        "id": "expand",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "fullscreen",
+            "resize"
+        ]
+    },
+    {
+        "name": "Alternate Expand",
+        "id": "expand-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "bigger",
+            "enlarge",
+            "fullscreen",
+            "resize"
+        ]
+    },
+    {
+        "name": "Alternate Expand Arrows",
+        "id": "expand-arrows-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "fullscreen",
+            "move",
+            "resize"
+        ]
+    },
+    {
+        "name": "ExpeditedSSL",
+        "id": "expeditedssl",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Alternate External Link",
+        "id": "external-link-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "external-link",
+            "new",
+            "open",
+            "share"
+        ]
+    },
+    {
+        "name": "Alternate External Link Square",
+        "id": "external-link-square-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "external-link-square",
+            "new",
+            "open",
+            "share"
+        ]
+    },
+    {
+        "name": "Eye",
+        "id": "eye",
+        "categories": [
+            "All",
+            "Design",
+            "Images",
+            "Interfaces",
+            "Maps",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "look",
+            "optic",
+            "see",
+            "seen",
+            "show",
+            "sight",
+            "views",
+            "visible"
+        ]
+    },
+    {
+        "name": "Eye Dropper",
+        "id": "eye-dropper",
+        "categories": [
+            "All",
+            "Design",
+            "Images",
+            "Objects",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "beaker",
+            "clone",
+            "color",
+            "copy",
+            "eyedropper",
+            "pipette"
+        ]
+    },
+    {
+        "name": "Eye Slash",
+        "id": "eye-slash",
+        "categories": [
+            "All",
+            "Design",
+            "Images",
+            "Interfaces",
+            "Maps",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "blind",
+            "hide",
+            "show",
+            "toggle",
+            "unseen",
+            "views",
+            "visible",
+            "visiblity"
+        ]
+    },
+    {
+        "name": "Facebook",
+        "id": "facebook",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "facebook-official",
+            "social network"
+        ]
+    },
+    {
+        "name": "Facebook F",
+        "id": "facebook-f",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "facebook"
+        ]
+    },
+    {
+        "name": "Facebook Messenger",
+        "id": "facebook-messenger",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Facebook Square",
+        "id": "facebook-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "social network"
+        ]
+    },
+    {
+        "name": "Fan",
+        "id": "fan",
+        "categories": [
+            "All",
+            "Energy",
+            "Household",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "ac",
+            "air conditioning",
+            "blade",
+            "blower",
+            "cool",
+            "hot"
+        ]
+    },
+    {
+        "name": "Fantasy Flight-games",
+        "id": "fantasy-flight-games",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "game",
+            "gaming",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "fast-backward",
+        "id": "fast-backward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "beginning",
+            "first",
+            "previous",
+            "rewind",
+            "start"
+        ]
+    },
+    {
+        "name": "fast-forward",
+        "id": "fast-forward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "end",
+            "last",
+            "next"
+        ]
+    },
+    {
+        "name": "Faucet",
+        "id": "faucet",
+        "categories": [
+            "All",
+            "Camping",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "drip",
+            "house",
+            "hygiene",
+            "kitchen",
+            "sink",
+            "water"
+        ]
+    },
+    {
+        "name": "Fax",
+        "id": "fax",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "business",
+            "communicate",
+            "copy",
+            "facsimile",
+            "send"
+        ]
+    },
+    {
+        "name": "Feather",
+        "id": "feather",
+        "categories": [
+            "All",
+            "Animals",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bird",
+            "light",
+            "plucked",
+            "quill",
+            "write"
+        ]
+    },
+    {
+        "name": "Alternate Feather",
+        "id": "feather-alt",
+        "categories": [
+            "All",
+            "Animals",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bird",
+            "light",
+            "plucked",
+            "quill",
+            "write"
+        ]
+    },
+    {
+        "name": "FedEx",
+        "id": "fedex",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "Federal Express",
+            "package",
+            "shipping"
+        ]
+    },
+    {
+        "name": "Fedora",
+        "id": "fedora",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linux",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "Female",
+        "id": "female",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "human",
+            "person",
+            "profile",
+            "user",
+            "woman"
+        ]
+    },
+    {
+        "name": "fighter-jet",
+        "id": "fighter-jet",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "airplane",
+            "fast",
+            "fly",
+            "goose",
+            "maverick",
+            "plane",
+            "quick",
+            "top gun",
+            "transportation",
+            "travel"
+        ]
+    },
+    {
+        "name": "Figma",
+        "id": "figma",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "app",
+            "design",
+            "interface"
+        ]
+    },
+    {
+        "name": "File",
+        "id": "file",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Editors",
+            "Files",
+            "Interfaces",
+            "Objects",
+            "Shapes",
+            "Status",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "new",
+            "page",
+            "pdf",
+            "resume"
+        ]
+    },
+    {
+        "name": "Alternate File",
+        "id": "file-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Editors",
+            "Files",
+            "Interfaces",
+            "Objects",
+            "Status",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "file-text",
+            "invoice",
+            "new",
+            "page",
+            "pdf"
+        ]
+    },
+    {
+        "name": "Archive File",
+        "id": "file-archive",
+        "categories": [
+            "All",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            ".zip",
+            "bundle",
+            "compress",
+            "compression",
+            "download",
+            "zip"
+        ]
+    },
+    {
+        "name": "Audio File",
+        "id": "file-audio",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Files",
+            "Music"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "mp3",
+            "music",
+            "page",
+            "play",
+            "sound"
+        ]
+    },
+    {
+        "name": "Code File",
+        "id": "file-code",
+        "categories": [
+            "All",
+            "Code",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "css",
+            "development",
+            "document",
+            "html"
+        ]
+    },
+    {
+        "name": "File Contract",
+        "id": "file-contract",
+        "categories": [
+            "All",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "agreement",
+            "binding",
+            "document",
+            "legal",
+            "signature"
+        ]
+    },
+    {
+        "name": "File CSV",
+        "id": "file-csv",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "excel",
+            "numbers",
+            "spreadsheets",
+            "table"
+        ]
+    },
+    {
+        "name": "File Download",
+        "id": "file-download",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "export",
+            "save"
+        ]
+    },
+    {
+        "name": "Excel File",
+        "id": "file-excel",
+        "categories": [
+            "All",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "csv",
+            "document",
+            "numbers",
+            "spreadsheets",
+            "table"
+        ]
+    },
+    {
+        "name": "File Export",
+        "id": "file-export",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "download",
+            "save"
+        ]
+    },
+    {
+        "name": "Image File",
+        "id": "file-image",
+        "categories": [
+            "All",
+            "Files",
+            "Images"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "image",
+            "jpg",
+            "photo",
+            "png"
+        ]
+    },
+    {
+        "name": "File Import",
+        "id": "file-import",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "copy",
+            "document",
+            "send",
+            "upload"
+        ]
+    },
+    {
+        "name": "File Invoice",
+        "id": "file-invoice",
+        "categories": [
+            "All",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "account",
+            "bill",
+            "charge",
+            "document",
+            "payment",
+            "receipt"
+        ]
+    },
+    {
+        "name": "File Invoice with US Dollar",
+        "id": "file-invoice-dollar",
+        "categories": [
+            "All",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "$",
+            "account",
+            "bill",
+            "charge",
+            "document",
+            "dollar-sign",
+            "money",
+            "payment",
+            "receipt",
+            "usd"
+        ]
+    },
+    {
+        "name": "Medical File",
+        "id": "file-medical",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "health",
+            "history",
+            "prescription",
+            "record"
+        ]
+    },
+    {
+        "name": "Alternate Medical File",
+        "id": "file-medical-alt",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "health",
+            "history",
+            "prescription",
+            "record"
+        ]
+    },
+    {
+        "name": "PDF File",
+        "id": "file-pdf",
+        "categories": [
+            "All",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "acrobat",
+            "document",
+            "preview",
+            "save"
+        ]
+    },
+    {
+        "name": "Powerpoint File",
+        "id": "file-powerpoint",
+        "categories": [
+            "All",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "display",
+            "document",
+            "keynote",
+            "presentation"
+        ]
+    },
+    {
+        "name": "File Prescription",
+        "id": "file-prescription",
+        "categories": [
+            "All",
+            "Medical",
+            "Objects",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "drugs",
+            "medical",
+            "medicine",
+            "rx"
+        ]
+    },
+    {
+        "name": "File Signature",
+        "id": "file-signature",
+        "categories": [
+            "All",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "John Hancock",
+            "contract",
+            "document",
+            "name"
+        ]
+    },
+    {
+        "name": "File Upload",
+        "id": "file-upload",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "import",
+            "page",
+            "save"
+        ]
+    },
+    {
+        "name": "Video File",
+        "id": "file-video",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "m4v",
+            "movie",
+            "mp4",
+            "play"
+        ]
+    },
+    {
+        "name": "Word File",
+        "id": "file-word",
+        "categories": [
+            "All",
+            "Files"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "edit",
+            "page",
+            "text",
+            "writing"
+        ]
+    },
+    {
+        "name": "Fill",
+        "id": "fill",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "bucket",
+            "color",
+            "paint",
+            "paint bucket"
+        ]
+    },
+    {
+        "name": "Fill Drip",
+        "id": "fill-drip",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "bucket",
+            "color",
+            "drop",
+            "paint",
+            "paint bucket",
+            "spill"
+        ]
+    },
+    {
+        "name": "Film",
+        "id": "film",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Images",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cinema",
+            "movie",
+            "strip",
+            "video"
+        ]
+    },
+    {
+        "name": "Filter",
+        "id": "filter",
+        "categories": [
+            "All",
+            "Code",
+            "Interfaces",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "funnel",
+            "options",
+            "separate",
+            "sort"
+        ]
+    },
+    {
+        "name": "Fingerprint",
+        "id": "fingerprint",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "human",
+            "id",
+            "identification",
+            "lock",
+            "smudge",
+            "touch",
+            "unique",
+            "unlock"
+        ]
+    },
+    {
+        "name": "fire",
+        "id": "fire",
+        "categories": [
+            "All",
+            "Camping",
+            "Energy",
+            "Maps",
+            "Objects",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "burn",
+            "caliente",
+            "flame",
+            "heat",
+            "hot",
+            "popular"
+        ]
+    },
+    {
+        "name": "Alternate Fire",
+        "id": "fire-alt",
+        "categories": [
+            "All",
+            "Camping",
+            "Energy",
+            "Fitness",
+            "Maps",
+            "Objects",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "burn",
+            "caliente",
+            "flame",
+            "heat",
+            "hot",
+            "popular"
+        ]
+    },
+    {
+        "name": "fire-extinguisher",
+        "id": "fire-extinguisher",
+        "categories": [
+            "All",
+            "Code",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "burn",
+            "caliente",
+            "fire fighter",
+            "flame",
+            "heat",
+            "hot",
+            "rescue"
+        ]
+    },
+    {
+        "name": "Firefox",
+        "id": "firefox",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser"
+        ]
+    },
+    {
+        "name": "Firefox Browser",
+        "id": "firefox-browser",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser"
+        ]
+    },
+    {
+        "name": "First Aid",
+        "id": "first-aid",
+        "categories": [
+            "All",
+            "Camping",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "emergency",
+            "emt",
+            "health",
+            "medical",
+            "rescue"
+        ]
+    },
+    {
+        "name": "First Order",
+        "id": "first-order",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Alternate First Order",
+        "id": "first-order-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "firstdraft",
+        "id": "firstdraft",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Fish",
+        "id": "fish",
+        "categories": [
+            "All",
+            "Animals",
+            "Food",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "fauna",
+            "gold",
+            "seafood",
+            "swimming"
+        ]
+    },
+    {
+        "name": "Raised Fist",
+        "id": "fist-raised",
+        "categories": [
+            "All",
+            "Tabletop Gaming",
+            "Hands",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "hand",
+            "ki",
+            "monk",
+            "resist",
+            "strength",
+            "unarmed combat"
+        ]
+    },
+    {
+        "name": "flag",
+        "id": "flag",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "country",
+            "notice",
+            "notification",
+            "notify",
+            "pole",
+            "report",
+            "symbol"
+        ]
+    },
+    {
+        "name": "flag-checkered",
+        "id": "flag-checkered",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "notice",
+            "notification",
+            "notify",
+            "pole",
+            "racing",
+            "report",
+            "symbol"
+        ]
+    },
+    {
+        "name": "United States of America Flag",
+        "id": "flag-usa",
+        "categories": [
+            "All",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "betsy ross",
+            "country",
+            "old glory",
+            "stars",
+            "stripes",
+            "symbol"
+        ]
+    },
+    {
+        "name": "Flask",
+        "id": "flask",
+        "categories": [
+            "All",
+            "Beverage",
+            "Maps",
+            "Objects",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "beaker",
+            "experimental",
+            "labs",
+            "science"
+        ]
+    },
+    {
+        "name": "Flickr",
+        "id": "flickr",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Flipboard",
+        "id": "flipboard",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Flushed Face",
+        "id": "flushed",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "embarrassed",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "Fly",
+        "id": "fly",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Folder",
+        "id": "folder",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Files",
+            "Interfaces",
+            "Shapes",
+            "Status",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "directory",
+            "document",
+            "file"
+        ]
+    },
+    {
+        "name": "Folder Minus",
+        "id": "folder-minus",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "delete",
+            "directory",
+            "document",
+            "file",
+            "negative",
+            "remove"
+        ]
+    },
+    {
+        "name": "Folder Open",
+        "id": "folder-open",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Files",
+            "Interfaces",
+            "Status",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "directory",
+            "document",
+            "empty",
+            "file",
+            "new"
+        ]
+    },
+    {
+        "name": "Folder Plus",
+        "id": "folder-plus",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "archive",
+            "create",
+            "directory",
+            "document",
+            "file",
+            "new",
+            "positive"
+        ]
+    },
+    {
+        "name": "font",
+        "id": "font",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabet",
+            "glyph",
+            "text",
+            "type",
+            "typeface"
+        ]
+    },
+    {
+        "name": "Font Awesome",
+        "id": "font-awesome",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "meanpath"
+        ]
+    },
+    {
+        "name": "Alternate Font Awesome",
+        "id": "font-awesome-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Font Awesome Flag",
+        "id": "font-awesome-flag",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Font Awesome Full Logo",
+        "id": "font-awesome-logo-full",
+        "categories": [
+            "All"
+        ],
+        "class": "",
+        "filter": []
+    },
+    {
+        "name": "Fonticons",
+        "id": "fonticons",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Fonticons Fi",
+        "id": "fonticons-fi",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Football Ball",
+        "id": "football-ball",
+        "categories": [
+            "All",
+            "Autumn",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "ball",
+            "fall",
+            "nfl",
+            "pigskin",
+            "seasonal"
+        ]
+    },
+    {
+        "name": "Fort Awesome",
+        "id": "fort-awesome",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "castle"
+        ]
+    },
+    {
+        "name": "Alternate Fort Awesome",
+        "id": "fort-awesome-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "castle"
+        ]
+    },
+    {
+        "name": "Forumbee",
+        "id": "forumbee",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "forward",
+        "id": "forward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "next",
+            "skip"
+        ]
+    },
+    {
+        "name": "Foursquare",
+        "id": "foursquare",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "freeCodeCamp",
+        "id": "free-code-camp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "FreeBSD",
+        "id": "freebsd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Frog",
+        "id": "frog",
+        "categories": [
+            "All",
+            "Animals",
+            "Camping",
+            "Maritime",
+            "Science",
+            "Spring"
+        ],
+        "class": "fas",
+        "filter": [
+            "amphibian",
+            "bullfrog",
+            "fauna",
+            "hop",
+            "kermit",
+            "kiss",
+            "prince",
+            "ribbit",
+            "toad",
+            "wart"
+        ]
+    },
+    {
+        "name": "Frowning Face",
+        "id": "frown",
+        "categories": [
+            "All",
+            "Chat",
+            "Emoji",
+            "Interfaces",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "disapprove",
+            "emoticon",
+            "face",
+            "rating",
+            "sad"
+        ]
+    },
+    {
+        "name": "Frowning Face With Open Mouth",
+        "id": "frown-open",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "disapprove",
+            "emoticon",
+            "face",
+            "rating",
+            "sad"
+        ]
+    },
+    {
+        "name": "Fulcrum",
+        "id": "fulcrum",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Funnel Dollar",
+        "id": "funnel-dollar",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "filter",
+            "money",
+            "options",
+            "separate",
+            "sort"
+        ]
+    },
+    {
+        "name": "Futbol",
+        "id": "futbol",
+        "categories": [
+            "All",
+            "Objects",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "ball",
+            "football",
+            "mls",
+            "soccer"
+        ]
+    },
+    {
+        "name": "Galactic Republic",
+        "id": "galactic-republic",
+        "categories": [
+            "All",
+            "Science Fiction"
+        ],
+        "class": "fab",
+        "filter": [
+            "politics",
+            "star wars"
+        ]
+    },
+    {
+        "name": "Galactic Senate",
+        "id": "galactic-senate",
+        "categories": [
+            "All",
+            "Science Fiction"
+        ],
+        "class": "fab",
+        "filter": [
+            "star wars"
+        ]
+    },
+    {
+        "name": "Gamepad",
+        "id": "gamepad",
+        "categories": [
+            "All",
+            "Childhood",
+            "Games",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "arcade",
+            "controller",
+            "d-pad",
+            "joystick",
+            "video",
+            "video game"
+        ]
+    },
+    {
+        "name": "Gas Pump",
+        "id": "gas-pump",
+        "categories": [
+            "All",
+            "Automotive",
+            "Energy",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "car",
+            "fuel",
+            "gasoline",
+            "petrol"
+        ]
+    },
+    {
+        "name": "Gavel",
+        "id": "gavel",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "hammer",
+            "judge",
+            "law",
+            "lawyer",
+            "opinion"
+        ]
+    },
+    {
+        "name": "Gem",
+        "id": "gem",
+        "categories": [
+            "All",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "diamond",
+            "jewelry",
+            "sapphire",
+            "stone",
+            "treasure"
+        ]
+    },
+    {
+        "name": "Genderless",
+        "id": "genderless",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "androgynous",
+            "asexual",
+            "sexless"
+        ]
+    },
+    {
+        "name": "Get Pocket",
+        "id": "get-pocket",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "GG Currency",
+        "id": "gg",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "GG Currency Circle",
+        "id": "gg-circle",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ghost",
+        "id": "ghost",
+        "categories": [
+            "All",
+            "Games",
+            "Halloween"
+        ],
+        "class": "fas",
+        "filter": [
+            "apparition",
+            "blinky",
+            "clyde",
+            "floating",
+            "halloween",
+            "holiday",
+            "inky",
+            "pinky",
+            "spirit"
+        ]
+    },
+    {
+        "name": "gift",
+        "id": "gift",
+        "categories": [
+            "All",
+            "Charity",
+            "Holiday",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "christmas",
+            "generosity",
+            "giving",
+            "holiday",
+            "party",
+            "present",
+            "wrapped",
+            "xmas"
+        ]
+    },
+    {
+        "name": "Gifts",
+        "id": "gifts",
+        "categories": [
+            "All",
+            "Holiday",
+            "Objects",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "christmas",
+            "generosity",
+            "giving",
+            "holiday",
+            "party",
+            "present",
+            "wrapped",
+            "xmas"
+        ]
+    },
+    {
+        "name": "Git",
+        "id": "git",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Git Alt",
+        "id": "git-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Git Square",
+        "id": "git-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "GitHub",
+        "id": "github",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "octocat"
+        ]
+    },
+    {
+        "name": "Alternate GitHub",
+        "id": "github-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "octocat"
+        ]
+    },
+    {
+        "name": "GitHub Square",
+        "id": "github-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "octocat"
+        ]
+    },
+    {
+        "name": "GitKraken",
+        "id": "gitkraken",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "GitLab",
+        "id": "gitlab",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "Axosoft"
+        ]
+    },
+    {
+        "name": "Gitter",
+        "id": "gitter",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Glass Cheers",
+        "id": "glass-cheers",
+        "categories": [
+            "All",
+            "Beverage",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "bar",
+            "beverage",
+            "celebration",
+            "champagne",
+            "clink",
+            "drink",
+            "holiday",
+            "new year's eve",
+            "party",
+            "toast"
+        ]
+    },
+    {
+        "name": "Martini Glass",
+        "id": "glass-martini",
+        "categories": [
+            "All",
+            "Beverage",
+            "Hotel",
+            "Maps",
+            "Objects",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "bar",
+            "beverage",
+            "drink",
+            "liquor"
+        ]
+    },
+    {
+        "name": "Alternate Glass Martini",
+        "id": "glass-martini-alt",
+        "categories": [
+            "All",
+            "Beverage",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "bar",
+            "beverage",
+            "drink",
+            "liquor"
+        ]
+    },
+    {
+        "name": "Glass Whiskey",
+        "id": "glass-whiskey",
+        "categories": [
+            "All",
+            "Beverage",
+            "Objects",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "bar",
+            "beverage",
+            "bourbon",
+            "drink",
+            "liquor",
+            "neat",
+            "rye",
+            "scotch",
+            "whisky"
+        ]
+    },
+    {
+        "name": "Glasses",
+        "id": "glasses",
+        "categories": [
+            "All",
+            "Business",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "hipster",
+            "nerd",
+            "reading",
+            "sight",
+            "spectacles",
+            "vision"
+        ]
+    },
+    {
+        "name": "Glide",
+        "id": "glide",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Glide G",
+        "id": "glide-g",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Globe",
+        "id": "globe",
+        "categories": [
+            "All",
+            "Business",
+            "Charity",
+            "Maps",
+            "Objects",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "all",
+            "coordinates",
+            "country",
+            "earth",
+            "global",
+            "gps",
+            "language",
+            "localize",
+            "location",
+            "map",
+            "online",
+            "place",
+            "planet",
+            "translate",
+            "travel",
+            "world"
+        ]
+    },
+    {
+        "name": "Globe with Africa shown",
+        "id": "globe-africa",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "all",
+            "country",
+            "earth",
+            "global",
+            "gps",
+            "language",
+            "localize",
+            "location",
+            "map",
+            "online",
+            "place",
+            "planet",
+            "translate",
+            "travel",
+            "world"
+        ]
+    },
+    {
+        "name": "Globe with Americas shown",
+        "id": "globe-americas",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "all",
+            "country",
+            "earth",
+            "global",
+            "gps",
+            "language",
+            "localize",
+            "location",
+            "map",
+            "online",
+            "place",
+            "planet",
+            "translate",
+            "travel",
+            "world"
+        ]
+    },
+    {
+        "name": "Globe with Asia shown",
+        "id": "globe-asia",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "all",
+            "country",
+            "earth",
+            "global",
+            "gps",
+            "language",
+            "localize",
+            "location",
+            "map",
+            "online",
+            "place",
+            "planet",
+            "translate",
+            "travel",
+            "world"
+        ]
+    },
+    {
+        "name": "Globe with Europe shown",
+        "id": "globe-europe",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "all",
+            "country",
+            "earth",
+            "global",
+            "gps",
+            "language",
+            "localize",
+            "location",
+            "map",
+            "online",
+            "place",
+            "planet",
+            "translate",
+            "travel",
+            "world"
+        ]
+    },
+    {
+        "name": "Gofore",
+        "id": "gofore",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Golf Ball",
+        "id": "golf-ball",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "caddy",
+            "eagle",
+            "putt",
+            "tee"
+        ]
+    },
+    {
+        "name": "Goodreads",
+        "id": "goodreads",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Goodreads G",
+        "id": "goodreads-g",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Google Logo",
+        "id": "google",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Google Drive",
+        "id": "google-drive",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Google Pay",
+        "id": "google-pay",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Google Play",
+        "id": "google-play",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Google Plus",
+        "id": "google-plus",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "google-plus-circle",
+            "google-plus-official"
+        ]
+    },
+    {
+        "name": "Google Plus G",
+        "id": "google-plus-g",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "google-plus",
+            "social network"
+        ]
+    },
+    {
+        "name": "Google Plus Square",
+        "id": "google-plus-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "social network"
+        ]
+    },
+    {
+        "name": "Google Wallet",
+        "id": "google-wallet",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Gopuram",
+        "id": "gopuram",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "entrance",
+            "hinduism",
+            "temple",
+            "tower"
+        ]
+    },
+    {
+        "name": "Graduation Cap",
+        "id": "graduation-cap",
+        "categories": [
+            "All",
+            "Clothing",
+            "Education",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "ceremony",
+            "college",
+            "graduate",
+            "learning",
+            "school",
+            "student"
+        ]
+    },
+    {
+        "name": "Gratipay (Gittip)",
+        "id": "gratipay",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "favorite",
+            "heart",
+            "like",
+            "love"
+        ]
+    },
+    {
+        "name": "Grav",
+        "id": "grav",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Greater Than",
+        "id": "greater-than",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "compare",
+            "math"
+        ]
+    },
+    {
+        "name": "Greater Than Equal To",
+        "id": "greater-than-equal",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "compare",
+            "math"
+        ]
+    },
+    {
+        "name": "Grimacing Face",
+        "id": "grimace",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "cringe",
+            "emoticon",
+            "face",
+            "teeth"
+        ]
+    },
+    {
+        "name": "Grinning Face",
+        "id": "grin",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Alternate Grinning Face",
+        "id": "grin-alt",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Grinning Face With Smiling Eyes",
+        "id": "grin-beam",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Grinning Face With Sweat",
+        "id": "grin-beam-sweat",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "embarass",
+            "emoticon",
+            "face",
+            "smile"
+        ]
+    },
+    {
+        "name": "Smiling Face With Heart-Eyes",
+        "id": "grin-hearts",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "love",
+            "smile"
+        ]
+    },
+    {
+        "name": "Grinning Squinting Face",
+        "id": "grin-squint",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Rolling on the Floor Laughing",
+        "id": "grin-squint-tears",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "happy",
+            "smile"
+        ]
+    },
+    {
+        "name": "Star-Struck",
+        "id": "grin-stars",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "star-struck"
+        ]
+    },
+    {
+        "name": "Face With Tears of Joy",
+        "id": "grin-tears",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "Face With Tongue",
+        "id": "grin-tongue",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "Squinting Face With Tongue",
+        "id": "grin-tongue-squint",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "Winking Face With Tongue",
+        "id": "grin-tongue-wink",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face"
+        ]
+    },
+    {
+        "name": "Grinning Winking Face",
+        "id": "grin-wink",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "flirt",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Grip Horizontal",
+        "id": "grip-horizontal",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "affordance",
+            "drag",
+            "drop",
+            "grab",
+            "handle"
+        ]
+    },
+    {
+        "name": "Grip Lines",
+        "id": "grip-lines",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "affordance",
+            "drag",
+            "drop",
+            "grab",
+            "handle"
+        ]
+    },
+    {
+        "name": "Grip Lines Vertical",
+        "id": "grip-lines-vertical",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "affordance",
+            "drag",
+            "drop",
+            "grab",
+            "handle"
+        ]
+    },
+    {
+        "name": "Grip Vertical",
+        "id": "grip-vertical",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "affordance",
+            "drag",
+            "drop",
+            "grab",
+            "handle"
+        ]
+    },
+    {
+        "name": "Gripfire, Inc.",
+        "id": "gripfire",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Grunt",
+        "id": "grunt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Guilded",
+        "id": "guilded",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Guitar",
+        "id": "guitar",
+        "categories": [
+            "All",
+            "Music",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "acoustic",
+            "instrument",
+            "music",
+            "rock",
+            "rock and roll",
+            "song",
+            "strings"
+        ]
+    },
+    {
+        "name": "Gulp",
+        "id": "gulp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "H Square",
+        "id": "h-square",
+        "categories": [
+            "All",
+            "Health",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "emergency",
+            "hospital",
+            "hotel",
+            "map"
+        ]
+    },
+    {
+        "name": "Hacker News",
+        "id": "hacker-news",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hacker News Square",
+        "id": "hacker-news-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hackerrank",
+        "id": "hackerrank",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hamburger",
+        "id": "hamburger",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "bacon",
+            "beef",
+            "burger",
+            "burger king",
+            "cheeseburger",
+            "fast food",
+            "grill",
+            "ground beef",
+            "mcdonalds",
+            "sandwich"
+        ]
+    },
+    {
+        "name": "Hammer",
+        "id": "hammer",
+        "categories": [
+            "All",
+            "Construction"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "fix",
+            "repair",
+            "settings",
+            "tool"
+        ]
+    },
+    {
+        "name": "Hamsa",
+        "id": "hamsa",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "amulet",
+            "christianity",
+            "islam",
+            "jewish",
+            "judaism",
+            "muslim",
+            "protection"
+        ]
+    },
+    {
+        "name": "Hand Holding",
+        "id": "hand-holding",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "lift"
+        ]
+    },
+    {
+        "name": "Hand Holding Heart",
+        "id": "hand-holding-heart",
+        "categories": [
+            "All",
+            "Charity",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "charity",
+            "gift",
+            "lift",
+            "package"
+        ]
+    },
+    {
+        "name": "Hand Holding Medical Cross",
+        "id": "hand-holding-medical",
+        "categories": [
+            "All",
+            "Hands",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "care",
+            "covid-19",
+            "donate",
+            "help"
+        ]
+    },
+    {
+        "name": "Hand Holding US Dollar",
+        "id": "hand-holding-usd",
+        "categories": [
+            "All",
+            "Charity",
+            "Finance",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "$",
+            "carry",
+            "dollar sign",
+            "donation",
+            "giving",
+            "lift",
+            "money",
+            "price"
+        ]
+    },
+    {
+        "name": "Hand Holding Water",
+        "id": "hand-holding-water",
+        "categories": [
+            "All",
+            "Charity",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "covid-19",
+            "drought",
+            "grow",
+            "lift"
+        ]
+    },
+    {
+        "name": "Lizard (Hand)",
+        "id": "hand-lizard",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "game",
+            "roshambo"
+        ]
+    },
+    {
+        "name": "Hand with Middle Finger Raised",
+        "id": "hand-middle-finger",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "flip the bird",
+            "gesture",
+            "hate",
+            "rude"
+        ]
+    },
+    {
+        "name": "Paper (Hand)",
+        "id": "hand-paper",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "game",
+            "halt",
+            "roshambo",
+            "stop"
+        ]
+    },
+    {
+        "name": "Peace (Hand)",
+        "id": "hand-peace",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "rest",
+            "truce"
+        ]
+    },
+    {
+        "name": "Hand Pointing Down",
+        "id": "hand-point-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "finger",
+            "hand-o-down",
+            "point"
+        ]
+    },
+    {
+        "name": "Hand Pointing Left",
+        "id": "hand-point-left",
+        "categories": [
+            "All",
+            "Arrows",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "finger",
+            "hand-o-left",
+            "left",
+            "point",
+            "previous"
+        ]
+    },
+    {
+        "name": "Hand Pointing Right",
+        "id": "hand-point-right",
+        "categories": [
+            "All",
+            "Arrows",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "finger",
+            "forward",
+            "hand-o-right",
+            "next",
+            "point",
+            "right"
+        ]
+    },
+    {
+        "name": "Hand Pointing Up",
+        "id": "hand-point-up",
+        "categories": [
+            "All",
+            "Arrows",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "finger",
+            "hand-o-up",
+            "point"
+        ]
+    },
+    {
+        "name": "Pointer (Hand)",
+        "id": "hand-pointer",
+        "categories": [
+            "All",
+            "Arrows",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "cursor",
+            "select"
+        ]
+    },
+    {
+        "name": "Rock (Hand)",
+        "id": "hand-rock",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "fist",
+            "game",
+            "roshambo"
+        ]
+    },
+    {
+        "name": "Scissors (Hand)",
+        "id": "hand-scissors",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "cut",
+            "game",
+            "roshambo"
+        ]
+    },
+    {
+        "name": "Hand Sparkles",
+        "id": "hand-sparkles",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "clean",
+            "covid-19",
+            "hygiene",
+            "magic",
+            "soap",
+            "wash"
+        ]
+    },
+    {
+        "name": "Spock (Hand)",
+        "id": "hand-spock",
+        "categories": [
+            "All",
+            "Hands",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "live long",
+            "prosper",
+            "salute",
+            "star trek",
+            "vulcan"
+        ]
+    },
+    {
+        "name": "Hands",
+        "id": "hands",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "hold",
+            "lift"
+        ]
+    },
+    {
+        "name": "Helping Hands",
+        "id": "hands-helping",
+        "categories": [
+            "All",
+            "Charity",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "aid",
+            "assistance",
+            "handshake",
+            "partnership",
+            "volunteering"
+        ]
+    },
+    {
+        "name": "Hands Wash",
+        "id": "hands-wash",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "hygiene",
+            "soap",
+            "wash"
+        ]
+    },
+    {
+        "name": "Handshake",
+        "id": "handshake",
+        "categories": [
+            "All",
+            "Charity",
+            "Hands",
+            "Payments & Shopping",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "agreement",
+            "greeting",
+            "meeting",
+            "partnership"
+        ]
+    },
+    {
+        "name": "Handshake Alternate Slash",
+        "id": "handshake-alt-slash",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "broken",
+            "covid-19",
+            "social distance"
+        ]
+    },
+    {
+        "name": "Handshake Slash",
+        "id": "handshake-slash",
+        "categories": [
+            "All",
+            "Hands"
+        ],
+        "class": "fas",
+        "filter": [
+            "broken",
+            "covid-19",
+            "social distance"
+        ]
+    },
+    {
+        "name": "Hanukiah",
+        "id": "hanukiah",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "candle",
+            "hanukkah",
+            "jewish",
+            "judaism",
+            "light"
+        ]
+    },
+    {
+        "name": "Hard Hat",
+        "id": "hard-hat",
+        "categories": [
+            "All",
+            "Construction",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "construction",
+            "hardhat",
+            "helmet",
+            "safety"
+        ]
+    },
+    {
+        "name": "Hashtag",
+        "id": "hashtag",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "Twitter",
+            "instagram",
+            "pound",
+            "social media",
+            "tag"
+        ]
+    },
+    {
+        "name": "Cowboy Hat",
+        "id": "hat-cowboy",
+        "categories": [
+            "All",
+            "Clothing"
+        ],
+        "class": "fas",
+        "filter": [
+            "buckaroo",
+            "horse",
+            "jackeroo",
+            "john b.",
+            "old west",
+            "pardner",
+            "ranch",
+            "rancher",
+            "rodeo",
+            "western",
+            "wrangler"
+        ]
+    },
+    {
+        "name": "Cowboy Hat Side",
+        "id": "hat-cowboy-side",
+        "categories": [
+            "All",
+            "Clothing"
+        ],
+        "class": "fas",
+        "filter": [
+            "buckaroo",
+            "horse",
+            "jackeroo",
+            "john b.",
+            "old west",
+            "pardner",
+            "ranch",
+            "rancher",
+            "rodeo",
+            "western",
+            "wrangler"
+        ]
+    },
+    {
+        "name": "Wizard's Hat",
+        "id": "hat-wizard",
+        "categories": [
+            "All",
+            "Clothing",
+            "Tabletop Gaming",
+            "Halloween",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "accessory",
+            "buckle",
+            "clothing",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "halloween",
+            "head",
+            "holiday",
+            "mage",
+            "magic",
+            "pointy",
+            "witch"
+        ]
+    },
+    {
+        "name": "HDD",
+        "id": "hdd",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cpu",
+            "hard drive",
+            "harddrive",
+            "machine",
+            "save",
+            "storage"
+        ]
+    },
+    {
+        "name": "Head Side Cough",
+        "id": "head-side-cough",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "cough",
+            "covid-19",
+            "germs",
+            "lungs",
+            "respiratory",
+            "sick"
+        ]
+    },
+    {
+        "name": "Head Side-cough-slash",
+        "id": "head-side-cough-slash",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "cough",
+            "covid-19",
+            "germs",
+            "lungs",
+            "respiratory",
+            "sick"
+        ]
+    },
+    {
+        "name": "Head Side Mask",
+        "id": "head-side-mask",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "breath",
+            "covid-19",
+            "filter",
+            "respirator",
+            "virus"
+        ]
+    },
+    {
+        "name": "Head Side Virus",
+        "id": "head-side-virus",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "cold",
+            "covid-19",
+            "flu",
+            "sick"
+        ]
+    },
+    {
+        "name": "heading",
+        "id": "heading",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "format",
+            "header",
+            "text",
+            "title"
+        ]
+    },
+    {
+        "name": "headphones",
+        "id": "headphones",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Computers",
+            "Music",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "listen",
+            "music",
+            "sound",
+            "speaker"
+        ]
+    },
+    {
+        "name": "Alternate Headphones",
+        "id": "headphones-alt",
+        "categories": [
+            "All",
+            "Music",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "listen",
+            "music",
+            "sound",
+            "speaker"
+        ]
+    },
+    {
+        "name": "Headset",
+        "id": "headset",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "gamer",
+            "gaming",
+            "listen",
+            "live chat",
+            "microphone",
+            "shot caller",
+            "sound",
+            "support",
+            "telemarketer"
+        ]
+    },
+    {
+        "name": "Heart",
+        "id": "heart",
+        "categories": [
+            "All",
+            "Charity",
+            "Fitness",
+            "Games",
+            "Health",
+            "Interfaces",
+            "Maps",
+            "Medical",
+            "Objects",
+            "Payments & Shopping",
+            "Shapes",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "favorite",
+            "like",
+            "love",
+            "relationship",
+            "valentine"
+        ]
+    },
+    {
+        "name": "Heart Broken",
+        "id": "heart-broken",
+        "categories": [
+            "All",
+            "Objects",
+            "Shapes"
+        ],
+        "class": "fas",
+        "filter": [
+            "breakup",
+            "crushed",
+            "dislike",
+            "dumped",
+            "grief",
+            "love",
+            "lovesick",
+            "relationship",
+            "sad"
+        ]
+    },
+    {
+        "name": "Heartbeat",
+        "id": "heartbeat",
+        "categories": [
+            "All",
+            "Fitness",
+            "Health",
+            "Maps",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "ekg",
+            "electrocardiogram",
+            "health",
+            "lifeline",
+            "vital signs"
+        ]
+    },
+    {
+        "name": "Helicopter",
+        "id": "helicopter",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "airwolf",
+            "apache",
+            "chopper",
+            "flight",
+            "fly",
+            "travel"
+        ]
+    },
+    {
+        "name": "Highlighter",
+        "id": "highlighter",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "marker",
+            "sharpie",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Hiking",
+        "id": "hiking",
+        "categories": [
+            "All",
+            "Autumn",
+            "Camping",
+            "Fitness",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "backpack",
+            "fall",
+            "fitness",
+            "outdoors",
+            "person",
+            "seasonal",
+            "walking"
+        ]
+    },
+    {
+        "name": "Hippo",
+        "id": "hippo",
+        "categories": [
+            "All",
+            "Animals"
+        ],
+        "class": "fas",
+        "filter": [
+            "animal",
+            "fauna",
+            "hippopotamus",
+            "hungry",
+            "mammal"
+        ]
+    },
+    {
+        "name": "Hips",
+        "id": "hips",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "HireAHelper",
+        "id": "hire-a-helper",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "History",
+        "id": "history",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "Rewind",
+            "clock",
+            "reverse",
+            "time",
+            "time machine"
+        ]
+    },
+    {
+        "name": "Hive Blockchain Network",
+        "id": "hive",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hockey Puck",
+        "id": "hockey-puck",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "ice",
+            "nhl",
+            "sport"
+        ]
+    },
+    {
+        "name": "Holly Berry",
+        "id": "holly-berry",
+        "categories": [
+            "All",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "catwoman",
+            "christmas",
+            "decoration",
+            "flora",
+            "halle",
+            "holiday",
+            "ororo munroe",
+            "plant",
+            "storm",
+            "xmas"
+        ]
+    },
+    {
+        "name": "home",
+        "id": "home",
+        "categories": [
+            "All",
+            "Buildings",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "abode",
+            "building",
+            "house",
+            "main"
+        ]
+    },
+    {
+        "name": "Hooli",
+        "id": "hooli",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hornbill",
+        "id": "hornbill",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Horse",
+        "id": "horse",
+        "categories": [
+            "All",
+            "Animals",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "equus",
+            "fauna",
+            "mammmal",
+            "mare",
+            "neigh",
+            "pony"
+        ]
+    },
+    {
+        "name": "Horse Head",
+        "id": "horse-head",
+        "categories": [
+            "All",
+            "Animals"
+        ],
+        "class": "fas",
+        "filter": [
+            "equus",
+            "fauna",
+            "mammmal",
+            "mare",
+            "neigh",
+            "pony"
+        ]
+    },
+    {
+        "name": "hospital",
+        "id": "hospital",
+        "categories": [
+            "All",
+            "Buildings",
+            "Health",
+            "Maps",
+            "Medical",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "covid-19",
+            "emergency room",
+            "medical center"
+        ]
+    },
+    {
+        "name": "Alternate Hospital",
+        "id": "hospital-alt",
+        "categories": [
+            "All",
+            "Buildings",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "covid-19",
+            "emergency room",
+            "medical center"
+        ]
+    },
+    {
+        "name": "Hospital Symbol",
+        "id": "hospital-symbol",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "clinic",
+            "covid-19",
+            "emergency",
+            "map"
+        ]
+    },
+    {
+        "name": "Hospital with User",
+        "id": "hospital-user",
+        "categories": [
+            "All",
+            "Buildings",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "doctor",
+            "network",
+            "patient",
+            "primary care"
+        ]
+    },
+    {
+        "name": "Hot Tub",
+        "id": "hot-tub",
+        "categories": [
+            "All",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "bath",
+            "jacuzzi",
+            "massage",
+            "sauna",
+            "spa"
+        ]
+    },
+    {
+        "name": "Hot Dog",
+        "id": "hotdog",
+        "categories": [
+            "All",
+            "Food",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "bun",
+            "chili",
+            "frankfurt",
+            "frankfurter",
+            "kosher",
+            "polish",
+            "sandwich",
+            "sausage",
+            "vienna",
+            "weiner"
+        ]
+    },
+    {
+        "name": "Hotel",
+        "id": "hotel",
+        "categories": [
+            "All",
+            "Buildings",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "inn",
+            "lodging",
+            "motel",
+            "resort",
+            "travel"
+        ]
+    },
+    {
+        "name": "Hotjar",
+        "id": "hotjar",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hourglass",
+        "id": "hourglass",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "hour",
+            "minute",
+            "sand",
+            "stopwatch",
+            "time"
+        ]
+    },
+    {
+        "name": "Hourglass End",
+        "id": "hourglass-end",
+        "categories": [
+            "All",
+            "Date & Time"
+        ],
+        "class": "fas",
+        "filter": [
+            "hour",
+            "minute",
+            "sand",
+            "stopwatch",
+            "time"
+        ]
+    },
+    {
+        "name": "Hourglass Half",
+        "id": "hourglass-half",
+        "categories": [
+            "All",
+            "Date & Time"
+        ],
+        "class": "fas",
+        "filter": [
+            "hour",
+            "minute",
+            "sand",
+            "stopwatch",
+            "time"
+        ]
+    },
+    {
+        "name": "Hourglass Start",
+        "id": "hourglass-start",
+        "categories": [
+            "All",
+            "Date & Time"
+        ],
+        "class": "fas",
+        "filter": [
+            "hour",
+            "minute",
+            "sand",
+            "stopwatch",
+            "time"
+        ]
+    },
+    {
+        "name": "Damaged House",
+        "id": "house-damage",
+        "categories": [
+            "All",
+            "Buildings"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "devastation",
+            "disaster",
+            "home",
+            "insurance"
+        ]
+    },
+    {
+        "name": "House User",
+        "id": "house-user",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "home",
+            "isolation",
+            "quarantine"
+        ]
+    },
+    {
+        "name": "Houzz",
+        "id": "houzz",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hryvnia",
+        "id": "hryvnia",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "money",
+            "ukraine",
+            "ukrainian"
+        ]
+    },
+    {
+        "name": "HTML 5 Logo",
+        "id": "html5",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "HubSpot",
+        "id": "hubspot",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "I Beam Cursor",
+        "id": "i-cursor",
+        "categories": [
+            "All",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "editing",
+            "i-beam",
+            "type",
+            "writing"
+        ]
+    },
+    {
+        "name": "Ice Cream",
+        "id": "ice-cream",
+        "categories": [
+            "All",
+            "Childhood",
+            "Food",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "chocolate",
+            "cone",
+            "dessert",
+            "frozen",
+            "scoop",
+            "sorbet",
+            "vanilla",
+            "yogurt"
+        ]
+    },
+    {
+        "name": "Icicles",
+        "id": "icicles",
+        "categories": [
+            "All",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "cold",
+            "frozen",
+            "hanging",
+            "ice",
+            "seasonal",
+            "sharp"
+        ]
+    },
+    {
+        "name": "Icons",
+        "id": "icons",
+        "categories": [
+            "All",
+            "Chat",
+            "Design",
+            "Editors",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "bolt",
+            "emoji",
+            "heart",
+            "image",
+            "music",
+            "photo",
+            "symbols"
+        ]
+    },
+    {
+        "name": "Identification Badge",
+        "id": "id-badge",
+        "categories": [
+            "All",
+            "Images",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "contact",
+            "identification",
+            "license",
+            "profile"
+        ]
+    },
+    {
+        "name": "Identification Card",
+        "id": "id-card",
+        "categories": [
+            "All",
+            "Images",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "contact",
+            "demographics",
+            "document",
+            "identification",
+            "issued",
+            "profile"
+        ]
+    },
+    {
+        "name": "Alternate Identification Card",
+        "id": "id-card-alt",
+        "categories": [
+            "All",
+            "Medical",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "contact",
+            "demographics",
+            "document",
+            "identification",
+            "issued",
+            "profile"
+        ]
+    },
+    {
+        "name": "iDeal",
+        "id": "ideal",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Igloo",
+        "id": "igloo",
+        "categories": [
+            "All",
+            "Buildings",
+            "Objects",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "dome",
+            "dwelling",
+            "eskimo",
+            "home",
+            "house",
+            "ice",
+            "snow"
+        ]
+    },
+    {
+        "name": "Image",
+        "id": "image",
+        "categories": [
+            "All",
+            "Images",
+            "Maps",
+            "Objects",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "album",
+            "landscape",
+            "photo",
+            "picture"
+        ]
+    },
+    {
+        "name": "Images",
+        "id": "images",
+        "categories": [
+            "All",
+            "Images",
+            "Maps",
+            "Objects",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "album",
+            "landscape",
+            "photo",
+            "picture"
+        ]
+    },
+    {
+        "name": "IMDB",
+        "id": "imdb",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "inbox",
+        "id": "inbox",
+        "categories": [
+            "All",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "desk",
+            "email",
+            "mail",
+            "message"
+        ]
+    },
+    {
+        "name": "Indent",
+        "id": "indent",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "align",
+            "justify",
+            "paragraph",
+            "tab"
+        ]
+    },
+    {
+        "name": "Industry",
+        "id": "industry",
+        "categories": [
+            "All",
+            "Buildings",
+            "Business",
+            "Energy",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "factory",
+            "industrial",
+            "manufacturing",
+            "mill",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Infinity",
+        "id": "infinity",
+        "categories": [
+            "All",
+            "Hotel",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "eternity",
+            "forever",
+            "math"
+        ]
+    },
+    {
+        "name": "Info",
+        "id": "info",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "details",
+            "help",
+            "information",
+            "more",
+            "support"
+        ]
+    },
+    {
+        "name": "Info Circle",
+        "id": "info-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "details",
+            "help",
+            "information",
+            "more",
+            "support"
+        ]
+    },
+    {
+        "name": "Innosoft",
+        "id": "innosoft",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Instagram",
+        "id": "instagram",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Instagram Square",
+        "id": "instagram-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "InstaLOD",
+        "id": "instalod",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Intercom",
+        "id": "intercom",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "app",
+            "customer",
+            "messenger"
+        ]
+    },
+    {
+        "name": "Internet-explorer",
+        "id": "internet-explorer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser",
+            "ie"
+        ]
+    },
+    {
+        "name": "InVision",
+        "id": "invision",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "app",
+            "design",
+            "interface"
+        ]
+    },
+    {
+        "name": "ioxhost",
+        "id": "ioxhost",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "italic",
+        "id": "italic",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "emphasis",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "itch.io",
+        "id": "itch-io",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "iTunes",
+        "id": "itunes",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Itunes Note",
+        "id": "itunes-note",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Java",
+        "id": "java",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Jedi",
+        "id": "jedi",
+        "categories": [
+            "All",
+            "Religion",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "crest",
+            "force",
+            "sith",
+            "skywalker",
+            "star wars",
+            "yoda"
+        ]
+    },
+    {
+        "name": "Jedi Order",
+        "id": "jedi-order",
+        "categories": [
+            "All",
+            "Science Fiction"
+        ],
+        "class": "fab",
+        "filter": [
+            "star wars"
+        ]
+    },
+    {
+        "name": "Jenkis",
+        "id": "jenkins",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Jira",
+        "id": "jira",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "atlassian"
+        ]
+    },
+    {
+        "name": "Joget",
+        "id": "joget",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Joint",
+        "id": "joint",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "blunt",
+            "cannabis",
+            "doobie",
+            "drugs",
+            "marijuana",
+            "roach",
+            "smoke",
+            "smoking",
+            "spliff"
+        ]
+    },
+    {
+        "name": "Joomla Logo",
+        "id": "joomla",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Journal of the Whills",
+        "id": "journal-whills",
+        "categories": [
+            "All",
+            "Religion",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "book",
+            "force",
+            "jedi",
+            "sith",
+            "star wars",
+            "yoda"
+        ]
+    },
+    {
+        "name": "JavaScript (JS)",
+        "id": "js",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "JavaScript (JS) Square",
+        "id": "js-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "jsFiddle",
+        "id": "jsfiddle",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Kaaba",
+        "id": "kaaba",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "cube",
+            "islam",
+            "muslim"
+        ]
+    },
+    {
+        "name": "Kaggle",
+        "id": "kaggle",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "key",
+        "id": "key",
+        "categories": [
+            "All",
+            "Hotel",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "lock",
+            "password",
+            "private",
+            "secret",
+            "unlock"
+        ]
+    },
+    {
+        "name": "Keybase",
+        "id": "keybase",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Keyboard",
+        "id": "keyboard",
+        "categories": [
+            "All",
+            "Code",
+            "Computers",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "accessory",
+            "edit",
+            "input",
+            "text",
+            "type",
+            "write"
+        ]
+    },
+    {
+        "name": "KeyCDN",
+        "id": "keycdn",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Khanda",
+        "id": "khanda",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "chakkar",
+            "sikh",
+            "sikhism",
+            "sword"
+        ]
+    },
+    {
+        "name": "Kickstarter",
+        "id": "kickstarter",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Kickstarter K",
+        "id": "kickstarter-k",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Kissing Face",
+        "id": "kiss",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "beso",
+            "emoticon",
+            "face",
+            "love",
+            "smooch"
+        ]
+    },
+    {
+        "name": "Kissing Face With Smiling Eyes",
+        "id": "kiss-beam",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "beso",
+            "emoticon",
+            "face",
+            "love",
+            "smooch"
+        ]
+    },
+    {
+        "name": "Face Blowing a Kiss",
+        "id": "kiss-wink-heart",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "beso",
+            "emoticon",
+            "face",
+            "love",
+            "smooch"
+        ]
+    },
+    {
+        "name": "Kiwi Bird",
+        "id": "kiwi-bird",
+        "categories": [
+            "All",
+            "Animals"
+        ],
+        "class": "fas",
+        "filter": [
+            "bird",
+            "fauna",
+            "new zealand"
+        ]
+    },
+    {
+        "name": "KORVUE",
+        "id": "korvue",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Landmark",
+        "id": "landmark",
+        "categories": [
+            "All",
+            "Buildings",
+            "Business",
+            "Finance",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "historic",
+            "memorable",
+            "monument",
+            "politics"
+        ]
+    },
+    {
+        "name": "Language",
+        "id": "language",
+        "categories": [
+            "All",
+            "Communication",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "dialect",
+            "idiom",
+            "localize",
+            "speech",
+            "translate",
+            "vernacular"
+        ]
+    },
+    {
+        "name": "Laptop",
+        "id": "laptop",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "cpu",
+            "dell",
+            "demo",
+            "device",
+            "mac",
+            "macbook",
+            "machine",
+            "pc"
+        ]
+    },
+    {
+        "name": "Laptop Code",
+        "id": "laptop-code",
+        "categories": [
+            "All",
+            "Code",
+            "Education"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "cpu",
+            "dell",
+            "demo",
+            "develop",
+            "device",
+            "mac",
+            "macbook",
+            "machine",
+            "pc"
+        ]
+    },
+    {
+        "name": "Laptop House",
+        "id": "laptop-house",
+        "categories": [
+            "All",
+            "Business",
+            "Computers",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "covid-19",
+            "device",
+            "office",
+            "remote",
+            "work from home"
+        ]
+    },
+    {
+        "name": "Laptop Medical",
+        "id": "laptop-medical",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "device",
+            "ehr",
+            "electronic health records",
+            "history"
+        ]
+    },
+    {
+        "name": "Laravel",
+        "id": "laravel",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "last.fm",
+        "id": "lastfm",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "last.fm Square",
+        "id": "lastfm-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Grinning Face With Big Eyes",
+        "id": "laugh",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face",
+            "laugh",
+            "smile"
+        ]
+    },
+    {
+        "name": "Laugh Face with Beaming Eyes",
+        "id": "laugh-beam",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face",
+            "happy",
+            "smile"
+        ]
+    },
+    {
+        "name": "Laughing Squinting Face",
+        "id": "laugh-squint",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face",
+            "happy",
+            "smile"
+        ]
+    },
+    {
+        "name": "Laughing Winking Face",
+        "id": "laugh-wink",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "LOL",
+            "emoticon",
+            "face",
+            "happy",
+            "smile"
+        ]
+    },
+    {
+        "name": "Layer Group",
+        "id": "layer-group",
+        "categories": [
+            "All",
+            "Design",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "develop",
+            "layers",
+            "map",
+            "stack"
+        ]
+    },
+    {
+        "name": "leaf",
+        "id": "leaf",
+        "categories": [
+            "All",
+            "Charity",
+            "Energy",
+            "Fruits & Vegetables",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "eco",
+            "flora",
+            "nature",
+            "plant",
+            "vegan"
+        ]
+    },
+    {
+        "name": "Leanpub",
+        "id": "leanpub",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Lemon",
+        "id": "lemon",
+        "categories": [
+            "All",
+            "Food",
+            "Fruits & Vegetables",
+            "Maps",
+            "Objects",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "citrus",
+            "lemonade",
+            "lime",
+            "tart"
+        ]
+    },
+    {
+        "name": "Less",
+        "id": "less",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Less Than",
+        "id": "less-than",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "compare",
+            "math"
+        ]
+    },
+    {
+        "name": "Less Than Equal To",
+        "id": "less-than-equal",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "compare",
+            "math"
+        ]
+    },
+    {
+        "name": "Alternate Level Down",
+        "id": "level-down-alt",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "level-down"
+        ]
+    },
+    {
+        "name": "Alternate Level Up",
+        "id": "level-up-alt",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "level-up"
+        ]
+    },
+    {
+        "name": "Life Ring",
+        "id": "life-ring",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "coast guard",
+            "help",
+            "overboard",
+            "save",
+            "support"
+        ]
+    },
+    {
+        "name": "Lightbulb",
+        "id": "lightbulb",
+        "categories": [
+            "All",
+            "Energy",
+            "Household",
+            "Maps",
+            "Marketing",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "energy",
+            "idea",
+            "inspiration",
+            "light"
+        ]
+    },
+    {
+        "name": "Line",
+        "id": "line",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Link",
+        "id": "link",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "attach",
+            "attachment",
+            "chain",
+            "connect"
+        ]
+    },
+    {
+        "name": "LinkedIn",
+        "id": "linkedin",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linkedin-square"
+        ]
+    },
+    {
+        "name": "LinkedIn In",
+        "id": "linkedin-in",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linkedin"
+        ]
+    },
+    {
+        "name": "Linode",
+        "id": "linode",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Linux",
+        "id": "linux",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "tux"
+        ]
+    },
+    {
+        "name": "Turkish Lira Sign",
+        "id": "lira-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "money",
+            "try",
+            "turkish"
+        ]
+    },
+    {
+        "name": "List",
+        "id": "list",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "ol",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "Alternate List",
+        "id": "list-alt",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "ol",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "list-ol",
+        "id": "list-ol",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "numbers",
+            "ol",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "list-ul",
+        "id": "list-ul",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "ol",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "location-arrow",
+        "id": "location-arrow",
+        "categories": [
+            "All",
+            "Arrows",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "compass",
+            "coordinate",
+            "direction",
+            "gps",
+            "map",
+            "navigation",
+            "place"
+        ]
+    },
+    {
+        "name": "lock",
+        "id": "lock",
+        "categories": [
+            "All",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "lock",
+            "open",
+            "password",
+            "private",
+            "protect",
+            "security"
+        ]
+    },
+    {
+        "name": "Lock Open",
+        "id": "lock-open",
+        "categories": [
+            "All",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "lock",
+            "open",
+            "password",
+            "private",
+            "protect",
+            "security"
+        ]
+    },
+    {
+        "name": "Alternate Long Arrow Down",
+        "id": "long-arrow-alt-down",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "download",
+            "long-arrow-down"
+        ]
+    },
+    {
+        "name": "Alternate Long Arrow Left",
+        "id": "long-arrow-alt-left",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "long-arrow-left",
+            "previous"
+        ]
+    },
+    {
+        "name": "Alternate Long Arrow Right",
+        "id": "long-arrow-alt-right",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "long-arrow-right",
+            "next"
+        ]
+    },
+    {
+        "name": "Alternate Long Arrow Up",
+        "id": "long-arrow-alt-up",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "long-arrow-up",
+            "upload"
+        ]
+    },
+    {
+        "name": "Low Vision",
+        "id": "low-vision",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "blind",
+            "eye",
+            "sight"
+        ]
+    },
+    {
+        "name": "Luggage Cart",
+        "id": "luggage-cart",
+        "categories": [
+            "All",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "bag",
+            "baggage",
+            "suitcase",
+            "travel"
+        ]
+    },
+    {
+        "name": "Lungs",
+        "id": "lungs",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "air",
+            "breath",
+            "covid-19",
+            "organ",
+            "respiratory"
+        ]
+    },
+    {
+        "name": "Lungs Virus",
+        "id": "lungs-virus",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "breath",
+            "covid-19",
+            "respiratory",
+            "sick"
+        ]
+    },
+    {
+        "name": "lyft",
+        "id": "lyft",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Magento",
+        "id": "magento",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "magic",
+        "id": "magic",
+        "categories": [
+            "All",
+            "Design",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "autocomplete",
+            "automatic",
+            "mage",
+            "magic",
+            "spell",
+            "wand",
+            "witch",
+            "wizard"
+        ]
+    },
+    {
+        "name": "magnet",
+        "id": "magnet",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "Attract",
+            "lodestone",
+            "tool"
+        ]
+    },
+    {
+        "name": "Mail Bulk",
+        "id": "mail-bulk",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "envelope",
+            "letter",
+            "post office",
+            "postal",
+            "postcard",
+            "send",
+            "stamp",
+            "usps"
+        ]
+    },
+    {
+        "name": "Mailchimp",
+        "id": "mailchimp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Male",
+        "id": "male",
+        "categories": [
+            "All",
+            "Maps",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "human",
+            "man",
+            "person",
+            "profile",
+            "user"
+        ]
+    },
+    {
+        "name": "Mandalorian",
+        "id": "mandalorian",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Map",
+        "id": "map",
+        "categories": [
+            "All",
+            "Camping",
+            "Maps",
+            "Objects",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "navigation",
+            "paper",
+            "pin",
+            "place",
+            "point of interest",
+            "position",
+            "route",
+            "travel"
+        ]
+    },
+    {
+        "name": "Map Marked",
+        "id": "map-marked",
+        "categories": [
+            "All",
+            "Camping",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "navigation",
+            "paper",
+            "pin",
+            "place",
+            "point of interest",
+            "position",
+            "route",
+            "travel"
+        ]
+    },
+    {
+        "name": "Alternate Map Marked",
+        "id": "map-marked-alt",
+        "categories": [
+            "All",
+            "Camping",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "navigation",
+            "paper",
+            "pin",
+            "place",
+            "point of interest",
+            "position",
+            "route",
+            "travel"
+        ]
+    },
+    {
+        "name": "map-marker",
+        "id": "map-marker",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Shapes",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "navigation",
+            "paper",
+            "pin",
+            "place",
+            "point of interest",
+            "position",
+            "route",
+            "travel"
+        ]
+    },
+    {
+        "name": "Alternate Map Marker",
+        "id": "map-marker-alt",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "navigation",
+            "paper",
+            "pin",
+            "place",
+            "point of interest",
+            "position",
+            "route",
+            "travel"
+        ]
+    },
+    {
+        "name": "Map Pin",
+        "id": "map-pin",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "address",
+            "agree",
+            "coordinates",
+            "destination",
+            "gps",
+            "localize",
+            "location",
+            "map",
+            "marker",
+            "navigation",
+            "pin",
+            "place",
+            "position",
+            "travel"
+        ]
+    },
+    {
+        "name": "Map Signs",
+        "id": "map-signs",
+        "categories": [
+            "All",
+            "Camping",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "directory",
+            "map",
+            "signage",
+            "wayfinding"
+        ]
+    },
+    {
+        "name": "Markdown",
+        "id": "markdown",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Marker",
+        "id": "marker",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "sharpie",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Mars",
+        "id": "mars",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "male"
+        ]
+    },
+    {
+        "name": "Mars Double",
+        "id": "mars-double",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Mars Stroke",
+        "id": "mars-stroke",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Mars Stroke Horizontal",
+        "id": "mars-stroke-h",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Mars Stroke Vertical",
+        "id": "mars-stroke-v",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Mask",
+        "id": "mask",
+        "categories": [
+            "All",
+            "Halloween",
+            "Security"
+        ],
+        "class": "fas",
+        "filter": [
+            "carnivale",
+            "costume",
+            "disguise",
+            "halloween",
+            "secret",
+            "super hero"
+        ]
+    },
+    {
+        "name": "Mastodon",
+        "id": "mastodon",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "MaxCDN",
+        "id": "maxcdn",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Material Design for Bootstrap",
+        "id": "mdb",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Medal",
+        "id": "medal",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "award",
+            "ribbon",
+            "star",
+            "trophy"
+        ]
+    },
+    {
+        "name": "MedApps",
+        "id": "medapps",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Medium",
+        "id": "medium",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Medium M",
+        "id": "medium-m",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "medkit",
+        "id": "medkit",
+        "categories": [
+            "All",
+            "Health",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "first aid",
+            "firstaid",
+            "health",
+            "help",
+            "support"
+        ]
+    },
+    {
+        "name": "MRT",
+        "id": "medrt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Meetup",
+        "id": "meetup",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Megaport",
+        "id": "megaport",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Neutral Face",
+        "id": "meh",
+        "categories": [
+            "All",
+            "Chat",
+            "Emoji",
+            "Interfaces",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "neutral",
+            "rating"
+        ]
+    },
+    {
+        "name": "Face Without Mouth",
+        "id": "meh-blank",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "neutral",
+            "rating"
+        ]
+    },
+    {
+        "name": "Face With Rolling Eyes",
+        "id": "meh-rolling-eyes",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "neutral",
+            "rating"
+        ]
+    },
+    {
+        "name": "Memory",
+        "id": "memory",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "DIMM",
+            "RAM",
+            "hardware",
+            "storage",
+            "technology"
+        ]
+    },
+    {
+        "name": "Mendeley",
+        "id": "mendeley",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Menorah",
+        "id": "menorah",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "candle",
+            "hanukkah",
+            "jewish",
+            "judaism",
+            "light"
+        ]
+    },
+    {
+        "name": "Mercury",
+        "id": "mercury",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "transgender"
+        ]
+    },
+    {
+        "name": "Meteor",
+        "id": "meteor",
+        "categories": [
+            "All",
+            "Science Fiction",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "armageddon",
+            "asteroid",
+            "comet",
+            "shooting star",
+            "space"
+        ]
+    },
+    {
+        "name": "Micro.blog",
+        "id": "microblog",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Microchip",
+        "id": "microchip",
+        "categories": [
+            "All",
+            "Code",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cpu",
+            "hardware",
+            "processor",
+            "technology"
+        ]
+    },
+    {
+        "name": "microphone",
+        "id": "microphone",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Interfaces",
+            "Music",
+            "Objects",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "podcast",
+            "record",
+            "sing",
+            "sound",
+            "voice"
+        ]
+    },
+    {
+        "name": "Alternate Microphone",
+        "id": "microphone-alt",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Interfaces",
+            "Music",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "podcast",
+            "record",
+            "sing",
+            "sound",
+            "voice"
+        ]
+    },
+    {
+        "name": "Alternate Microphone Slash",
+        "id": "microphone-alt-slash",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Music",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "disable",
+            "mute",
+            "podcast",
+            "record",
+            "sing",
+            "sound",
+            "voice"
+        ]
+    },
+    {
+        "name": "Microphone Slash",
+        "id": "microphone-slash",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Interfaces",
+            "Music",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "disable",
+            "mute",
+            "podcast",
+            "record",
+            "sing",
+            "sound",
+            "voice"
+        ]
+    },
+    {
+        "name": "Microscope",
+        "id": "microscope",
+        "categories": [
+            "All",
+            "Education",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "electron",
+            "lens",
+            "optics",
+            "science",
+            "shrink"
+        ]
+    },
+    {
+        "name": "Microsoft",
+        "id": "microsoft",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "minus",
+        "id": "minus",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Mathematics",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "collapse",
+            "delete",
+            "hide",
+            "minify",
+            "negative",
+            "remove",
+            "trash"
+        ]
+    },
+    {
+        "name": "Minus Circle",
+        "id": "minus-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "delete",
+            "hide",
+            "negative",
+            "remove",
+            "shape",
+            "trash"
+        ]
+    },
+    {
+        "name": "Minus Square",
+        "id": "minus-square",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "collapse",
+            "delete",
+            "hide",
+            "minify",
+            "negative",
+            "remove",
+            "shape",
+            "trash"
+        ]
+    },
+    {
+        "name": "Mitten",
+        "id": "mitten",
+        "categories": [
+            "All",
+            "Childhood",
+            "Clothing",
+            "Objects",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "clothing",
+            "cold",
+            "glove",
+            "hands",
+            "knitted",
+            "seasonal",
+            "warmth"
+        ]
+    },
+    {
+        "name": "Mix",
+        "id": "mix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Mixcloud",
+        "id": "mixcloud",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Mixer",
+        "id": "mixer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Mizuni",
+        "id": "mizuni",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Mobile Phone",
+        "id": "mobile",
+        "categories": [
+            "All",
+            "Communication",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "apple",
+            "call",
+            "cell phone",
+            "cellphone",
+            "device",
+            "iphone",
+            "number",
+            "screen",
+            "telephone"
+        ]
+    },
+    {
+        "name": "Alternate Mobile",
+        "id": "mobile-alt",
+        "categories": [
+            "All",
+            "Communication",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "apple",
+            "call",
+            "cell phone",
+            "cellphone",
+            "device",
+            "iphone",
+            "number",
+            "screen",
+            "telephone"
+        ]
+    },
+    {
+        "name": "MODX",
+        "id": "modx",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Monero",
+        "id": "monero",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Money Bill",
+        "id": "money-bill",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "cash",
+            "checkout",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Alternate Money Bill",
+        "id": "money-bill-alt",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "cash",
+            "checkout",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Wavy Money Bill",
+        "id": "money-bill-wave",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "cash",
+            "checkout",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Alternate Wavy Money Bill",
+        "id": "money-bill-wave-alt",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "cash",
+            "checkout",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Money Check",
+        "id": "money-check",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "bank check",
+            "buy",
+            "checkout",
+            "cheque",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Alternate Money Check",
+        "id": "money-check-alt",
+        "categories": [
+            "All",
+            "Currency",
+            "Finance",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "bank check",
+            "buy",
+            "checkout",
+            "cheque",
+            "money",
+            "payment",
+            "price",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Monument",
+        "id": "monument",
+        "categories": [
+            "All",
+            "Buildings",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "historic",
+            "landmark",
+            "memorable"
+        ]
+    },
+    {
+        "name": "Moon",
+        "id": "moon",
+        "categories": [
+            "All",
+            "Objects",
+            "Science Fiction",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "contrast",
+            "crescent",
+            "dark",
+            "lunar",
+            "night"
+        ]
+    },
+    {
+        "name": "Mortar Pestle",
+        "id": "mortar-pestle",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "crush",
+            "culinary",
+            "grind",
+            "medical",
+            "mix",
+            "pharmacy",
+            "prescription",
+            "spices"
+        ]
+    },
+    {
+        "name": "Mosque",
+        "id": "mosque",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "islam",
+            "landmark",
+            "muslim"
+        ]
+    },
+    {
+        "name": "Motorcycle",
+        "id": "motorcycle",
+        "categories": [
+            "All",
+            "Automotive",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "bike",
+            "machine",
+            "transportation",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Mountain",
+        "id": "mountain",
+        "categories": [
+            "All",
+            "Autumn",
+            "Camping"
+        ],
+        "class": "fas",
+        "filter": [
+            "glacier",
+            "hiking",
+            "hill",
+            "landscape",
+            "travel",
+            "view"
+        ]
+    },
+    {
+        "name": "Mouse",
+        "id": "mouse",
+        "categories": [
+            "All",
+            "Computers"
+        ],
+        "class": "fas",
+        "filter": [
+            "click",
+            "computer",
+            "cursor",
+            "input",
+            "peripheral"
+        ]
+    },
+    {
+        "name": "Mouse Pointer",
+        "id": "mouse-pointer",
+        "categories": [
+            "All",
+            "Arrows"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "cursor",
+            "select"
+        ]
+    },
+    {
+        "name": "Mug Hot",
+        "id": "mug-hot",
+        "categories": [
+            "All",
+            "Beverage",
+            "Holiday",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "caliente",
+            "cocoa",
+            "coffee",
+            "cup",
+            "drink",
+            "holiday",
+            "hot chocolate",
+            "steam",
+            "tea",
+            "warmth"
+        ]
+    },
+    {
+        "name": "Music",
+        "id": "music",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Education",
+            "Maps",
+            "Music"
+        ],
+        "class": "fas",
+        "filter": [
+            "lyrics",
+            "melody",
+            "note",
+            "sing",
+            "sound"
+        ]
+    },
+    {
+        "name": "Napster",
+        "id": "napster",
+        "categories": [
+            "All",
+            "Music"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Neos",
+        "id": "neos",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wired Network",
+        "id": "network-wired",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "connect",
+            "ethernet",
+            "internet",
+            "intranet"
+        ]
+    },
+    {
+        "name": "Neuter",
+        "id": "neuter",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": []
+    },
+    {
+        "name": "Newspaper",
+        "id": "newspaper",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "article",
+            "editorial",
+            "headline",
+            "journal",
+            "journalism",
+            "news",
+            "press"
+        ]
+    },
+    {
+        "name": "Nimblr",
+        "id": "nimblr",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Node.js",
+        "id": "node",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Node.js JS",
+        "id": "node-js",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Not Equal",
+        "id": "not-equal",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "compare",
+            "math"
+        ]
+    },
+    {
+        "name": "Medical Notes",
+        "id": "notes-medical",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "clipboard",
+            "doctor",
+            "ehr",
+            "health",
+            "history",
+            "records"
+        ]
+    },
+    {
+        "name": "npm",
+        "id": "npm",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "NS8",
+        "id": "ns8",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Nutritionix",
+        "id": "nutritionix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Object Group",
+        "id": "object-group",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "combine",
+            "copy",
+            "design",
+            "merge",
+            "select"
+        ]
+    },
+    {
+        "name": "Object Ungroup",
+        "id": "object-ungroup",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "copy",
+            "design",
+            "merge",
+            "select",
+            "separate"
+        ]
+    },
+    {
+        "name": "Octopus Deploy",
+        "id": "octopus-deploy",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Odnoklassniki",
+        "id": "odnoklassniki",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Odnoklassniki Square",
+        "id": "odnoklassniki-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Oil Can",
+        "id": "oil-can",
+        "categories": [
+            "All",
+            "Automotive"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "crude",
+            "gasoline",
+            "grease",
+            "lubricate",
+            "petroleum"
+        ]
+    },
+    {
+        "name": "Old Republic",
+        "id": "old-republic",
+        "categories": [
+            "All",
+            "Science Fiction"
+        ],
+        "class": "fab",
+        "filter": [
+            "politics",
+            "star wars"
+        ]
+    },
+    {
+        "name": "Om",
+        "id": "om",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "buddhism",
+            "hinduism",
+            "jainism",
+            "mantra"
+        ]
+    },
+    {
+        "name": "OpenCart",
+        "id": "opencart",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "OpenID",
+        "id": "openid",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Opera",
+        "id": "opera",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Optin Monster",
+        "id": "optin-monster",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "ORCID",
+        "id": "orcid",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Open Source Initiative",
+        "id": "osi",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Otter",
+        "id": "otter",
+        "categories": [
+            "All",
+            "Animals"
+        ],
+        "class": "fas",
+        "filter": [
+            "animal",
+            "badger",
+            "fauna",
+            "fur",
+            "mammal",
+            "marten"
+        ]
+    },
+    {
+        "name": "Outdent",
+        "id": "outdent",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "align",
+            "justify",
+            "paragraph",
+            "tab"
+        ]
+    },
+    {
+        "name": "page4 Corporation",
+        "id": "page4",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pagelines",
+        "id": "pagelines",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "eco",
+            "flora",
+            "leaf",
+            "leaves",
+            "nature",
+            "plant",
+            "tree"
+        ]
+    },
+    {
+        "name": "Pager",
+        "id": "pager",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "beeper",
+            "cellphone",
+            "communication"
+        ]
+    },
+    {
+        "name": "Paint Brush",
+        "id": "paint-brush",
+        "categories": [
+            "All",
+            "Design",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "acrylic",
+            "art",
+            "brush",
+            "color",
+            "fill",
+            "paint",
+            "pigment",
+            "watercolor"
+        ]
+    },
+    {
+        "name": "Paint Roller",
+        "id": "paint-roller",
+        "categories": [
+            "All",
+            "Construction",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "acrylic",
+            "art",
+            "brush",
+            "color",
+            "fill",
+            "paint",
+            "pigment",
+            "watercolor"
+        ]
+    },
+    {
+        "name": "Palette",
+        "id": "palette",
+        "categories": [
+            "All",
+            "Design",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "acrylic",
+            "art",
+            "brush",
+            "color",
+            "fill",
+            "paint",
+            "pigment",
+            "watercolor"
+        ]
+    },
+    {
+        "name": "Palfed",
+        "id": "palfed",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pallet",
+        "id": "pallet",
+        "categories": [
+            "All",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "box",
+            "inventory",
+            "shipping",
+            "warehouse"
+        ]
+    },
+    {
+        "name": "Paper Plane",
+        "id": "paper-plane",
+        "categories": [
+            "All",
+            "Communication",
+            "Editors",
+            "Objects",
+            "Vehicles",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "air",
+            "float",
+            "fold",
+            "mail",
+            "paper",
+            "send"
+        ]
+    },
+    {
+        "name": "Paperclip",
+        "id": "paperclip",
+        "categories": [
+            "All",
+            "Business",
+            "Editors",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "attach",
+            "attachment",
+            "connect",
+            "link"
+        ]
+    },
+    {
+        "name": "Parachute Box",
+        "id": "parachute-box",
+        "categories": [
+            "All",
+            "Charity"
+        ],
+        "class": "fas",
+        "filter": [
+            "aid",
+            "assistance",
+            "rescue",
+            "supplies"
+        ]
+    },
+    {
+        "name": "paragraph",
+        "id": "paragraph",
+        "categories": [
+            "All",
+            "Editors",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "format",
+            "text",
+            "writing"
+        ]
+    },
+    {
+        "name": "Parking",
+        "id": "parking",
+        "categories": [
+            "All",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "auto",
+            "car",
+            "garage",
+            "meter"
+        ]
+    },
+    {
+        "name": "Passport",
+        "id": "passport",
+        "categories": [
+            "All",
+            "Security",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "document",
+            "id",
+            "identification",
+            "issued",
+            "travel"
+        ]
+    },
+    {
+        "name": "Pastafarianism",
+        "id": "pastafarianism",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "agnosticism",
+            "atheism",
+            "flying spaghetti monster",
+            "fsm"
+        ]
+    },
+    {
+        "name": "Paste",
+        "id": "paste",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Files",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "clipboard",
+            "copy",
+            "document",
+            "paper"
+        ]
+    },
+    {
+        "name": "Patreon",
+        "id": "patreon",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "pause",
+        "id": "pause",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "hold",
+            "wait"
+        ]
+    },
+    {
+        "name": "Pause Circle",
+        "id": "pause-circle",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "hold",
+            "wait"
+        ]
+    },
+    {
+        "name": "Paw",
+        "id": "paw",
+        "categories": [
+            "All",
+            "Animals",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "animal",
+            "cat",
+            "dog",
+            "pet",
+            "print"
+        ]
+    },
+    {
+        "name": "Paypal",
+        "id": "paypal",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Peace",
+        "id": "peace",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "serenity",
+            "tranquility",
+            "truce",
+            "war"
+        ]
+    },
+    {
+        "name": "Pen",
+        "id": "pen",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Alternate Pen",
+        "id": "pen-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Pen Fancy",
+        "id": "pen-fancy",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "fountain pen",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Pen Nib",
+        "id": "pen-nib",
+        "categories": [
+            "All",
+            "Business",
+            "Design",
+            "Editors",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "fountain pen",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Pen Square",
+        "id": "pen-square",
+        "categories": [
+            "All",
+            "Business",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "pencil-square",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Alternate Pencil",
+        "id": "pencil-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Construction",
+            "Design",
+            "Editors",
+            "Interfaces",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "edit",
+            "pencil",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "Pencil Ruler",
+        "id": "pencil-ruler",
+        "categories": [
+            "All",
+            "Construction",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "draft",
+            "draw",
+            "pencil"
+        ]
+    },
+    {
+        "name": "Penny Arcade",
+        "id": "penny-arcade",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "game",
+            "gaming",
+            "pax",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "People Arrows",
+        "id": "people-arrows",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "personal space",
+            "social distance",
+            "space",
+            "spread",
+            "users"
+        ]
+    },
+    {
+        "name": "People Carry",
+        "id": "people-carry",
+        "categories": [
+            "All",
+            "Moving",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "box",
+            "carry",
+            "fragile",
+            "help",
+            "movers",
+            "package"
+        ]
+    },
+    {
+        "name": "Hot Pepper",
+        "id": "pepper-hot",
+        "categories": [
+            "All",
+            "Food",
+            "Fruits & Vegetables"
+        ],
+        "class": "fas",
+        "filter": [
+            "buffalo wings",
+            "capsicum",
+            "chili",
+            "chilli",
+            "habanero",
+            "jalapeno",
+            "mexican",
+            "spicy",
+            "tabasco",
+            "vegetable"
+        ]
+    },
+    {
+        "name": "PerByte",
+        "id": "perbyte",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Percent",
+        "id": "percent",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "discount",
+            "fraction",
+            "proportion",
+            "rate",
+            "ratio"
+        ]
+    },
+    {
+        "name": "Percentage",
+        "id": "percentage",
+        "categories": [
+            "All",
+            "Finance",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "discount",
+            "fraction",
+            "proportion",
+            "rate",
+            "ratio"
+        ]
+    },
+    {
+        "name": "Periscope",
+        "id": "periscope",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Person Entering Booth",
+        "id": "person-booth",
+        "categories": [
+            "All",
+            "Political",
+            "Shopping",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "changing",
+            "changing room",
+            "election",
+            "human",
+            "person",
+            "vote",
+            "voting"
+        ]
+    },
+    {
+        "name": "Phabricator",
+        "id": "phabricator",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Phoenix Framework",
+        "id": "phoenix-framework",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Phoenix Squadron",
+        "id": "phoenix-squadron",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Phone",
+        "id": "phone",
+        "categories": [
+            "All",
+            "Business",
+            "Chat",
+            "Communication",
+            "Maps",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "earphone",
+            "number",
+            "support",
+            "telephone",
+            "voice"
+        ]
+    },
+    {
+        "name": "Alternate Phone",
+        "id": "phone-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Chat",
+            "Communication",
+            "Maps",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "earphone",
+            "number",
+            "support",
+            "telephone",
+            "voice"
+        ]
+    },
+    {
+        "name": "Phone Slash",
+        "id": "phone-slash",
+        "categories": [
+            "All",
+            "Business",
+            "Chat",
+            "Communication",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "cancel",
+            "earphone",
+            "mute",
+            "number",
+            "support",
+            "telephone",
+            "voice"
+        ]
+    },
+    {
+        "name": "Phone Square",
+        "id": "phone-square",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "earphone",
+            "number",
+            "support",
+            "telephone",
+            "voice"
+        ]
+    },
+    {
+        "name": "Alternate Phone Square",
+        "id": "phone-square-alt",
+        "categories": [
+            "All",
+            "Business",
+            "Communication",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "earphone",
+            "number",
+            "support",
+            "telephone",
+            "voice"
+        ]
+    },
+    {
+        "name": "Phone Volume",
+        "id": "phone-volume",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Audio & Video",
+            "Business",
+            "Communication",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "call",
+            "earphone",
+            "number",
+            "sound",
+            "support",
+            "telephone",
+            "voice",
+            "volume-control-phone"
+        ]
+    },
+    {
+        "name": "Photo Video",
+        "id": "photo-video",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Files",
+            "Images",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "av",
+            "film",
+            "image",
+            "library",
+            "media"
+        ]
+    },
+    {
+        "name": "PHP",
+        "id": "php",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pied Piper Logo",
+        "id": "pied-piper",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Alternate Pied Piper Logo (Old)",
+        "id": "pied-piper-alt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pied Piper Hat (Old)",
+        "id": "pied-piper-hat",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "clothing"
+        ]
+    },
+    {
+        "name": "Pied Piper PP Logo (Old)",
+        "id": "pied-piper-pp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pied Piper Square Logo (Old)",
+        "id": "pied-piper-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Piggy Bank",
+        "id": "piggy-bank",
+        "categories": [
+            "All",
+            "Charity",
+            "Finance",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "bank",
+            "save",
+            "savings"
+        ]
+    },
+    {
+        "name": "Pills",
+        "id": "pills",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medicine",
+            "prescription",
+            "tablets"
+        ]
+    },
+    {
+        "name": "Pinterest",
+        "id": "pinterest",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pinterest P",
+        "id": "pinterest-p",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pinterest Square",
+        "id": "pinterest-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Pizza Slice",
+        "id": "pizza-slice",
+        "categories": [
+            "All",
+            "Food"
+        ],
+        "class": "fas",
+        "filter": [
+            "cheese",
+            "chicago",
+            "italian",
+            "mozzarella",
+            "new york",
+            "pepperoni",
+            "pie",
+            "slice",
+            "teenage mutant ninja turtles",
+            "tomato"
+        ]
+    },
+    {
+        "name": "Place of Worship",
+        "id": "place-of-worship",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "church",
+            "holy",
+            "mosque",
+            "synagogue"
+        ]
+    },
+    {
+        "name": "plane",
+        "id": "plane",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Travel",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "airplane",
+            "destination",
+            "fly",
+            "location",
+            "mode",
+            "travel",
+            "trip"
+        ]
+    },
+    {
+        "name": "Plane Arrival",
+        "id": "plane-arrival",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "airplane",
+            "arriving",
+            "destination",
+            "fly",
+            "land",
+            "landing",
+            "location",
+            "mode",
+            "travel",
+            "trip"
+        ]
+    },
+    {
+        "name": "Plane Departure",
+        "id": "plane-departure",
+        "categories": [
+            "All",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "airplane",
+            "departing",
+            "destination",
+            "fly",
+            "location",
+            "mode",
+            "take off",
+            "taking off",
+            "travel",
+            "trip"
+        ]
+    },
+    {
+        "name": "Plane Slash",
+        "id": "plane-slash",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "airplane mode",
+            "canceled",
+            "covid-19",
+            "delayed",
+            "grounded",
+            "travel"
+        ]
+    },
+    {
+        "name": "play",
+        "id": "play",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Music",
+            "Shapes"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "music",
+            "playing",
+            "sound",
+            "start",
+            "video"
+        ]
+    },
+    {
+        "name": "Play Circle",
+        "id": "play-circle",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "music",
+            "playing",
+            "sound",
+            "start",
+            "video"
+        ]
+    },
+    {
+        "name": "PlayStation",
+        "id": "playstation",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Plug",
+        "id": "plug",
+        "categories": [
+            "All",
+            "Computers",
+            "Energy",
+            "Household",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "connect",
+            "electric",
+            "online",
+            "power"
+        ]
+    },
+    {
+        "name": "plus",
+        "id": "plus",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Mathematics",
+            "Medical",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "create",
+            "expand",
+            "new",
+            "positive",
+            "shape"
+        ]
+    },
+    {
+        "name": "Plus Circle",
+        "id": "plus-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "create",
+            "expand",
+            "new",
+            "positive",
+            "shape"
+        ]
+    },
+    {
+        "name": "Plus Square",
+        "id": "plus-square",
+        "categories": [
+            "All",
+            "Health",
+            "Interfaces",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "create",
+            "expand",
+            "new",
+            "positive",
+            "shape"
+        ]
+    },
+    {
+        "name": "Podcast",
+        "id": "podcast",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "broadcast",
+            "music",
+            "sound"
+        ]
+    },
+    {
+        "name": "Poll",
+        "id": "poll",
+        "categories": [
+            "All",
+            "Marketing",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "results",
+            "survey",
+            "trend",
+            "vote",
+            "voting"
+        ]
+    },
+    {
+        "name": "Poll H",
+        "id": "poll-h",
+        "categories": [
+            "All",
+            "Marketing",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "results",
+            "survey",
+            "trend",
+            "vote",
+            "voting"
+        ]
+    },
+    {
+        "name": "Poo",
+        "id": "poo",
+        "categories": [
+            "All",
+            "Chat",
+            "Interfaces",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "crap",
+            "poop",
+            "shit",
+            "smile",
+            "turd"
+        ]
+    },
+    {
+        "name": "Poo Storm",
+        "id": "poo-storm",
+        "categories": [
+            "All",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "bolt",
+            "cloud",
+            "euphemism",
+            "lightning",
+            "mess",
+            "poop",
+            "shit",
+            "turd"
+        ]
+    },
+    {
+        "name": "Poop",
+        "id": "poop",
+        "categories": [
+            "All",
+            "Energy",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "crap",
+            "poop",
+            "shit",
+            "smile",
+            "turd"
+        ]
+    },
+    {
+        "name": "Portrait",
+        "id": "portrait",
+        "categories": [
+            "All",
+            "Images",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "id",
+            "image",
+            "photo",
+            "picture",
+            "selfie"
+        ]
+    },
+    {
+        "name": "Pound Sign",
+        "id": "pound-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "gbp",
+            "money"
+        ]
+    },
+    {
+        "name": "Power Off",
+        "id": "power-off",
+        "categories": [
+            "All",
+            "Computers",
+            "Energy",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "cancel",
+            "computer",
+            "on",
+            "reboot",
+            "restart"
+        ]
+    },
+    {
+        "name": "Pray",
+        "id": "pray",
+        "categories": [
+            "All",
+            "Religion",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "kneel",
+            "preach",
+            "religion",
+            "worship"
+        ]
+    },
+    {
+        "name": "Praying Hands",
+        "id": "praying-hands",
+        "categories": [
+            "All",
+            "Hands",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "kneel",
+            "preach",
+            "religion",
+            "worship"
+        ]
+    },
+    {
+        "name": "Prescription",
+        "id": "prescription",
+        "categories": [
+            "All",
+            "Health",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medical",
+            "medicine",
+            "pharmacy",
+            "rx"
+        ]
+    },
+    {
+        "name": "Prescription Bottle",
+        "id": "prescription-bottle",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medical",
+            "medicine",
+            "pharmacy",
+            "rx"
+        ]
+    },
+    {
+        "name": "Alternate Prescription Bottle",
+        "id": "prescription-bottle-alt",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medical",
+            "medicine",
+            "pharmacy",
+            "rx"
+        ]
+    },
+    {
+        "name": "print",
+        "id": "print",
+        "categories": [
+            "All",
+            "Business",
+            "Computers",
+            "Editors",
+            "Maps",
+            "Objects",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "business",
+            "copy",
+            "document",
+            "office",
+            "paper"
+        ]
+    },
+    {
+        "name": "Procedures",
+        "id": "procedures",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "EKG",
+            "bed",
+            "electrocardiogram",
+            "health",
+            "hospital",
+            "life",
+            "patient",
+            "vital"
+        ]
+    },
+    {
+        "name": "Product Hunt",
+        "id": "product-hunt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Project Diagram",
+        "id": "project-diagram",
+        "categories": [
+            "All",
+            "Business",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "chart",
+            "graph",
+            "network",
+            "pert"
+        ]
+    },
+    {
+        "name": "Pump Medical",
+        "id": "pump-medical",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "anti-bacterial",
+            "clean",
+            "covid-19",
+            "disinfect",
+            "hygiene",
+            "medical grade",
+            "sanitizer",
+            "soap"
+        ]
+    },
+    {
+        "name": "Pump Soap",
+        "id": "pump-soap",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "anti-bacterial",
+            "clean",
+            "covid-19",
+            "disinfect",
+            "hygiene",
+            "sanitizer",
+            "soap"
+        ]
+    },
+    {
+        "name": "Pushed",
+        "id": "pushed",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Puzzle Piece",
+        "id": "puzzle-piece",
+        "categories": [
+            "All",
+            "Games",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "add-on",
+            "addon",
+            "game",
+            "section"
+        ]
+    },
+    {
+        "name": "Python",
+        "id": "python",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "QQ",
+        "id": "qq",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "qrcode",
+        "id": "qrcode",
+        "categories": [
+            "All",
+            "Code",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "barcode",
+            "info",
+            "information",
+            "scan"
+        ]
+    },
+    {
+        "name": "Question",
+        "id": "question",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "help",
+            "information",
+            "support",
+            "unknown"
+        ]
+    },
+    {
+        "name": "Question Circle",
+        "id": "question-circle",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "help",
+            "information",
+            "support",
+            "unknown"
+        ]
+    },
+    {
+        "name": "Quidditch",
+        "id": "quidditch",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "ball",
+            "bludger",
+            "broom",
+            "golden snitch",
+            "harry potter",
+            "hogwarts",
+            "quaffle",
+            "sport",
+            "wizard"
+        ]
+    },
+    {
+        "name": "QuinScape",
+        "id": "quinscape",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Quora",
+        "id": "quora",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "quote-left",
+        "id": "quote-left",
+        "categories": [
+            "All",
+            "Chat",
+            "Editors",
+            "Interfaces",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "mention",
+            "note",
+            "phrase",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "quote-right",
+        "id": "quote-right",
+        "categories": [
+            "All",
+            "Chat",
+            "Editors",
+            "Interfaces",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "mention",
+            "note",
+            "phrase",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "Quran",
+        "id": "quran",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "book",
+            "islam",
+            "muslim",
+            "religion"
+        ]
+    },
+    {
+        "name": "R Project",
+        "id": "r-project",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Radiation",
+        "id": "radiation",
+        "categories": [
+            "All",
+            "Alert",
+            "Energy",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "danger",
+            "dangerous",
+            "deadly",
+            "hazard",
+            "nuclear",
+            "radioactive",
+            "warning"
+        ]
+    },
+    {
+        "name": "Alternate Radiation",
+        "id": "radiation-alt",
+        "categories": [
+            "All",
+            "Alert",
+            "Energy",
+            "Medical",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "danger",
+            "dangerous",
+            "deadly",
+            "hazard",
+            "nuclear",
+            "radioactive",
+            "warning"
+        ]
+    },
+    {
+        "name": "Rainbow",
+        "id": "rainbow",
+        "categories": [
+            "All",
+            "Spring",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "gold",
+            "leprechaun",
+            "prism",
+            "rain",
+            "sky"
+        ]
+    },
+    {
+        "name": "random",
+        "id": "random",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrows",
+            "shuffle",
+            "sort",
+            "swap",
+            "switch",
+            "transfer"
+        ]
+    },
+    {
+        "name": "Raspberry Pi",
+        "id": "raspberry-pi",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ravelry",
+        "id": "ravelry",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "React",
+        "id": "react",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "ReactEurope",
+        "id": "reacteurope",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "ReadMe",
+        "id": "readme",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Rebel Alliance",
+        "id": "rebel",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Receipt",
+        "id": "receipt",
+        "categories": [
+            "All",
+            "Finance",
+            "Payments & Shopping",
+            "Pharmacy",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "check",
+            "invoice",
+            "money",
+            "pay",
+            "table"
+        ]
+    },
+    {
+        "name": "Record Vinyl",
+        "id": "record-vinyl",
+        "categories": [
+            "All",
+            "Music"
+        ],
+        "class": "fas",
+        "filter": [
+            "LP",
+            "album",
+            "analog",
+            "music",
+            "phonograph",
+            "sound"
+        ]
+    },
+    {
+        "name": "Recycle",
+        "id": "recycle",
+        "categories": [
+            "All",
+            "Arrows",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "Waste",
+            "compost",
+            "garbage",
+            "reuse",
+            "trash"
+        ]
+    },
+    {
+        "name": "red river",
+        "id": "red-river",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "reddit Logo",
+        "id": "reddit",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "reddit Alien",
+        "id": "reddit-alien",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "reddit Square",
+        "id": "reddit-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Redhat",
+        "id": "redhat",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linux",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "Redo",
+        "id": "redo",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "refresh",
+            "reload",
+            "repeat"
+        ]
+    },
+    {
+        "name": "Alternate Redo",
+        "id": "redo-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "refresh",
+            "reload",
+            "repeat"
+        ]
+    },
+    {
+        "name": "Registered Trademark",
+        "id": "registered",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "copyright",
+            "mark",
+            "trademark"
+        ]
+    },
+    {
+        "name": "Remove Format",
+        "id": "remove-format",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "cancel",
+            "font",
+            "format",
+            "remove",
+            "style",
+            "text"
+        ]
+    },
+    {
+        "name": "Renren",
+        "id": "renren",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Reply",
+        "id": "reply",
+        "categories": [
+            "All",
+            "Arrows",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "mail",
+            "message",
+            "respond"
+        ]
+    },
+    {
+        "name": "reply-all",
+        "id": "reply-all",
+        "categories": [
+            "All",
+            "Arrows",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "mail",
+            "message",
+            "respond"
+        ]
+    },
+    {
+        "name": "replyd",
+        "id": "replyd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Republican",
+        "id": "republican",
+        "categories": [
+            "All",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "american",
+            "conservative",
+            "election",
+            "elephant",
+            "politics",
+            "republican party",
+            "right",
+            "right-wing",
+            "usa"
+        ]
+    },
+    {
+        "name": "Researchgate",
+        "id": "researchgate",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Resolving",
+        "id": "resolving",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Restroom",
+        "id": "restroom",
+        "categories": [
+            "All",
+            "Maps",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "bathroom",
+            "john",
+            "loo",
+            "potty",
+            "washroom",
+            "waste",
+            "wc"
+        ]
+    },
+    {
+        "name": "Retweet",
+        "id": "retweet",
+        "categories": [
+            "All",
+            "Arrows",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "refresh",
+            "reload",
+            "share",
+            "swap"
+        ]
+    },
+    {
+        "name": "Rev.io",
+        "id": "rev",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ribbon",
+        "id": "ribbon",
+        "categories": [
+            "All",
+            "Charity"
+        ],
+        "class": "fas",
+        "filter": [
+            "badge",
+            "cause",
+            "lapel",
+            "pin"
+        ]
+    },
+    {
+        "name": "Ring",
+        "id": "ring",
+        "categories": [
+            "All",
+            "Tabletop Gaming",
+            "Objects",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "Gollum",
+            "band",
+            "binding",
+            "d&d",
+            "dnd",
+            "engagement",
+            "fantasy",
+            "gold",
+            "jewelry",
+            "marriage",
+            "precious"
+        ]
+    },
+    {
+        "name": "road",
+        "id": "road",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "highway",
+            "map",
+            "pavement",
+            "route",
+            "street",
+            "travel"
+        ]
+    },
+    {
+        "name": "Robot",
+        "id": "robot",
+        "categories": [
+            "All",
+            "Childhood",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "android",
+            "automate",
+            "computer",
+            "cyborg"
+        ]
+    },
+    {
+        "name": "rocket",
+        "id": "rocket",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Science Fiction",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "aircraft",
+            "app",
+            "jet",
+            "launch",
+            "nasa",
+            "space"
+        ]
+    },
+    {
+        "name": "Rocket.Chat",
+        "id": "rocketchat",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Rockrms",
+        "id": "rockrms",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Route",
+        "id": "route",
+        "categories": [
+            "All",
+            "Camping",
+            "Maps",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "navigation",
+            "travel"
+        ]
+    },
+    {
+        "name": "rss",
+        "id": "rss",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "blog",
+            "feed",
+            "journal",
+            "news",
+            "writing"
+        ]
+    },
+    {
+        "name": "RSS Square",
+        "id": "rss-square",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Communication",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "blog",
+            "feed",
+            "journal",
+            "news",
+            "writing"
+        ]
+    },
+    {
+        "name": "Ruble Sign",
+        "id": "ruble-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "money",
+            "rub"
+        ]
+    },
+    {
+        "name": "Ruler",
+        "id": "ruler",
+        "categories": [
+            "All",
+            "Construction"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "draft",
+            "length",
+            "measure",
+            "planning"
+        ]
+    },
+    {
+        "name": "Ruler Combined",
+        "id": "ruler-combined",
+        "categories": [
+            "All",
+            "Construction",
+            "Design",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "draft",
+            "length",
+            "measure",
+            "planning"
+        ]
+    },
+    {
+        "name": "Ruler Horizontal",
+        "id": "ruler-horizontal",
+        "categories": [
+            "All",
+            "Construction",
+            "Design",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "draft",
+            "length",
+            "measure",
+            "planning"
+        ]
+    },
+    {
+        "name": "Ruler Vertical",
+        "id": "ruler-vertical",
+        "categories": [
+            "All",
+            "Construction",
+            "Design",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "draft",
+            "length",
+            "measure",
+            "planning"
+        ]
+    },
+    {
+        "name": "Running",
+        "id": "running",
+        "categories": [
+            "All",
+            "Fitness",
+            "Sports",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "exercise",
+            "health",
+            "jog",
+            "person",
+            "run",
+            "sport",
+            "sprint"
+        ]
+    },
+    {
+        "name": "Indian Rupee Sign",
+        "id": "rupee-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "indian",
+            "inr",
+            "money"
+        ]
+    },
+    {
+        "name": "Rust",
+        "id": "rust",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Crying Face",
+        "id": "sad-cry",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "tear",
+            "tears"
+        ]
+    },
+    {
+        "name": "Loudly Crying Face",
+        "id": "sad-tear",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "tear",
+            "tears"
+        ]
+    },
+    {
+        "name": "Safari",
+        "id": "safari",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "browser"
+        ]
+    },
+    {
+        "name": "Salesforce",
+        "id": "salesforce",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Sass",
+        "id": "sass",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Satellite",
+        "id": "satellite",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "communications",
+            "hardware",
+            "orbit",
+            "space"
+        ]
+    },
+    {
+        "name": "Satellite Dish",
+        "id": "satellite-dish",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects",
+            "Science Fiction"
+        ],
+        "class": "fas",
+        "filter": [
+            "SETI",
+            "communications",
+            "hardware",
+            "receiver",
+            "saucer",
+            "signal",
+            "space"
+        ]
+    },
+    {
+        "name": "Save",
+        "id": "save",
+        "categories": [
+            "All",
+            "Business",
+            "Computers",
+            "Design",
+            "Files",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "disk",
+            "download",
+            "floppy",
+            "floppy-o"
+        ]
+    },
+    {
+        "name": "SCHLIX",
+        "id": "schlix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "School",
+        "id": "school",
+        "categories": [
+            "All",
+            "Buildings",
+            "Childhood",
+            "Education",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "education",
+            "learn",
+            "student",
+            "teacher"
+        ]
+    },
+    {
+        "name": "Screwdriver",
+        "id": "screwdriver",
+        "categories": [
+            "All",
+            "Construction",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "fix",
+            "mechanic",
+            "repair",
+            "settings",
+            "tool"
+        ]
+    },
+    {
+        "name": "Scribd",
+        "id": "scribd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Scroll",
+        "id": "scroll",
+        "categories": [
+            "All",
+            "Tabletop Gaming",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "announcement",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "paper",
+            "script"
+        ]
+    },
+    {
+        "name": "Sd Card",
+        "id": "sd-card",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "image",
+            "memory",
+            "photo",
+            "save"
+        ]
+    },
+    {
+        "name": "Search",
+        "id": "search",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "find",
+            "magnify",
+            "preview",
+            "zoom"
+        ]
+    },
+    {
+        "name": "Search Dollar",
+        "id": "search-dollar",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "find",
+            "magnify",
+            "money",
+            "preview",
+            "zoom"
+        ]
+    },
+    {
+        "name": "Search Location",
+        "id": "search-location",
+        "categories": [
+            "All",
+            "Marketing"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "find",
+            "magnify",
+            "preview",
+            "zoom"
+        ]
+    },
+    {
+        "name": "Search Minus",
+        "id": "search-minus",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "minify",
+            "negative",
+            "smaller",
+            "zoom",
+            "zoom out"
+        ]
+    },
+    {
+        "name": "Search Plus",
+        "id": "search-plus",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "bigger",
+            "enlarge",
+            "magnify",
+            "positive",
+            "zoom",
+            "zoom in"
+        ]
+    },
+    {
+        "name": "Searchengin",
+        "id": "searchengin",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Seedling",
+        "id": "seedling",
+        "categories": [
+            "All",
+            "Charity",
+            "Energy",
+            "Food",
+            "Fruits & Vegetables",
+            "Science",
+            "Spring"
+        ],
+        "class": "fas",
+        "filter": [
+            "flora",
+            "grow",
+            "plant",
+            "vegan"
+        ]
+    },
+    {
+        "name": "Sellcast",
+        "id": "sellcast",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "eercast"
+        ]
+    },
+    {
+        "name": "Sellsy",
+        "id": "sellsy",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Server",
+        "id": "server",
+        "categories": [
+            "All",
+            "Computers"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "cpu",
+            "database",
+            "hardware",
+            "network"
+        ]
+    },
+    {
+        "name": "Servicestack",
+        "id": "servicestack",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Shapes",
+        "id": "shapes",
+        "categories": [
+            "All",
+            "Childhood",
+            "Education",
+            "Shapes"
+        ],
+        "class": "fas",
+        "filter": [
+            "blocks",
+            "build",
+            "circle",
+            "square",
+            "triangle"
+        ]
+    },
+    {
+        "name": "Share",
+        "id": "share",
+        "categories": [
+            "All",
+            "Arrows",
+            "Editors",
+            "Interfaces",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "save",
+            "send",
+            "social"
+        ]
+    },
+    {
+        "name": "Alternate Share",
+        "id": "share-alt",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "save",
+            "send",
+            "social"
+        ]
+    },
+    {
+        "name": "Alternate Share Square",
+        "id": "share-alt-square",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "save",
+            "send",
+            "social"
+        ]
+    },
+    {
+        "name": "Share Square",
+        "id": "share-square",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces",
+            "Social"
+        ],
+        "class": "fas",
+        "filter": [
+            "forward",
+            "save",
+            "send",
+            "social"
+        ]
+    },
+    {
+        "name": "Shekel Sign",
+        "id": "shekel-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "ils",
+            "money"
+        ]
+    },
+    {
+        "name": "Alternate Shield",
+        "id": "shield-alt",
+        "categories": [
+            "All",
+            "Code",
+            "Interfaces",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "achievement",
+            "award",
+            "block",
+            "defend",
+            "security",
+            "winner"
+        ]
+    },
+    {
+        "name": "Shield Virus",
+        "id": "shield-virus",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "antibodies",
+            "barrier",
+            "covid-19",
+            "health",
+            "protect"
+        ]
+    },
+    {
+        "name": "Ship",
+        "id": "ship",
+        "categories": [
+            "All",
+            "Maps",
+            "Maritime",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "boat",
+            "sea",
+            "water"
+        ]
+    },
+    {
+        "name": "Shipping Fast",
+        "id": "shipping-fast",
+        "categories": [
+            "All",
+            "Logistics",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "express",
+            "fedex",
+            "mail",
+            "overnight",
+            "package",
+            "ups"
+        ]
+    },
+    {
+        "name": "Shirts in Bulk",
+        "id": "shirtsinbulk",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Shoe Prints",
+        "id": "shoe-prints",
+        "categories": [
+            "All",
+            "Clothing",
+            "Fitness",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "feet",
+            "footprints",
+            "steps",
+            "walk"
+        ]
+    },
+    {
+        "name": "Shopify",
+        "id": "shopify",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Shopping Bag",
+        "id": "shopping-bag",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "checkout",
+            "grocery",
+            "payment",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Shopping Basket",
+        "id": "shopping-basket",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "checkout",
+            "grocery",
+            "payment",
+            "purchase"
+        ]
+    },
+    {
+        "name": "shopping-cart",
+        "id": "shopping-cart",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Payments & Shopping",
+            "Shopping",
+            "Status",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "buy",
+            "checkout",
+            "grocery",
+            "payment",
+            "purchase"
+        ]
+    },
+    {
+        "name": "Shopware",
+        "id": "shopware",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Shower",
+        "id": "shower",
+        "categories": [
+            "All",
+            "Hotel",
+            "Household",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bath",
+            "clean",
+            "faucet",
+            "water"
+        ]
+    },
+    {
+        "name": "Shuttle Van",
+        "id": "shuttle-van",
+        "categories": [
+            "All",
+            "Automotive",
+            "Hotel",
+            "Travel",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "airport",
+            "machine",
+            "public-transportation",
+            "transportation",
+            "travel",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Sign",
+        "id": "sign",
+        "categories": [
+            "All",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "real estate",
+            "signage",
+            "wayfinding"
+        ]
+    },
+    {
+        "name": "Alternate Sign In",
+        "id": "sign-in-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "enter",
+            "join",
+            "log in",
+            "login",
+            "sign in",
+            "sign up",
+            "sign-in",
+            "signin",
+            "signup"
+        ]
+    },
+    {
+        "name": "Sign Language",
+        "id": "sign-language",
+        "categories": [
+            "All",
+            "Accessibility"
+        ],
+        "class": "fas",
+        "filter": [
+            "Translate",
+            "asl",
+            "deaf",
+            "hands"
+        ]
+    },
+    {
+        "name": "Alternate Sign Out",
+        "id": "sign-out-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "exit",
+            "leave",
+            "log out",
+            "logout",
+            "sign-out"
+        ]
+    },
+    {
+        "name": "signal",
+        "id": "signal",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "bars",
+            "graph",
+            "online",
+            "reception",
+            "status"
+        ]
+    },
+    {
+        "name": "Signature",
+        "id": "signature",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "John Hancock",
+            "cursive",
+            "name",
+            "writing"
+        ]
+    },
+    {
+        "name": "SIM Card",
+        "id": "sim-card",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "hard drive",
+            "hardware",
+            "portable",
+            "storage",
+            "technology",
+            "tiny"
+        ]
+    },
+    {
+        "name": "SimplyBuilt",
+        "id": "simplybuilt",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Sink",
+        "id": "sink",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "bathroom",
+            "covid-19",
+            "faucet",
+            "kitchen",
+            "wash"
+        ]
+    },
+    {
+        "name": "SISTRIX",
+        "id": "sistrix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Sitemap",
+        "id": "sitemap",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "directory",
+            "hierarchy",
+            "ia",
+            "information architecture",
+            "organization"
+        ]
+    },
+    {
+        "name": "Sith",
+        "id": "sith",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Skating",
+        "id": "skating",
+        "categories": [
+            "All",
+            "Fitness",
+            "Sports",
+            "Users & People",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "figure skating",
+            "fitness",
+            "ice",
+            "person",
+            "winter"
+        ]
+    },
+    {
+        "name": "Sketch",
+        "id": "sketch",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "app",
+            "design",
+            "interface"
+        ]
+    },
+    {
+        "name": "Skiing",
+        "id": "skiing",
+        "categories": [
+            "All",
+            "Fitness",
+            "Sports",
+            "Users & People",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "downhill",
+            "fast",
+            "fitness",
+            "olympics",
+            "outdoors",
+            "person",
+            "seasonal",
+            "slalom"
+        ]
+    },
+    {
+        "name": "Skiing Nordic",
+        "id": "skiing-nordic",
+        "categories": [
+            "All",
+            "Fitness",
+            "Sports",
+            "Users & People",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "cross country",
+            "fitness",
+            "outdoors",
+            "person",
+            "seasonal"
+        ]
+    },
+    {
+        "name": "Skull",
+        "id": "skull",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "bones",
+            "skeleton",
+            "x-ray",
+            "yorick"
+        ]
+    },
+    {
+        "name": "Skull & Crossbones",
+        "id": "skull-crossbones",
+        "categories": [
+            "All",
+            "Alert",
+            "Tabletop Gaming",
+            "Halloween",
+            "Maritime",
+            "Objects",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "Dungeons & Dragons",
+            "alert",
+            "bones",
+            "d&d",
+            "danger",
+            "dead",
+            "deadly",
+            "death",
+            "dnd",
+            "fantasy",
+            "halloween",
+            "holiday",
+            "jolly-roger",
+            "pirate",
+            "poison",
+            "skeleton",
+            "warning"
+        ]
+    },
+    {
+        "name": "skyatlas",
+        "id": "skyatlas",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Skype",
+        "id": "skype",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Slack Logo",
+        "id": "slack",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "anchor",
+            "hash",
+            "hashtag"
+        ]
+    },
+    {
+        "name": "Slack Hashtag",
+        "id": "slack-hash",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "anchor",
+            "hash",
+            "hashtag"
+        ]
+    },
+    {
+        "name": "Slash",
+        "id": "slash",
+        "categories": [
+            "All",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "cancel",
+            "close",
+            "mute",
+            "off",
+            "stop",
+            "x"
+        ]
+    },
+    {
+        "name": "Sleigh",
+        "id": "sleigh",
+        "categories": [
+            "All",
+            "Holiday",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "christmas",
+            "claus",
+            "fly",
+            "holiday",
+            "santa",
+            "sled",
+            "snow",
+            "xmas"
+        ]
+    },
+    {
+        "name": "Horizontal Sliders",
+        "id": "sliders-h",
+        "categories": [
+            "All",
+            "Images",
+            "Interfaces",
+            "Music"
+        ],
+        "class": "fas",
+        "filter": [
+            "adjust",
+            "settings",
+            "sliders",
+            "toggle"
+        ]
+    },
+    {
+        "name": "Slideshare",
+        "id": "slideshare",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Smiling Face",
+        "id": "smile",
+        "categories": [
+            "All",
+            "Chat",
+            "Emoji",
+            "Interfaces",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "approve",
+            "emoticon",
+            "face",
+            "happy",
+            "rating",
+            "satisfied"
+        ]
+    },
+    {
+        "name": "Beaming Face With Smiling Eyes",
+        "id": "smile-beam",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "happy",
+            "positive"
+        ]
+    },
+    {
+        "name": "Winking Face",
+        "id": "smile-wink",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "happy",
+            "hint",
+            "joke"
+        ]
+    },
+    {
+        "name": "Smog",
+        "id": "smog",
+        "categories": [
+            "All",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "dragon",
+            "fog",
+            "haze",
+            "pollution",
+            "smoke",
+            "weather"
+        ]
+    },
+    {
+        "name": "Smoking",
+        "id": "smoking",
+        "categories": [
+            "All",
+            "Hotel",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "cancer",
+            "cigarette",
+            "nicotine",
+            "smoking status",
+            "tobacco"
+        ]
+    },
+    {
+        "name": "Smoking Ban",
+        "id": "smoking-ban",
+        "categories": [
+            "All",
+            "Hotel",
+            "Medical",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "ban",
+            "cancel",
+            "no smoking",
+            "non-smoking"
+        ]
+    },
+    {
+        "name": "SMS",
+        "id": "sms",
+        "categories": [
+            "All",
+            "Chat"
+        ],
+        "class": "fas",
+        "filter": [
+            "chat",
+            "conversation",
+            "message",
+            "mobile",
+            "notification",
+            "phone",
+            "sms",
+            "texting"
+        ]
+    },
+    {
+        "name": "Snapchat",
+        "id": "snapchat",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Snapchat Ghost",
+        "id": "snapchat-ghost",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Snapchat Square",
+        "id": "snapchat-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Snowboarding",
+        "id": "snowboarding",
+        "categories": [
+            "All",
+            "Fitness",
+            "Sports",
+            "Users & People",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "activity",
+            "fitness",
+            "olympics",
+            "outdoors",
+            "person"
+        ]
+    },
+    {
+        "name": "Snowflake",
+        "id": "snowflake",
+        "categories": [
+            "All",
+            "Hotel",
+            "Household",
+            "Objects",
+            "Spinners",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "precipitation",
+            "rain",
+            "winter"
+        ]
+    },
+    {
+        "name": "Snowman",
+        "id": "snowman",
+        "categories": [
+            "All",
+            "Childhood",
+            "Holiday"
+        ],
+        "class": "fas",
+        "filter": [
+            "decoration",
+            "frost",
+            "frosty",
+            "holiday"
+        ]
+    },
+    {
+        "name": "Snowplow",
+        "id": "snowplow",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Vehicles",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "clean up",
+            "cold",
+            "road",
+            "storm",
+            "winter"
+        ]
+    },
+    {
+        "name": "Soap",
+        "id": "soap",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "bubbles",
+            "clean",
+            "covid-19",
+            "hygiene",
+            "wash"
+        ]
+    },
+    {
+        "name": "Socks",
+        "id": "socks",
+        "categories": [
+            "All",
+            "Business",
+            "Clothing"
+        ],
+        "class": "fas",
+        "filter": [
+            "business socks",
+            "business time",
+            "clothing",
+            "feet",
+            "flight of the conchords",
+            "wednesday"
+        ]
+    },
+    {
+        "name": "Solar Panel",
+        "id": "solar-panel",
+        "categories": [
+            "All",
+            "Energy"
+        ],
+        "class": "fas",
+        "filter": [
+            "clean",
+            "eco-friendly",
+            "energy",
+            "green",
+            "sun"
+        ]
+    },
+    {
+        "name": "Sort",
+        "id": "sort",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "filter",
+            "order"
+        ]
+    },
+    {
+        "name": "Sort Alphabetical Down",
+        "id": "sort-alpha-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabetical",
+            "arrange",
+            "filter",
+            "order",
+            "sort-alpha-asc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Alphabetical Down",
+        "id": "sort-alpha-down-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabetical",
+            "arrange",
+            "filter",
+            "order",
+            "sort-alpha-asc"
+        ]
+    },
+    {
+        "name": "Sort Alphabetical Up",
+        "id": "sort-alpha-up",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabetical",
+            "arrange",
+            "filter",
+            "order",
+            "sort-alpha-desc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Alphabetical Up",
+        "id": "sort-alpha-up-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "alphabetical",
+            "arrange",
+            "filter",
+            "order",
+            "sort-alpha-desc"
+        ]
+    },
+    {
+        "name": "Sort Amount Down",
+        "id": "sort-amount-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "number",
+            "order",
+            "sort-amount-asc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Amount Down",
+        "id": "sort-amount-down-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "order",
+            "sort-amount-asc"
+        ]
+    },
+    {
+        "name": "Sort Amount Up",
+        "id": "sort-amount-up",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "order",
+            "sort-amount-desc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Amount Up",
+        "id": "sort-amount-up-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "order",
+            "sort-amount-desc"
+        ]
+    },
+    {
+        "name": "Sort Down (Descending)",
+        "id": "sort-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "descending",
+            "filter",
+            "order",
+            "sort-desc"
+        ]
+    },
+    {
+        "name": "Sort Numeric Down",
+        "id": "sort-numeric-down",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "numbers",
+            "order",
+            "sort-numeric-asc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Numeric Down",
+        "id": "sort-numeric-down-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "numbers",
+            "order",
+            "sort-numeric-asc"
+        ]
+    },
+    {
+        "name": "Sort Numeric Up",
+        "id": "sort-numeric-up",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "numbers",
+            "order",
+            "sort-numeric-desc"
+        ]
+    },
+    {
+        "name": "Alternate Sort Numeric Up",
+        "id": "sort-numeric-up-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrange",
+            "filter",
+            "numbers",
+            "order",
+            "sort-numeric-desc"
+        ]
+    },
+    {
+        "name": "Sort Up (Ascending)",
+        "id": "sort-up",
+        "categories": [
+            "All",
+            "Arrows",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "arrow",
+            "ascending",
+            "filter",
+            "order",
+            "sort-asc"
+        ]
+    },
+    {
+        "name": "SoundCloud",
+        "id": "soundcloud",
+        "categories": [
+            "All",
+            "Music"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Sourcetree",
+        "id": "sourcetree",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Spa",
+        "id": "spa",
+        "categories": [
+            "All",
+            "Fitness",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "flora",
+            "massage",
+            "mindfulness",
+            "plant",
+            "wellness"
+        ]
+    },
+    {
+        "name": "Space Shuttle",
+        "id": "space-shuttle",
+        "categories": [
+            "All",
+            "Objects",
+            "Science Fiction",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "astronaut",
+            "machine",
+            "nasa",
+            "rocket",
+            "space",
+            "transportation"
+        ]
+    },
+    {
+        "name": "Speakap",
+        "id": "speakap",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Speaker Deck",
+        "id": "speaker-deck",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Spell Check",
+        "id": "spell-check",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "dictionary",
+            "edit",
+            "editor",
+            "grammar",
+            "text"
+        ]
+    },
+    {
+        "name": "Spider",
+        "id": "spider",
+        "categories": [
+            "All",
+            "Animals",
+            "Halloween"
+        ],
+        "class": "fas",
+        "filter": [
+            "arachnid",
+            "bug",
+            "charlotte",
+            "crawl",
+            "eight",
+            "halloween"
+        ]
+    },
+    {
+        "name": "Spinner",
+        "id": "spinner",
+        "categories": [
+            "All",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "circle",
+            "loading",
+            "progress"
+        ]
+    },
+    {
+        "name": "Splotch",
+        "id": "splotch",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "Ink",
+            "blob",
+            "blotch",
+            "glob",
+            "stain"
+        ]
+    },
+    {
+        "name": "Spotify",
+        "id": "spotify",
+        "categories": [
+            "All",
+            "Music"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Spray Can",
+        "id": "spray-can",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "Paint",
+            "aerosol",
+            "design",
+            "graffiti",
+            "tag"
+        ]
+    },
+    {
+        "name": "Square",
+        "id": "square",
+        "categories": [
+            "All",
+            "Shapes"
+        ],
+        "class": "fas",
+        "filter": [
+            "block",
+            "box",
+            "shape"
+        ]
+    },
+    {
+        "name": "Square Full",
+        "id": "square-full",
+        "categories": [
+            "All",
+            "Chess"
+        ],
+        "class": "fas",
+        "filter": [
+            "block",
+            "box",
+            "shape"
+        ]
+    },
+    {
+        "name": "Alternate Square Root",
+        "id": "square-root-alt",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "arithmetic",
+            "calculus",
+            "division",
+            "math"
+        ]
+    },
+    {
+        "name": "Squarespace",
+        "id": "squarespace",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stack Exchange",
+        "id": "stack-exchange",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stack Overflow",
+        "id": "stack-overflow",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stackpath",
+        "id": "stackpath",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stamp",
+        "id": "stamp",
+        "categories": [
+            "All",
+            "Design",
+            "Finance"
+        ],
+        "class": "fas",
+        "filter": [
+            "art",
+            "certificate",
+            "imprint",
+            "rubber",
+            "seal"
+        ]
+    },
+    {
+        "name": "Star",
+        "id": "star",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Objects",
+            "Payments & Shopping",
+            "Shapes",
+            "Social",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "achievement",
+            "award",
+            "favorite",
+            "important",
+            "night",
+            "rating",
+            "score"
+        ]
+    },
+    {
+        "name": "Star and Crescent",
+        "id": "star-and-crescent",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "islam",
+            "muslim",
+            "religion"
+        ]
+    },
+    {
+        "name": "star-half",
+        "id": "star-half",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "achievement",
+            "award",
+            "rating",
+            "score",
+            "star-half-empty",
+            "star-half-full"
+        ]
+    },
+    {
+        "name": "Alternate Star Half",
+        "id": "star-half-alt",
+        "categories": [
+            "All",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "achievement",
+            "award",
+            "rating",
+            "score",
+            "star-half-empty",
+            "star-half-full"
+        ]
+    },
+    {
+        "name": "Star of David",
+        "id": "star-of-david",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "jewish",
+            "judaism",
+            "religion"
+        ]
+    },
+    {
+        "name": "Star of Life",
+        "id": "star-of-life",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "doctor",
+            "emt",
+            "first aid",
+            "health",
+            "medical"
+        ]
+    },
+    {
+        "name": "StayLinked",
+        "id": "staylinked",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Steam",
+        "id": "steam",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Steam Square",
+        "id": "steam-square",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Steam Symbol",
+        "id": "steam-symbol",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "step-backward",
+        "id": "step-backward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "beginning",
+            "first",
+            "previous",
+            "rewind",
+            "start"
+        ]
+    },
+    {
+        "name": "step-forward",
+        "id": "step-forward",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "end",
+            "last",
+            "next"
+        ]
+    },
+    {
+        "name": "Stethoscope",
+        "id": "stethoscope",
+        "categories": [
+            "All",
+            "Health",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "diagnosis",
+            "doctor",
+            "general practitioner",
+            "hospital",
+            "infirmary",
+            "medicine",
+            "office",
+            "outpatient"
+        ]
+    },
+    {
+        "name": "Sticker Mule",
+        "id": "sticker-mule",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Sticky Note",
+        "id": "sticky-note",
+        "categories": [
+            "All",
+            "Business",
+            "Files",
+            "Objects",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "message",
+            "note",
+            "paper",
+            "reminder",
+            "sticker"
+        ]
+    },
+    {
+        "name": "stop",
+        "id": "stop",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "block",
+            "box",
+            "square"
+        ]
+    },
+    {
+        "name": "Stop Circle",
+        "id": "stop-circle",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fas",
+        "filter": [
+            "block",
+            "box",
+            "circle",
+            "square"
+        ]
+    },
+    {
+        "name": "Stopwatch",
+        "id": "stopwatch",
+        "categories": [
+            "All",
+            "Date & Time",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "clock",
+            "reminder",
+            "time"
+        ]
+    },
+    {
+        "name": "Stopwatch 20",
+        "id": "stopwatch-20",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "ABCs",
+            "countdown",
+            "covid-19",
+            "happy birthday",
+            "i will survive",
+            "reminder",
+            "seconds",
+            "time",
+            "timer"
+        ]
+    },
+    {
+        "name": "Store",
+        "id": "store",
+        "categories": [
+            "All",
+            "Buildings",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "buy",
+            "purchase",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Alternate Store",
+        "id": "store-alt",
+        "categories": [
+            "All",
+            "Buildings",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "buy",
+            "purchase",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Alternate Store Slash",
+        "id": "store-alt-slash",
+        "categories": [
+            "All",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "buy",
+            "closed",
+            "covid-19",
+            "purchase",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Store Slash",
+        "id": "store-slash",
+        "categories": [
+            "All",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "buy",
+            "closed",
+            "covid-19",
+            "purchase",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Strava",
+        "id": "strava",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stream",
+        "id": "stream",
+        "categories": [
+            "All",
+            "Business",
+            "Code",
+            "Computers",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "flow",
+            "list",
+            "timeline"
+        ]
+    },
+    {
+        "name": "Street View",
+        "id": "street-view",
+        "categories": [
+            "All",
+            "Maps",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "directions",
+            "location",
+            "map",
+            "navigation"
+        ]
+    },
+    {
+        "name": "Strikethrough",
+        "id": "strikethrough",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "cancel",
+            "edit",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "Stripe",
+        "id": "stripe",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stripe S",
+        "id": "stripe-s",
+        "categories": [
+            "All",
+            "Payments & Shopping"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Stroopwafel",
+        "id": "stroopwafel",
+        "categories": [
+            "All",
+            "Food",
+            "Objects",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "caramel",
+            "cookie",
+            "dessert",
+            "sweets",
+            "waffle"
+        ]
+    },
+    {
+        "name": "Studio Vinari",
+        "id": "studiovinari",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "StumbleUpon Logo",
+        "id": "stumbleupon",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "StumbleUpon Circle",
+        "id": "stumbleupon-circle",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "subscript",
+        "id": "subscript",
+        "categories": [
+            "All",
+            "Editors",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "Subway",
+        "id": "subway",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "machine",
+            "railway",
+            "train",
+            "transportation",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Suitcase",
+        "id": "suitcase",
+        "categories": [
+            "All",
+            "Hotel",
+            "Maps",
+            "Moving",
+            "Objects",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "baggage",
+            "luggage",
+            "move",
+            "suitcase",
+            "travel",
+            "trip"
+        ]
+    },
+    {
+        "name": "Suitcase Rolling",
+        "id": "suitcase-rolling",
+        "categories": [
+            "All",
+            "Hotel",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "baggage",
+            "luggage",
+            "move",
+            "suitcase",
+            "travel",
+            "trip"
+        ]
+    },
+    {
+        "name": "Sun",
+        "id": "sun",
+        "categories": [
+            "All",
+            "Energy",
+            "Objects",
+            "Spinners",
+            "Summer",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "brighten",
+            "contrast",
+            "day",
+            "lighter",
+            "sol",
+            "solar",
+            "star",
+            "weather"
+        ]
+    },
+    {
+        "name": "Superpowers",
+        "id": "superpowers",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "superscript",
+        "id": "superscript",
+        "categories": [
+            "All",
+            "Editors",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "exponential",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "Supple",
+        "id": "supple",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Hushed Face",
+        "id": "surprise",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "emoticon",
+            "face",
+            "shocked"
+        ]
+    },
+    {
+        "name": "Suse",
+        "id": "suse",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linux",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "Swatchbook",
+        "id": "swatchbook",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "Pantone",
+            "color",
+            "design",
+            "hue",
+            "palette"
+        ]
+    },
+    {
+        "name": "Swift",
+        "id": "swift",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Swimmer",
+        "id": "swimmer",
+        "categories": [
+            "All",
+            "Fitness",
+            "Hotel",
+            "Maritime",
+            "Sports",
+            "Summer",
+            "Travel",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "athlete",
+            "head",
+            "man",
+            "olympics",
+            "person",
+            "pool",
+            "water"
+        ]
+    },
+    {
+        "name": "Swimming Pool",
+        "id": "swimming-pool",
+        "categories": [
+            "All",
+            "Hotel",
+            "Summer",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "ladder",
+            "recreation",
+            "swim",
+            "water"
+        ]
+    },
+    {
+        "name": "Symfony",
+        "id": "symfony",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Synagogue",
+        "id": "synagogue",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "jewish",
+            "judaism",
+            "religion",
+            "star of david",
+            "temple"
+        ]
+    },
+    {
+        "name": "Sync",
+        "id": "sync",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "exchange",
+            "refresh",
+            "reload",
+            "rotate",
+            "swap"
+        ]
+    },
+    {
+        "name": "Alternate Sync",
+        "id": "sync-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "exchange",
+            "refresh",
+            "reload",
+            "rotate",
+            "swap"
+        ]
+    },
+    {
+        "name": "Syringe",
+        "id": "syringe",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "doctor",
+            "immunizations",
+            "medical",
+            "needle"
+        ]
+    },
+    {
+        "name": "table",
+        "id": "table",
+        "categories": [
+            "All",
+            "Business",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "data",
+            "excel",
+            "spreadsheet"
+        ]
+    },
+    {
+        "name": "Table Tennis",
+        "id": "table-tennis",
+        "categories": [
+            "All",
+            "Sports"
+        ],
+        "class": "fas",
+        "filter": [
+            "ball",
+            "paddle",
+            "ping pong"
+        ]
+    },
+    {
+        "name": "tablet",
+        "id": "tablet",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "apple",
+            "device",
+            "ipad",
+            "kindle",
+            "screen"
+        ]
+    },
+    {
+        "name": "Alternate Tablet",
+        "id": "tablet-alt",
+        "categories": [
+            "All",
+            "Computers",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "apple",
+            "device",
+            "ipad",
+            "kindle",
+            "screen"
+        ]
+    },
+    {
+        "name": "Tablets",
+        "id": "tablets",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "drugs",
+            "medicine",
+            "pills",
+            "prescription"
+        ]
+    },
+    {
+        "name": "Alternate Tachometer",
+        "id": "tachometer-alt",
+        "categories": [
+            "All",
+            "Automotive",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "dashboard",
+            "fast",
+            "odometer",
+            "speed",
+            "speedometer"
+        ]
+    },
+    {
+        "name": "tag",
+        "id": "tag",
+        "categories": [
+            "All",
+            "Business",
+            "Maps",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "discount",
+            "label",
+            "price",
+            "shopping"
+        ]
+    },
+    {
+        "name": "tags",
+        "id": "tags",
+        "categories": [
+            "All",
+            "Business",
+            "Maps",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "discount",
+            "label",
+            "price",
+            "shopping"
+        ]
+    },
+    {
+        "name": "Tape",
+        "id": "tape",
+        "categories": [
+            "All",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "design",
+            "package",
+            "sticky"
+        ]
+    },
+    {
+        "name": "Tasks",
+        "id": "tasks",
+        "categories": [
+            "All",
+            "Business",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "downloading",
+            "downloads",
+            "loading",
+            "progress",
+            "project management",
+            "settings",
+            "to do"
+        ]
+    },
+    {
+        "name": "Taxi",
+        "id": "taxi",
+        "categories": [
+            "All",
+            "Automotive",
+            "Maps",
+            "Objects",
+            "Travel",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "cab",
+            "cabbie",
+            "car",
+            "car service",
+            "lyft",
+            "machine",
+            "transportation",
+            "travel",
+            "uber",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "TeamSpeak",
+        "id": "teamspeak",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Teeth",
+        "id": "teeth",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "bite",
+            "dental",
+            "dentist",
+            "gums",
+            "mouth",
+            "smile",
+            "tooth"
+        ]
+    },
+    {
+        "name": "Teeth Open",
+        "id": "teeth-open",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "dental",
+            "dentist",
+            "gums bite",
+            "mouth",
+            "smile",
+            "tooth"
+        ]
+    },
+    {
+        "name": "Telegram",
+        "id": "telegram",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Telegram Plane",
+        "id": "telegram-plane",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "High Temperature",
+        "id": "temperature-high",
+        "categories": [
+            "All",
+            "Science",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "cook",
+            "covid-19",
+            "mercury",
+            "summer",
+            "thermometer",
+            "warm"
+        ]
+    },
+    {
+        "name": "Low Temperature",
+        "id": "temperature-low",
+        "categories": [
+            "All",
+            "Science",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "cold",
+            "cool",
+            "covid-19",
+            "mercury",
+            "thermometer",
+            "winter"
+        ]
+    },
+    {
+        "name": "Tencent Weibo",
+        "id": "tencent-weibo",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Tenge",
+        "id": "tenge",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "kazakhstan",
+            "money",
+            "price"
+        ]
+    },
+    {
+        "name": "Terminal",
+        "id": "terminal",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "code",
+            "command",
+            "console",
+            "development",
+            "prompt"
+        ]
+    },
+    {
+        "name": "text-height",
+        "id": "text-height",
+        "categories": [
+            "All",
+            "Arrows",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "Text Width",
+        "id": "text-width",
+        "categories": [
+            "All",
+            "Arrows",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "font",
+            "format",
+            "text",
+            "type"
+        ]
+    },
+    {
+        "name": "th",
+        "id": "th",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "blocks",
+            "boxes",
+            "grid",
+            "squares"
+        ]
+    },
+    {
+        "name": "th-large",
+        "id": "th-large",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "blocks",
+            "boxes",
+            "grid",
+            "squares"
+        ]
+    },
+    {
+        "name": "th-list",
+        "id": "th-list",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "checklist",
+            "completed",
+            "done",
+            "finished",
+            "ol",
+            "todo",
+            "ul"
+        ]
+    },
+    {
+        "name": "The Red Yeti",
+        "id": "the-red-yeti",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Theater Masks",
+        "id": "theater-masks",
+        "categories": [
+            "All",
+            "Education"
+        ],
+        "class": "fas",
+        "filter": [
+            "comedy",
+            "perform",
+            "theatre",
+            "tragedy"
+        ]
+    },
+    {
+        "name": "Themeco",
+        "id": "themeco",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "ThemeIsle",
+        "id": "themeisle",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Thermometer",
+        "id": "thermometer",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Thermometer Empty",
+        "id": "thermometer-empty",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "cold",
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Thermometer Full",
+        "id": "thermometer-full",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "fever",
+            "hot",
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Thermometer 1\/2 Full",
+        "id": "thermometer-half",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Thermometer 1\/4 Full",
+        "id": "thermometer-quarter",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Thermometer 3\/4 Full",
+        "id": "thermometer-three-quarters",
+        "categories": [
+            "All",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "mercury",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "name": "Think Peaks",
+        "id": "think-peaks",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "thumbs-down",
+        "id": "thumbs-down",
+        "categories": [
+            "All",
+            "Hands",
+            "Interfaces",
+            "Payments & Shopping",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "disagree",
+            "disapprove",
+            "dislike",
+            "hand",
+            "social",
+            "thumbs-o-down"
+        ]
+    },
+    {
+        "name": "thumbs-up",
+        "id": "thumbs-up",
+        "categories": [
+            "All",
+            "Hands",
+            "Interfaces",
+            "Payments & Shopping",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "agree",
+            "approve",
+            "favorite",
+            "hand",
+            "like",
+            "ok",
+            "okay",
+            "social",
+            "success",
+            "thumbs-o-up",
+            "yes",
+            "you got it dude"
+        ]
+    },
+    {
+        "name": "Thumbtack",
+        "id": "thumbtack",
+        "categories": [
+            "All",
+            "Business",
+            "Maps",
+            "Objects",
+            "Social",
+            "Writing"
+        ],
+        "class": "fas",
+        "filter": [
+            "coordinates",
+            "location",
+            "marker",
+            "pin",
+            "thumb-tack"
+        ]
+    },
+    {
+        "name": "Alternate Ticket",
+        "id": "ticket-alt",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "movie",
+            "pass",
+            "support",
+            "ticket"
+        ]
+    },
+    {
+        "name": "TikTok",
+        "id": "tiktok",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Times",
+        "id": "times",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "close",
+            "cross",
+            "error",
+            "exit",
+            "incorrect",
+            "notice",
+            "notification",
+            "notify",
+            "problem",
+            "wrong",
+            "x"
+        ]
+    },
+    {
+        "name": "Times Circle",
+        "id": "times-circle",
+        "categories": [
+            "All",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "close",
+            "cross",
+            "exit",
+            "incorrect",
+            "notice",
+            "notification",
+            "notify",
+            "problem",
+            "wrong",
+            "x"
+        ]
+    },
+    {
+        "name": "tint",
+        "id": "tint",
+        "categories": [
+            "All",
+            "Design",
+            "Images",
+            "Maps",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "color",
+            "drop",
+            "droplet",
+            "raindrop",
+            "waterdrop"
+        ]
+    },
+    {
+        "name": "Tint Slash",
+        "id": "tint-slash",
+        "categories": [
+            "All",
+            "Design",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "color",
+            "drop",
+            "droplet",
+            "raindrop",
+            "waterdrop"
+        ]
+    },
+    {
+        "name": "Tired Face",
+        "id": "tired",
+        "categories": [
+            "All",
+            "Emoji"
+        ],
+        "class": "fas",
+        "filter": [
+            "angry",
+            "emoticon",
+            "face",
+            "grumpy",
+            "upset"
+        ]
+    },
+    {
+        "name": "Toggle Off",
+        "id": "toggle-off",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "switch"
+        ]
+    },
+    {
+        "name": "Toggle On",
+        "id": "toggle-on",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "switch"
+        ]
+    },
+    {
+        "name": "Toilet",
+        "id": "toilet",
+        "categories": [
+            "All",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bathroom",
+            "flush",
+            "john",
+            "loo",
+            "pee",
+            "plumbing",
+            "poop",
+            "porcelain",
+            "potty",
+            "restroom",
+            "throne",
+            "washroom",
+            "waste",
+            "wc"
+        ]
+    },
+    {
+        "name": "Toilet Paper",
+        "id": "toilet-paper",
+        "categories": [
+            "All",
+            "Camping",
+            "Halloween",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "bathroom",
+            "covid-19",
+            "halloween",
+            "holiday",
+            "lavatory",
+            "prank",
+            "restroom",
+            "roll"
+        ]
+    },
+    {
+        "name": "Toilet Paper Slash",
+        "id": "toilet-paper-slash",
+        "categories": [
+            "All",
+            "Household"
+        ],
+        "class": "fas",
+        "filter": [
+            "bathroom",
+            "covid-19",
+            "halloween",
+            "holiday",
+            "lavatory",
+            "leaves",
+            "prank",
+            "restroom",
+            "roll",
+            "trouble",
+            "ut oh"
+        ]
+    },
+    {
+        "name": "Toolbox",
+        "id": "toolbox",
+        "categories": [
+            "All",
+            "Construction",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "container",
+            "fix",
+            "repair",
+            "settings",
+            "tools"
+        ]
+    },
+    {
+        "name": "Tools",
+        "id": "tools",
+        "categories": [
+            "All",
+            "Construction",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "fix",
+            "repair",
+            "screwdriver",
+            "settings",
+            "tools",
+            "wrench"
+        ]
+    },
+    {
+        "name": "Tooth",
+        "id": "tooth",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "bicuspid",
+            "dental",
+            "dentist",
+            "molar",
+            "mouth",
+            "teeth"
+        ]
+    },
+    {
+        "name": "Torah",
+        "id": "torah",
+        "categories": [
+            "All",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "book",
+            "jewish",
+            "judaism",
+            "religion",
+            "scroll"
+        ]
+    },
+    {
+        "name": "Torii Gate",
+        "id": "torii-gate",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "shintoism"
+        ]
+    },
+    {
+        "name": "Tractor",
+        "id": "tractor",
+        "categories": [
+            "All",
+            "Autumn",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "agriculture",
+            "farm",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Trade Federation",
+        "id": "trade-federation",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Trademark",
+        "id": "trademark",
+        "categories": [
+            "All",
+            "Business"
+        ],
+        "class": "fas",
+        "filter": [
+            "copyright",
+            "register",
+            "symbol"
+        ]
+    },
+    {
+        "name": "Traffic Light",
+        "id": "traffic-light",
+        "categories": [
+            "All",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "direction",
+            "road",
+            "signal",
+            "travel"
+        ]
+    },
+    {
+        "name": "Trailer",
+        "id": "trailer",
+        "categories": [
+            "All",
+            "Automotive",
+            "Camping",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "carry",
+            "haul",
+            "moving",
+            "travel"
+        ]
+    },
+    {
+        "name": "Train",
+        "id": "train",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "bullet",
+            "commute",
+            "locomotive",
+            "railway",
+            "subway"
+        ]
+    },
+    {
+        "name": "Tram",
+        "id": "tram",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Travel",
+            "Vehicles",
+            "Winter"
+        ],
+        "class": "fas",
+        "filter": [
+            "crossing",
+            "machine",
+            "mountains",
+            "seasonal",
+            "transportation"
+        ]
+    },
+    {
+        "name": "Transgender",
+        "id": "transgender",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "intersex"
+        ]
+    },
+    {
+        "name": "Alternate Transgender",
+        "id": "transgender-alt",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "intersex"
+        ]
+    },
+    {
+        "name": "Trash",
+        "id": "trash",
+        "categories": [
+            "All",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "delete",
+            "garbage",
+            "hide",
+            "remove"
+        ]
+    },
+    {
+        "name": "Alternate Trash",
+        "id": "trash-alt",
+        "categories": [
+            "All",
+            "Editors",
+            "Interfaces",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "delete",
+            "garbage",
+            "hide",
+            "remove",
+            "trash-o"
+        ]
+    },
+    {
+        "name": "Trash Restore",
+        "id": "trash-restore",
+        "categories": [
+            "All",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "control z",
+            "oops",
+            "undo"
+        ]
+    },
+    {
+        "name": "Alternative Trash Restore",
+        "id": "trash-restore-alt",
+        "categories": [
+            "All",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "control z",
+            "oops",
+            "undo"
+        ]
+    },
+    {
+        "name": "Tree",
+        "id": "tree",
+        "categories": [
+            "All",
+            "Autumn",
+            "Camping",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bark",
+            "fall",
+            "flora",
+            "forest",
+            "nature",
+            "plant",
+            "seasonal"
+        ]
+    },
+    {
+        "name": "Trello",
+        "id": "trello",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "atlassian"
+        ]
+    },
+    {
+        "name": "trophy",
+        "id": "trophy",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Maps",
+            "Objects",
+            "Payments & Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "achievement",
+            "award",
+            "cup",
+            "game",
+            "winner"
+        ]
+    },
+    {
+        "name": "truck",
+        "id": "truck",
+        "categories": [
+            "All",
+            "Automotive",
+            "Logistics",
+            "Maps",
+            "Objects",
+            "Shopping",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "cargo",
+            "delivery",
+            "shipping",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Truck Loading",
+        "id": "truck-loading",
+        "categories": [
+            "All",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "box",
+            "cargo",
+            "delivery",
+            "inventory",
+            "moving",
+            "rental",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Truck Monster",
+        "id": "truck-monster",
+        "categories": [
+            "All",
+            "Automotive",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "offroad",
+            "vehicle",
+            "wheel"
+        ]
+    },
+    {
+        "name": "Truck Moving",
+        "id": "truck-moving",
+        "categories": [
+            "All",
+            "Moving"
+        ],
+        "class": "fas",
+        "filter": [
+            "cargo",
+            "inventory",
+            "rental",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "Truck Side",
+        "id": "truck-pickup",
+        "categories": [
+            "All",
+            "Automotive",
+            "Construction",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "cargo",
+            "vehicle"
+        ]
+    },
+    {
+        "name": "T-Shirt",
+        "id": "tshirt",
+        "categories": [
+            "All",
+            "Clothing",
+            "Shopping"
+        ],
+        "class": "fas",
+        "filter": [
+            "clothing",
+            "fashion",
+            "garment",
+            "shirt"
+        ]
+    },
+    {
+        "name": "TTY",
+        "id": "tty",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Communication",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "communication",
+            "deaf",
+            "telephone",
+            "teletypewriter",
+            "text"
+        ]
+    },
+    {
+        "name": "Tumblr",
+        "id": "tumblr",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Tumblr Square",
+        "id": "tumblr-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Television",
+        "id": "tv",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Computers",
+            "Hotel",
+            "Household",
+            "Objects",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "computer",
+            "display",
+            "monitor",
+            "television"
+        ]
+    },
+    {
+        "name": "Twitch",
+        "id": "twitch",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Twitter",
+        "id": "twitter",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "social network",
+            "tweet"
+        ]
+    },
+    {
+        "name": "Twitter Square",
+        "id": "twitter-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "social network",
+            "tweet"
+        ]
+    },
+    {
+        "name": "Typo3",
+        "id": "typo3",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Uber",
+        "id": "uber",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Ubuntu",
+        "id": "ubuntu",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "linux",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "UIkit",
+        "id": "uikit",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Umbraco",
+        "id": "umbraco",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Umbrella",
+        "id": "umbrella",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects",
+            "Spring",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "protection",
+            "rain",
+            "storm",
+            "wet"
+        ]
+    },
+    {
+        "name": "Umbrella Beach",
+        "id": "umbrella-beach",
+        "categories": [
+            "All",
+            "Hotel",
+            "Summer",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "protection",
+            "recreation",
+            "sand",
+            "shade",
+            "summer",
+            "sun"
+        ]
+    },
+    {
+        "name": "Uncharted Software",
+        "id": "uncharted",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Underline",
+        "id": "underline",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "emphasis",
+            "format",
+            "text",
+            "writing"
+        ]
+    },
+    {
+        "name": "Undo",
+        "id": "undo",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "control z",
+            "exchange",
+            "oops",
+            "return",
+            "rotate",
+            "swap"
+        ]
+    },
+    {
+        "name": "Alternate Undo",
+        "id": "undo-alt",
+        "categories": [
+            "All",
+            "Arrows",
+            "Audio & Video",
+            "Editors",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "back",
+            "control z",
+            "exchange",
+            "oops",
+            "return",
+            "swap"
+        ]
+    },
+    {
+        "name": "Uniregistry",
+        "id": "uniregistry",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Unity 3D",
+        "id": "unity",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Universal Access",
+        "id": "universal-access",
+        "categories": [
+            "All",
+            "Accessibility"
+        ],
+        "class": "fas",
+        "filter": [
+            "accessibility",
+            "hearing",
+            "person",
+            "seeing",
+            "visual impairment"
+        ]
+    },
+    {
+        "name": "University",
+        "id": "university",
+        "categories": [
+            "All",
+            "Buildings",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "bank",
+            "building",
+            "college",
+            "higher education - students",
+            "institution"
+        ]
+    },
+    {
+        "name": "unlink",
+        "id": "unlink",
+        "categories": [
+            "All",
+            "Editors"
+        ],
+        "class": "fas",
+        "filter": [
+            "attachment",
+            "chain",
+            "chain-broken",
+            "remove"
+        ]
+    },
+    {
+        "name": "unlock",
+        "id": "unlock",
+        "categories": [
+            "All",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "lock",
+            "password",
+            "private",
+            "protect"
+        ]
+    },
+    {
+        "name": "Alternate Unlock",
+        "id": "unlock-alt",
+        "categories": [
+            "All",
+            "Objects",
+            "Security",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "lock",
+            "password",
+            "private",
+            "protect"
+        ]
+    },
+    {
+        "name": "Unsplash",
+        "id": "unsplash",
+        "categories": [
+            "All",
+            "Images"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Untappd",
+        "id": "untappd",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Upload",
+        "id": "upload",
+        "categories": [
+            "All",
+            "Arrows",
+            "Computers",
+            "Interfaces"
+        ],
+        "class": "fas",
+        "filter": [
+            "hard drive",
+            "import",
+            "publish"
+        ]
+    },
+    {
+        "name": "UPS",
+        "id": "ups",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "United Parcel Service",
+            "package",
+            "shipping"
+        ]
+    },
+    {
+        "name": "USB",
+        "id": "usb",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "User",
+        "id": "user",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Social",
+            "Status",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "account",
+            "avatar",
+            "head",
+            "human",
+            "man",
+            "person",
+            "profile"
+        ]
+    },
+    {
+        "name": "Alternate User",
+        "id": "user-alt",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Status",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "account",
+            "avatar",
+            "head",
+            "human",
+            "man",
+            "person",
+            "profile"
+        ]
+    },
+    {
+        "name": "Alternate User Slash",
+        "id": "user-alt-slash",
+        "categories": [
+            "All",
+            "Status",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "account",
+            "avatar",
+            "head",
+            "human",
+            "man",
+            "person",
+            "profile"
+        ]
+    },
+    {
+        "name": "User Astronaut",
+        "id": "user-astronaut",
+        "categories": [
+            "All",
+            "Science Fiction",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "avatar",
+            "clothing",
+            "cosmonaut",
+            "nasa",
+            "space",
+            "suit"
+        ]
+    },
+    {
+        "name": "User Check",
+        "id": "user-check",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "check",
+            "person",
+            "verified"
+        ]
+    },
+    {
+        "name": "User Circle",
+        "id": "user-circle",
+        "categories": [
+            "All",
+            "Interfaces",
+            "Social",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "account",
+            "avatar",
+            "head",
+            "human",
+            "man",
+            "person",
+            "profile"
+        ]
+    },
+    {
+        "name": "User Clock",
+        "id": "user-clock",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "alert",
+            "person",
+            "remind",
+            "time"
+        ]
+    },
+    {
+        "name": "User Cog",
+        "id": "user-cog",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "cog",
+            "person",
+            "settings"
+        ]
+    },
+    {
+        "name": "User Edit",
+        "id": "user-edit",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "edit",
+            "pen",
+            "pencil",
+            "person",
+            "update",
+            "write"
+        ]
+    },
+    {
+        "name": "User Friends",
+        "id": "user-friends",
+        "categories": [
+            "All",
+            "Social",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "group",
+            "people",
+            "person",
+            "team",
+            "users"
+        ]
+    },
+    {
+        "name": "User Graduate",
+        "id": "user-graduate",
+        "categories": [
+            "All",
+            "Education",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "cap",
+            "clothing",
+            "commencement",
+            "gown",
+            "graduation",
+            "person",
+            "student"
+        ]
+    },
+    {
+        "name": "User Injured",
+        "id": "user-injured",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "cast",
+            "injury",
+            "ouch",
+            "patient",
+            "person",
+            "sling"
+        ]
+    },
+    {
+        "name": "User Lock",
+        "id": "user-lock",
+        "categories": [
+            "All",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "lock",
+            "person",
+            "private",
+            "unlock"
+        ]
+    },
+    {
+        "name": "Doctor",
+        "id": "user-md",
+        "categories": [
+            "All",
+            "Health",
+            "Medical",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "job",
+            "medical",
+            "nurse",
+            "occupation",
+            "physician",
+            "profile",
+            "surgeon"
+        ]
+    },
+    {
+        "name": "User Minus",
+        "id": "user-minus",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "delete",
+            "negative",
+            "remove"
+        ]
+    },
+    {
+        "name": "User Ninja",
+        "id": "user-ninja",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "assassin",
+            "avatar",
+            "dangerous",
+            "deadly",
+            "sneaky"
+        ]
+    },
+    {
+        "name": "Nurse",
+        "id": "user-nurse",
+        "categories": [
+            "All",
+            "Medical",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "covid-19",
+            "doctor",
+            "midwife",
+            "practitioner",
+            "surgeon"
+        ]
+    },
+    {
+        "name": "User Plus",
+        "id": "user-plus",
+        "categories": [
+            "All",
+            "Social",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "avatar",
+            "positive",
+            "sign up",
+            "signup",
+            "team"
+        ]
+    },
+    {
+        "name": "User Secret",
+        "id": "user-secret",
+        "categories": [
+            "All",
+            "Code",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "clothing",
+            "coat",
+            "hat",
+            "incognito",
+            "person",
+            "privacy",
+            "spy",
+            "whisper"
+        ]
+    },
+    {
+        "name": "User Shield",
+        "id": "user-shield",
+        "categories": [
+            "All",
+            "Security",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "person",
+            "private",
+            "protect",
+            "safe"
+        ]
+    },
+    {
+        "name": "User Slash",
+        "id": "user-slash",
+        "categories": [
+            "All",
+            "Status",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "ban",
+            "delete",
+            "remove"
+        ]
+    },
+    {
+        "name": "User Tag",
+        "id": "user-tag",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "avatar",
+            "discount",
+            "label",
+            "person",
+            "role",
+            "special"
+        ]
+    },
+    {
+        "name": "User Tie",
+        "id": "user-tie",
+        "categories": [
+            "All",
+            "Clothing",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "avatar",
+            "business",
+            "clothing",
+            "formal",
+            "professional",
+            "suit"
+        ]
+    },
+    {
+        "name": "Remove User",
+        "id": "user-times",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "archive",
+            "delete",
+            "remove",
+            "x"
+        ]
+    },
+    {
+        "name": "Users",
+        "id": "users",
+        "categories": [
+            "All",
+            "Social",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "friends",
+            "group",
+            "people",
+            "persons",
+            "profiles",
+            "team"
+        ]
+    },
+    {
+        "name": "Users Cog",
+        "id": "users-cog",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "admin",
+            "cog",
+            "group",
+            "person",
+            "settings",
+            "team"
+        ]
+    },
+    {
+        "name": "Users Slash",
+        "id": "users-slash",
+        "categories": [
+            "All",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "disband",
+            "friends",
+            "group",
+            "people",
+            "persons",
+            "profiles",
+            "separate",
+            "team",
+            "ungroup"
+        ]
+    },
+    {
+        "name": "United States Postal Service",
+        "id": "usps",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "american",
+            "package",
+            "shipping",
+            "usa"
+        ]
+    },
+    {
+        "name": "us-Sunnah Foundation",
+        "id": "ussunnah",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Utensil Spoon",
+        "id": "utensil-spoon",
+        "categories": [
+            "All",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cutlery",
+            "dining",
+            "scoop",
+            "silverware",
+            "spoon"
+        ]
+    },
+    {
+        "name": "Utensils",
+        "id": "utensils",
+        "categories": [
+            "All",
+            "Hotel",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "cutlery",
+            "dining",
+            "dinner",
+            "eat",
+            "food",
+            "fork",
+            "knife",
+            "restaurant"
+        ]
+    },
+    {
+        "name": "Vaadin",
+        "id": "vaadin",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Vector Square",
+        "id": "vector-square",
+        "categories": [
+            "All",
+            "Design"
+        ],
+        "class": "fas",
+        "filter": [
+            "anchors",
+            "lines",
+            "object",
+            "render",
+            "shape"
+        ]
+    },
+    {
+        "name": "Venus",
+        "id": "venus",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "female"
+        ]
+    },
+    {
+        "name": "Venus Double",
+        "id": "venus-double",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "female"
+        ]
+    },
+    {
+        "name": "Venus Mars",
+        "id": "venus-mars",
+        "categories": [
+            "All",
+            "Genders"
+        ],
+        "class": "fas",
+        "filter": [
+            "Gender"
+        ]
+    },
+    {
+        "name": "vest",
+        "id": "vest",
+        "categories": [
+            "All",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "biker",
+            "fashion",
+            "style"
+        ]
+    },
+    {
+        "name": "vest-patches",
+        "id": "vest-patches",
+        "categories": [
+            "All",
+            "Maps"
+        ],
+        "class": "fas",
+        "filter": [
+            "biker",
+            "fashion",
+            "style"
+        ]
+    },
+    {
+        "name": "Viacoin",
+        "id": "viacoin",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Viadeo",
+        "id": "viadeo",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Viadeo Square",
+        "id": "viadeo-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Vial",
+        "id": "vial",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "experiment",
+            "lab",
+            "sample",
+            "science",
+            "test",
+            "test tube"
+        ]
+    },
+    {
+        "name": "Vials",
+        "id": "vials",
+        "categories": [
+            "All",
+            "Medical",
+            "Pharmacy",
+            "Science"
+        ],
+        "class": "fas",
+        "filter": [
+            "experiment",
+            "lab",
+            "sample",
+            "science",
+            "test",
+            "test tube"
+        ]
+    },
+    {
+        "name": "Viber",
+        "id": "viber",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Video",
+        "id": "video",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Chat",
+            "Social",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "camera",
+            "film",
+            "movie",
+            "record",
+            "video-camera"
+        ]
+    },
+    {
+        "name": "Video Slash",
+        "id": "video-slash",
+        "categories": [
+            "All",
+            "Chat",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "add",
+            "create",
+            "film",
+            "new",
+            "positive",
+            "record",
+            "video"
+        ]
+    },
+    {
+        "name": "Vihara",
+        "id": "vihara",
+        "categories": [
+            "All",
+            "Buildings",
+            "Religion"
+        ],
+        "class": "fas",
+        "filter": [
+            "buddhism",
+            "buddhist",
+            "building",
+            "monastery"
+        ]
+    },
+    {
+        "name": "Vimeo",
+        "id": "vimeo",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Vimeo Square",
+        "id": "vimeo-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Vimeo",
+        "id": "vimeo-v",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "vimeo"
+        ]
+    },
+    {
+        "name": "Vine",
+        "id": "vine",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Virus",
+        "id": "virus",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "bug",
+            "covid-19",
+            "flu",
+            "health",
+            "sick",
+            "viral"
+        ]
+    },
+    {
+        "name": "Virus Slash",
+        "id": "virus-slash",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "bug",
+            "covid-19",
+            "cure",
+            "eliminate",
+            "flu",
+            "health",
+            "sick",
+            "viral"
+        ]
+    },
+    {
+        "name": "Viruses",
+        "id": "viruses",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "bugs",
+            "covid-19",
+            "flu",
+            "health",
+            "multiply",
+            "sick",
+            "spread",
+            "viral"
+        ]
+    },
+    {
+        "name": "VK",
+        "id": "vk",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "VNV",
+        "id": "vnv",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Voicemail",
+        "id": "voicemail",
+        "categories": [
+            "All",
+            "Communication"
+        ],
+        "class": "fas",
+        "filter": [
+            "answer",
+            "inbox",
+            "message",
+            "phone"
+        ]
+    },
+    {
+        "name": "Volleyball Ball",
+        "id": "volleyball-ball",
+        "categories": [
+            "All",
+            "Sports",
+            "Summer"
+        ],
+        "class": "fas",
+        "filter": [
+            "beach",
+            "olympics",
+            "sport"
+        ]
+    },
+    {
+        "name": "Volume Down",
+        "id": "volume-down",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Interfaces",
+            "Music",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "lower",
+            "music",
+            "quieter",
+            "sound",
+            "speaker"
+        ]
+    },
+    {
+        "name": "Volume Mute",
+        "id": "volume-mute",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Interfaces",
+            "Music",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "music",
+            "quiet",
+            "sound",
+            "speaker"
+        ]
+    },
+    {
+        "name": "Volume Off",
+        "id": "volume-off",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Interfaces",
+            "Music",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "ban",
+            "music",
+            "mute",
+            "quiet",
+            "silent",
+            "sound"
+        ]
+    },
+    {
+        "name": "Volume Up",
+        "id": "volume-up",
+        "categories": [
+            "All",
+            "Audio & Video",
+            "Interfaces",
+            "Music",
+            "Status"
+        ],
+        "class": "fas",
+        "filter": [
+            "audio",
+            "higher",
+            "louder",
+            "music",
+            "sound",
+            "speaker"
+        ]
+    },
+    {
+        "name": "Vote Yea",
+        "id": "vote-yea",
+        "categories": [
+            "All",
+            "Political"
+        ],
+        "class": "fas",
+        "filter": [
+            "accept",
+            "cast",
+            "election",
+            "politics",
+            "positive",
+            "yes"
+        ]
+    },
+    {
+        "name": "Cardboard VR",
+        "id": "vr-cardboard",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "3d",
+            "augment",
+            "google",
+            "reality",
+            "virtual"
+        ]
+    },
+    {
+        "name": "Vue.js",
+        "id": "vuejs",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Walking",
+        "id": "walking",
+        "categories": [
+            "All",
+            "Fitness",
+            "Users & People"
+        ],
+        "class": "fas",
+        "filter": [
+            "exercise",
+            "health",
+            "pedometer",
+            "person",
+            "steps"
+        ]
+    },
+    {
+        "name": "Wallet",
+        "id": "wallet",
+        "categories": [
+            "All",
+            "Business",
+            "Finance",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "billfold",
+            "cash",
+            "currency",
+            "money"
+        ]
+    },
+    {
+        "name": "Warehouse",
+        "id": "warehouse",
+        "categories": [
+            "All",
+            "Buildings",
+            "Logistics"
+        ],
+        "class": "fas",
+        "filter": [
+            "building",
+            "capacity",
+            "garage",
+            "inventory",
+            "storage"
+        ]
+    },
+    {
+        "name": "Watchman Monitoring",
+        "id": "watchman-monitoring",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Water",
+        "id": "water",
+        "categories": [
+            "All",
+            "Energy",
+            "Maritime",
+            "Summer",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "lake",
+            "liquid",
+            "ocean",
+            "sea",
+            "swim",
+            "wet"
+        ]
+    },
+    {
+        "name": "Square Wave",
+        "id": "wave-square",
+        "categories": [
+            "All",
+            "Mathematics"
+        ],
+        "class": "fas",
+        "filter": [
+            "frequency",
+            "pulse",
+            "signal"
+        ]
+    },
+    {
+        "name": "Waze",
+        "id": "waze",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Weebly",
+        "id": "weebly",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Weibo",
+        "id": "weibo",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Weight",
+        "id": "weight",
+        "categories": [
+            "All",
+            "Medical",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "health",
+            "measurement",
+            "scale",
+            "weight"
+        ]
+    },
+    {
+        "name": "Hanging Weight",
+        "id": "weight-hanging",
+        "categories": [
+            "All"
+        ],
+        "class": "fas",
+        "filter": [
+            "anvil",
+            "heavy",
+            "measurement"
+        ]
+    },
+    {
+        "name": "Weixin (WeChat)",
+        "id": "weixin",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "What's App",
+        "id": "whatsapp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "What's App Square",
+        "id": "whatsapp-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wheelchair",
+        "id": "wheelchair",
+        "categories": [
+            "All",
+            "Accessibility",
+            "Health",
+            "Hotel",
+            "Maps",
+            "Objects",
+            "Users & People",
+            "Vehicles"
+        ],
+        "class": "fas",
+        "filter": [
+            "accessible",
+            "handicap",
+            "person"
+        ]
+    },
+    {
+        "name": "WHMCS",
+        "id": "whmcs",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "WiFi",
+        "id": "wifi",
+        "categories": [
+            "All",
+            "Communication",
+            "Hotel",
+            "Interfaces",
+            "Maps",
+            "Status",
+            "Toggle"
+        ],
+        "class": "fas",
+        "filter": [
+            "connection",
+            "hotspot",
+            "internet",
+            "network",
+            "wireless"
+        ]
+    },
+    {
+        "name": "Wikipedia W",
+        "id": "wikipedia-w",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wind",
+        "id": "wind",
+        "categories": [
+            "All",
+            "Autumn",
+            "Energy",
+            "Maritime",
+            "Weather"
+        ],
+        "class": "fas",
+        "filter": [
+            "air",
+            "blow",
+            "breeze",
+            "fall",
+            "seasonal",
+            "weather"
+        ]
+    },
+    {
+        "name": "Window Close",
+        "id": "window-close",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "browser",
+            "cancel",
+            "computer",
+            "development"
+        ]
+    },
+    {
+        "name": "Window Maximize",
+        "id": "window-maximize",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "browser",
+            "computer",
+            "development",
+            "expand"
+        ]
+    },
+    {
+        "name": "Window Minimize",
+        "id": "window-minimize",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "browser",
+            "collapse",
+            "computer",
+            "development"
+        ]
+    },
+    {
+        "name": "Window Restore",
+        "id": "window-restore",
+        "categories": [
+            "All",
+            "Code"
+        ],
+        "class": "fas",
+        "filter": [
+            "browser",
+            "computer",
+            "development"
+        ]
+    },
+    {
+        "name": "Windows",
+        "id": "windows",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "microsoft",
+            "operating system",
+            "os"
+        ]
+    },
+    {
+        "name": "Wine Bottle",
+        "id": "wine-bottle",
+        "categories": [
+            "All",
+            "Autumn",
+            "Beverage"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "beverage",
+            "cabernet",
+            "drink",
+            "glass",
+            "grapes",
+            "merlot",
+            "sauvignon"
+        ]
+    },
+    {
+        "name": "Wine Glass",
+        "id": "wine-glass",
+        "categories": [
+            "All",
+            "Beverage",
+            "Maps",
+            "Moving",
+            "Objects",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "beverage",
+            "cabernet",
+            "drink",
+            "grapes",
+            "merlot",
+            "sauvignon"
+        ]
+    },
+    {
+        "name": "Alternate Wine Glas",
+        "id": "wine-glass-alt",
+        "categories": [
+            "All",
+            "Beverage",
+            "Travel"
+        ],
+        "class": "fas",
+        "filter": [
+            "alcohol",
+            "beverage",
+            "cabernet",
+            "drink",
+            "grapes",
+            "merlot",
+            "sauvignon"
+        ]
+    },
+    {
+        "name": "Wix",
+        "id": "wix",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wizards of the Coast",
+        "id": "wizards-of-the-coast",
+        "categories": [
+            "All",
+            "Tabletop Gaming"
+        ],
+        "class": "fab",
+        "filter": [
+            "Dungeons & Dragons",
+            "d&d",
+            "dnd",
+            "fantasy",
+            "game",
+            "gaming",
+            "tabletop"
+        ]
+    },
+    {
+        "name": "Wodu",
+        "id": "wodu",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wolf Pack Battalion",
+        "id": "wolf-pack-battalion",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Won Sign",
+        "id": "won-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "krw",
+            "money"
+        ]
+    },
+    {
+        "name": "WordPress Logo",
+        "id": "wordpress",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Wordpress Simple",
+        "id": "wordpress-simple",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "WPBeginner",
+        "id": "wpbeginner",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "WPExplorer",
+        "id": "wpexplorer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "WPForms",
+        "id": "wpforms",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "wpressr",
+        "id": "wpressr",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": [
+            "rendact"
+        ]
+    },
+    {
+        "name": "Wrench",
+        "id": "wrench",
+        "categories": [
+            "All",
+            "Construction",
+            "Editors",
+            "Interfaces",
+            "Maps",
+            "Objects"
+        ],
+        "class": "fas",
+        "filter": [
+            "construction",
+            "fix",
+            "mechanic",
+            "plumbing",
+            "settings",
+            "spanner",
+            "tool",
+            "update"
+        ]
+    },
+    {
+        "name": "X-Ray",
+        "id": "x-ray",
+        "categories": [
+            "All",
+            "Medical"
+        ],
+        "class": "fas",
+        "filter": [
+            "health",
+            "medical",
+            "radiological images",
+            "radiology",
+            "skeleton"
+        ]
+    },
+    {
+        "name": "Xbox",
+        "id": "xbox",
+        "categories": [
+            "All",
+            "Games"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Xing",
+        "id": "xing",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Xing Square",
+        "id": "xing-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Y Combinator",
+        "id": "y-combinator",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yahoo Logo",
+        "id": "yahoo",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yammer",
+        "id": "yammer",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yandex",
+        "id": "yandex",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yandex International",
+        "id": "yandex-international",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yarn",
+        "id": "yarn",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yelp",
+        "id": "yelp",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Yen Sign",
+        "id": "yen-sign",
+        "categories": [
+            "All",
+            "Currency"
+        ],
+        "class": "fas",
+        "filter": [
+            "currency",
+            "jpy",
+            "money"
+        ]
+    },
+    {
+        "name": "Yin Yang",
+        "id": "yin-yang",
+        "categories": [
+            "All",
+            "Religion",
+            "Spinners"
+        ],
+        "class": "fas",
+        "filter": [
+            "daoism",
+            "opposites",
+            "taoism"
+        ]
+    },
+    {
+        "name": "Yoast",
+        "id": "yoast",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "YouTube",
+        "id": "youtube",
+        "categories": [
+            "All",
+            "Audio & Video"
+        ],
+        "class": "fab",
+        "filter": [
+            "film",
+            "video",
+            "youtube-play",
+            "youtube-square"
+        ]
+    },
+    {
+        "name": "YouTube Square",
+        "id": "youtube-square",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    },
+    {
+        "name": "Zhihu",
+        "id": "zhihu",
+        "categories": [
+            "All"
+        ],
+        "class": "fab",
+        "filter": []
+    }
+]);
