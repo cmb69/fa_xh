@@ -4,7 +4,7 @@ if ($argc !== 3) {
     usage();
 }
 $version = (int) $argv[1];
-if (!in_array($version, [4, 5], true)) {
+if (!in_array($version, [4, 5, 6], true)) {
     usage();
 }
 $datafolder = $argv[2];
@@ -17,6 +17,7 @@ switch ($version) {
         $icons = v4Icons($datafolder);
         break;
     case 5:
+    case 6:
         $icons = v5Icons($datafolder);
         break;
 }
@@ -30,7 +31,7 @@ function usage(): void
 {
     global $argv;
     echo "usage: php $argv[0] <version> <folder>\n",
-        "       <version> is 4 or 5\n",
+        "       <version> is 4, 5, or 6\n",
         "       <folder> contains icons.yml";
     exit(1);
 }
