@@ -46,7 +46,7 @@ function v4Icons(string $folder): array
             "name" => $icon["name"],
             "id" => $icon["id"],
             "categories" => $categories,
-            "class" => "fa",
+            "classes" => ["fa"],
         ];
         if (isset($icon["filter"])) {
             $res["filter"] = $icon["filter"];
@@ -62,13 +62,15 @@ function v5Icons(string $folder): array
         $classes = [
             "solid" => "fas",
             "brands" => "fab",
+            "regular" => "far",
         ];
-        $style = $icon["styles"][0];
         $icons[$id] = [
             "name" => $icon["label"],
             "id" => $id,
             "categories" => ["All"],
-            "class" => isset($classes[$style]) ? $classes[$style] : "",
+            "classes" => array_map(function ($style) use ($classes) {
+                return $classes[$style];
+            }, $icon["styles"]),
             "filter" => $icon["search"]["terms"],
         ];
     }

@@ -67,6 +67,15 @@
     border-radius: 3px
 }
 
+.mce-fontawesome-panel .far {
+    display: block;
+    line-height: 29px;
+    font-family: "Font Awesome 5 Free";
+    cursor: pointer;
+    text-align: center;
+    border-radius: 3px
+}
+
 .mce-fontawesome-panel .fas {
     display: block;
     line-height: 29px;
