@@ -33,7 +33,8 @@ class RequireCommandTest extends TestCase
         $hjs = "";
         $this->sut()->execute();
         $this->assertSame(
-            '<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">',
+            '<meta name="fontawesome_version" content="4">'
+            . '<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">',
             $hjs
         );
     }
@@ -45,7 +46,8 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_version"] = "5";
         $this->sut()->execute();
         $this->assertSame(
-            '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">',
+            '<meta name="fontawesome_version" content="5">'
+            . '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">',
             $hjs
         );
     }
@@ -58,7 +60,8 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_shim"] = "true";
         $this->sut()->execute();
         $this->assertSame(
-            '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">'
+            '<meta name="fontawesome_version" content="5">'
+            . '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">'
             . '<link rel="stylesheet" type="text/css" href="./css/v5/v4-shims.min.css">',
             $hjs
         );
@@ -72,7 +75,8 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_version"] = "6";
         $this->sut()->execute();
         $this->assertSame(
-            '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">',
+            '<meta name="fontawesome_version" content="6">'
+            . '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">',
             $hjs
         );
     }
@@ -85,7 +89,8 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_shim"] = "true";
         $this->sut()->execute();
         $this->assertSame(
-            '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">'
+            '<meta name="fontawesome_version" content="6">'
+            . '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">'
             . '<link rel="stylesheet" type="text/css" href="./css/v6/v4-shims.min.css">',
             $hjs
         );
