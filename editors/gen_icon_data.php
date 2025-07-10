@@ -68,7 +68,7 @@ function v5Icons(string $folder): array
         $icons[$id] = [
             "name" => $icon["label"],
             "id" => (string) $id,
-            "categories" => ["All"],
+            "categories" => [],
             "classes" => array_map(function ($style) use ($classes) {
                 return $classes[$style];
             }, $icon["styles"]),
@@ -81,5 +81,11 @@ function v5Icons(string $folder): array
             $icons[$icon]["categories"][] = $categoryName;
         }
     }
+    $icons = array_map(function ($icon) {
+        if (empty($icon["categories"])) {
+            $icon["categories"] = ["Miscellaneous"];
+        }
+        return $icon;
+    }, $icons);
     return array_values($icons);
 }
