@@ -1,4 +1,5 @@
 tinymce.addI18n('en', {
+    'Accessibility': 'Accessibility',
     'Alert': 'Alert',
     'Alphabet': 'Alphabet',
     'Animals': 'Animals',
@@ -109,7 +110,7 @@ tinymce.addI18n('en', {
     'Transportation': 'Transport',
     'Travel': 'Travel',
     'Travel + Hotel': 'Travel + Hotel',
-    'User & People': 'User & People',
+    'Users & People': 'User & People',
     'Users + People': 'Users + People',
     'Vehicles': 'Vehicles',
     'Video Player': 'Video Player',
