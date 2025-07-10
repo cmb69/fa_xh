@@ -33,7 +33,7 @@ class RequireCommandTest extends TestCase
         $hjs = "";
         $this->sut()->execute();
         $this->assertSame(
-            '<meta name="fontawesome_version" content="4">'
+            '<meta name="fontawesome_conf" content=\'{"version":4,"shim":false}\'>'
             . '<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">',
             $hjs
         );
@@ -46,7 +46,7 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_version"] = "5";
         $this->sut()->execute();
         $this->assertSame(
-            '<meta name="fontawesome_version" content="5">'
+            '<meta name="fontawesome_conf" content=\'{"version":5,"shim":false}\'>'
             . '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">',
             $hjs
         );
@@ -60,7 +60,7 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_shim"] = "true";
         $this->sut()->execute();
         $this->assertSame(
-            '<meta name="fontawesome_version" content="5">'
+            '<meta name="fontawesome_conf" content=\'{"version":5,"shim":true}\'>'
             . '<link rel="stylesheet" type="text/css" href="./css/v5/all.min.css">'
             . '<link rel="stylesheet" type="text/css" href="./css/v5/v4-shims.min.css">',
             $hjs
@@ -75,7 +75,7 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_version"] = "6";
         $this->sut()->execute();
         $this->assertSame(
-            '<meta name="fontawesome_version" content="6">'
+            '<meta name="fontawesome_conf" content=\'{"version":6,"shim":false}\'>'
             . '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">',
             $hjs
         );
@@ -89,7 +89,7 @@ class RequireCommandTest extends TestCase
         $this->conf["fontawesome_shim"] = "true";
         $this->sut()->execute();
         $this->assertSame(
-            '<meta name="fontawesome_version" content="6">'
+            '<meta name="fontawesome_conf" content=\'{"version":6,"shim":true}\'>'
             . '<link rel="stylesheet" type="text/css" href="./css/v6/all.min.css">'
             . '<link rel="stylesheet" type="text/css" href="./css/v6/v4-shims.min.css">',
             $hjs
