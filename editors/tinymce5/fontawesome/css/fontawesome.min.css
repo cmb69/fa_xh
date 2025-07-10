@@ -92,18 +92,20 @@
 }
 
 .mce-fontawesome-search-container {
-    position: absolute;
-    margin: 10px 0 0 10px
+    background-color: #f0f0f0 !important;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    margin: 0 !important;
+    position: relative !important;
+    padding: 0 0.5em !important;
 }
 
 .mce-fontawesome-search-container::before {
-    font-family: FontAwesome;
     content: "\f002";
-    position: relative;
-    top: 30px;
-    left: 0;
-    line-height: 30px;
-    color: rgba(0, 0, 0, .4)
+    color: rgba(0, 0, 0, .4);
+    font-family: FontAwesome;
+    position: absolute;
 }
 
 .mce-fontawesome-search-container.mce-fontawesome-v5::before {
