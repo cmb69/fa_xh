@@ -34,8 +34,17 @@
 <body>
 <h1 id="fa_xh">Fa_XH</h1>
 <p><img src="https://raw.githubusercontent.com/cmb69/fa_xh/master/fa.png" alt="Fort" align="right"></p>
-<p>Fa_XH provides <a href="https://fontawesome.com/">Font Awesome</a> for CMSimple_XH templates, plugins and content. The plugin has been created for similar reasons as the <a href="https://wiki.cmsimple-xh.org/doku.php/extend:jquery4cmsimple">jQuery4CMSimple</a> plugin, namely to avoid clashes when Font Awesome is used by multiple components. For instance, a template may include a certain Font Awesome version, but a plugin another one. If all components rely on Fa_XH, all will use the same version.</p>
-<p>Furthermore Fa_XH delivers editor plugins to ease the use of Font Awesome icons in the content, if this is desired. Currently, TinyMCE 4/5 and CKEditor are supported.</p>
+<p>Fa_XH provides <a href="https://fontawesome.com/">Font Awesome</a>
+for CMSimple_XH templates, plugins and content. The plugin has been
+created for similar reasons as the <a
+href="https://wiki.cmsimple-xh.org/doku.php/extend:jquery4cmsimple">jQuery4CMSimple</a>
+plugin, namely to avoid clashes when Font Awesome is used by multiple
+components. For instance, a template may include a certain Font Awesome
+version, but a plugin another one. If all components rely on Fa_XH, all
+will use the same version.</p>
+<p>Furthermore Fa_XH delivers editor plugins to ease the use of Font
+Awesome icons in the content, if this is desired. Currently, TinyMCE 4/5
+and CKEditor are supported.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#requirements">Requirements</a></li>
@@ -55,42 +64,77 @@
 <li><a href="#credits">Credits</a></li>
 </ul>
 <h2 id="requirements">Requirements</h2>
-<p>Fa_XH is a plugin for CMSimple_XH ≥ 1.7.0. It requires PHP ≥ 7.1.0.</p>
+<p>Fa_XH is a plugin for CMSimple_XH ≥ 1.7.0. It requires PHP ≥
+7.1.0.</p>
 <h2 id="download">Download</h2>
-<p>The <a href="https://github.com/cmb69/fa_xh/releases/latest">lastest release</a> is available for download on Github.</p>
+<p>The <a href="https://github.com/cmb69/fa_xh/releases/latest">lastest
+release</a> is available for download on Github.</p>
 <h2 id="installation">Installation</h2>
-<p>The installation is done as with many other CMSimple_XH plugins. See the <a href="https://wiki.cmsimple-xh.org/doku.php/installation">CMSimple_XH wiki</a> for further details.</p>
+<p>The installation is done as with many other CMSimple_XH plugins. See
+the <a
+href="https://wiki.cmsimple-xh.org/doku.php/installation">CMSimple_XH
+wiki</a> for further details.</p>
 <ol type="1">
 <li>Backup the data on your server.</li>
 <li>Unzip the distribution on your computer.</li>
-<li>Upload the whole directory <code>fa/</code> to your server into the <code>plugins/</code> directory of CMSimple_XH.</li>
-<li>Set write permissions for the subdirectories <code>config/</code>, <code>css/</code> and <code>languages/</code>.</li>
-<li>Navigate to <code>Plugins</code> → <code>Fa</code> in the back-end to check if all requirements are fulfilled.</li>
+<li>Upload the whole directory <code>fa/</code> to your server into the
+<code>plugins/</code> directory of CMSimple_XH.</li>
+<li>Set write permissions for the subdirectories <code>config/</code>,
+<code>css/</code> and <code>languages/</code>.</li>
+<li>Navigate to <code>Plugins</code> → <code>Fa</code> in the back-end
+to check if all requirements are fulfilled.</li>
 </ol>
 <h2 id="settings">Settings</h2>
-<p>The configuration of the plugin is done as with many other CMSimple_XH plugins in the back-end of the website. Select <code>Plugins</code> → <code>Fa</code>.</p>
-<p>You can change the default settings of Fa_XH under <code>Config</code>. Hints for the options will be displayed when hovering over the help icon with your mouse.</p>
-<p>Localization is done under <code>Language</code>. You can translate the character strings to your own language if there is no appropriate language file available, or customize them according to your needs.</p>
-<p>The look of Fa_XH can be customized under <code>Stylesheet</code>.</p>
+<p>The configuration of the plugin is done as with many other
+CMSimple_XH plugins in the back-end of the website. Select
+<code>Plugins</code> → <code>Fa</code>.</p>
+<p>You can change the default settings of Fa_XH under
+<code>Config</code>. Hints for the options will be displayed when
+hovering over the help icon with your mouse.</p>
+<p>Localization is done under <code>Language</code>. You can translate
+the character strings to your own language if there is no appropriate
+language file available, or customize them according to your needs.</p>
+<p>The look of Fa_XH can be customized under
+<code>Stylesheet</code>.</p>
 <h2 id="usage">Usage</h2>
 <h4 id="end-users">End Users</h4>
-<p>If you want to use Font Awesome icons in the content, simply enable the configuration option <code>Require</code> → <code>Auto</code>.</p>
+<p>If you want to use Font Awesome icons in the content, simply enable
+the configuration option <code>Require</code> → <code>Auto</code>.</p>
 <h4 id="tinymce-4">TinyMCE 4</h4>
-<p>You need a recent version of TinyMCE 4 to use the fontawesome plugin, in which case TinyMCE 4 loads the plugin automatically, if the <code>fontawesome</code> init is chosen in its configuration.</p>
-<p>Use the new toolbar button <code>Font Awesome</code> to select and insert the desired Font Awesome icon.</p>
-<p>The fontawesome plugin for TinyMCE 4 supports only icons marked up as <code>&lt;span&gt;</code>. Icons inserted in the HTML source code view with the more common <code>&lt;i&gt;</code> will be removed!</p>
+<p>You need a recent version of TinyMCE 4 to use the fontawesome plugin,
+in which case TinyMCE 4 loads the plugin automatically, if the
+<code>fontawesome</code> init is chosen in its configuration.</p>
+<p>Use the new toolbar button <code>Font Awesome</code> to select and
+insert the desired Font Awesome icon.</p>
+<p>The fontawesome plugin for TinyMCE 4 supports only icons marked up as
+<code>&lt;span&gt;</code>. Icons inserted in the HTML source code view
+with the more common <code>&lt;i&gt;</code> will be removed!</p>
 <h4 id="tinymce-5">TinyMCE 5</h4>
-<p>You need a recent version of TinyMCE 5 to use the fontawesome plugin, in which case TinyMCE 5 loads the plugin automatically, if the chosen init supports it in its configuration.</p>
-<p>Use <code>Tools</code> → <code>Font Awesome</code> to select and insert the desired Font Awesome icon.</p>
-<p>The fontawesome plugin for TinyMCE 5 supports only icons marked up as <code>&lt;span&gt;</code>. Icons inserted in the HTML source code view with the more common <code>&lt;i&gt;</code> will be removed!</p>
+<p>You need a recent version of TinyMCE 5 to use the fontawesome plugin,
+in which case TinyMCE 5 loads the plugin automatically, if the chosen
+init supports it in its configuration.</p>
+<p>Use <code>Tools</code> → <code>Font Awesome</code> to select and
+insert the desired Font Awesome icon.</p>
+<p>The fontawesome plugin for TinyMCE 5 supports only icons marked up as
+<code>&lt;span&gt;</code>. Icons inserted in the HTML source code view
+with the more common <code>&lt;i&gt;</code> will be removed!</p>
 <h4 id="ckeditor">CKEditor</h4>
-<p>You need at least CKEditor 2.2 to use the fontawesome plugin, in which case CKEditor loads the plugin automatically.</p>
-<p>Use the toolbar button <code>Insert Font Awesome</code> to select, manipulate and insert the desired Font Awesome icon. Double-click an already inserted icon to edit it.</p>
-<p>The fontawesome plugin for CKEditor supports only icons marked up as <code>&lt;span&gt;</code>. Icons inserted in the HTML source code view with the more common <code>&lt;i&gt;</code> will be removed!</p>
+<p>You need at least CKEditor 2.2 to use the fontawesome plugin, in
+which case CKEditor loads the plugin automatically.</p>
+<p>Use the toolbar button <code>Insert Font Awesome</code> to select,
+manipulate and insert the desired Font Awesome icon. Double-click an
+already inserted icon to edit it.</p>
+<p>The fontawesome plugin for CKEditor supports only icons marked up as
+<code>&lt;span&gt;</code>. Icons inserted in the HTML source code view
+with the more common <code>&lt;i&gt;</code> will be removed!</p>
 <h3 id="template-designers">Template Designers</h3>
-<p>If a template wants to use Font Awesome, you should document that Fa_XH has to be installed, and you have to require Font Awesome early in the template (that is before <code>&lt;?php echo head()?&gt;</code>:</p>
+<p>If a template wants to use Font Awesome, you should document that
+Fa_XH has to be installed, and you have to require Font Awesome early in
+the template (that is before <code>&lt;?php echo head()?&gt;</code>:</p>
 <pre><code>&lt;?php fa_require()?&gt;</code></pre>
-<p>If you want to cater to users who do not read the documentation, you can check whether the function is available, and emit an error message otherwise:</p>
+<p>If you want to cater to users who do not read the documentation, you
+can check whether the function is available, and emit an error message
+otherwise:</p>
 <pre><code>&lt;?php
 if (function_exists(&#39;fa_require&#39;)) {
     fa_require();
@@ -99,33 +143,79 @@ if (function_exists(&#39;fa_require&#39;)) {
 }
 ?&gt;</code></pre>
 <h3 id="plugin-developers">Plugin Developers</h3>
-<p>If a plugins wants to use Font Awesome, you should document that Fa_XH has to be installed, and you have to require Font Awesome before you are going to actually use it. Simply calling <code>fa_require()</code> is not guaranteed to work when called from a plugin, as the function may not have been defined, so you have to execute the <code>RequireCommand</code> directly:</p>
+<p>If a plugins wants to use Font Awesome, you should document that
+Fa_XH has to be installed, and you have to require Font Awesome before
+you are going to actually use it. Simply calling
+<code>fa_require()</code> is not guaranteed to work when called from a
+plugin, as the function may not have been defined, so you have to
+execute the <code>RequireCommand</code> directly:</p>
 <pre><code>&lt;?php
 $command = new Fa\RequireCommand;
 $command-&gt;execute();
 ?&gt;</code></pre>
-<p>If your plugin requires PHP 5.4.0 or higher anyway, you can shorten:</p>
+<p>If your plugin requires PHP 5.4.0 or higher anyway, you can
+shorten:</p>
 <pre><code>&lt;?php (new Fa\RequireCommand)-&gt;execute()?&gt;</code></pre>
 <p>To check whether Fa_XH is installed:</p>
 <pre><code>&lt;?php $fa_installed = class_exists(&#39;Fa\\RequireCommand&#39;)?&gt;</code></pre>
 <h3 id="cheatsheet">Cheatsheet</h3>
-<p>See <a href="https://fontawesome.com/cheatsheet">Font Awesome Cheatsheet</a>.</p>
+<p>See <a href="https://fontawesome.com/cheatsheet">Font Awesome
+Cheatsheet</a>.</p>
 <h2 id="limitations">Limitations</h2>
-<p>The TinyMCE 4 Font Awesome plugin requires a contempary browser; IE ≤ 8 is not supported.</p>
-<p>TinyMCE 4 has <a href="https://github.com/tinymce/tinymce/issues/3175">a bug</a> regarding block level elements which contain only other elements, but no actual content. So adding only a Font Awesome icon to an otherwise empty paragraph would not retain the icon. The TinyMCE 4 Font Awesome plugin has a workaround for this issue (namely to also insert a non-breaking space), but importing content from another editor which does not implement this workaround, is not catered to, so you may loose some icons. It is recommended to stick with the same editor, anyway, so you can ignore this issue.</p>
+<p>The TinyMCE 4 Font Awesome plugin requires a contempary browser; IE ≤
+8 is not supported.</p>
+<p>TinyMCE 4 has <a
+href="https://github.com/tinymce/tinymce/issues/3175">a bug</a>
+regarding block level elements which contain only other elements, but no
+actual content. So adding only a Font Awesome icon to an otherwise empty
+paragraph would not retain the icon. The TinyMCE 4 Font Awesome plugin
+has a workaround for this issue (namely to also insert a non-breaking
+space), but importing content from another editor which does not
+implement this workaround, is not catered to, so you may loose some
+icons. It is recommended to stick with the same editor, anyway, so you
+can ignore this issue.</p>
 <h2 id="troubleshooting">Troubleshooting</h2>
-<p>Report bugs and ask for support either on <a href="https://github.com/cmb69/fa_xh/issues">Github</a> or in the <a href="https://cmsimpleforum.com/">CMSimple_XH Forum</a>.</p>
+<p>Report bugs and ask for support either on <a
+href="https://github.com/cmb69/fa_xh/issues">Github</a> or in the <a
+href="https://cmsimpleforum.com/">CMSimple_XH Forum</a>.</p>
 <h2 id="license">License</h2>
-<p>Fa_XH is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
-<p>Fa_XH is distributed in the hope that it will be useful, but <em>without any warranty</em>; without even the implied warranty of <em>merchantibility</em> or <em>fitness for a particular purpose</em>. See the GNU General Public License for more details.</p>
-<p>You should have received a copy of the GNU General Public License along with Fa_XH. If not, see <a href="https://www.gnu.org/licenses/" class="uri">https://www.gnu.org/licenses/</a>.</p>
+<p>Fa_XH is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the
+Free Software Foundation, either version 3 of the License, or (at your
+option) any later version.</p>
+<p>Fa_XH is distributed in the hope that it will be useful, but
+<em>without any warranty</em>; without even the implied warranty of
+<em>merchantibility</em> or <em>fitness for a particular purpose</em>.
+See the GNU General Public License for more details.</p>
+<p>You should have received a copy of the GNU General Public License
+along with Fa_XH. If not, see <a href="https://www.gnu.org/licenses/"
+class="uri">https://www.gnu.org/licenses/</a>.</p>
 <p>© 2017-2021 Christoph M. Becker</p>
 <h2 id="credits">Credits</h2>
-<p>This plugin is powered by <a href="https://fontawesome.com/">Font Awesome</a> by Dave Gandy. Many thanks for making this great iconic font and CSS toolkit available under a <a href="https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt">GPL friendly license</a>.</p>
-<p>This plugin contains an adapted version of the <a href="https://github.com/josh18/TinyMCE-FontAwesome-Plugin">TinyMCE-FontAwesome-Plugin</a> by josh18. Thanks for publishing this TinyMCE plugin under MIT license.</p>
-<p>This plugin contains an updated version of the <a href="https://github.com/michaeljanea/font-awesome-ckeditor-plugin">Font Awesome plugin for CKEditor</a> by Michael Janea. Thanks for publishing this CKEDitor plugin under GPL.</p>
+<p>This plugin is powered by <a href="https://fontawesome.com/">Font
+Awesome</a> by Dave Gandy. Many thanks for making this great iconic font
+and CSS toolkit available under a <a
+href="https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt">GPL
+friendly license</a>.</p>
+<p>This plugin contains an adapted version of the <a
+href="https://github.com/josh18/TinyMCE-FontAwesome-Plugin">TinyMCE-FontAwesome-Plugin</a>
+by josh18. Thanks for publishing this TinyMCE plugin under MIT
+license.</p>
+<p>This plugin contains an updated version of the <a
+href="https://github.com/michaeljanea/font-awesome-ckeditor-plugin">Font
+Awesome plugin for CKEditor</a> by Michael Janea. Thanks for publishing
+this CKEDitor plugin under GPL.</p>
 <p>Fa_XH has been inspired by <em>frase</em>. Many thanks!</p>
-<p>Many thanks to the community at the <a href="https://www.cmsimpleforum.com">CMSimple_XH forum</a> for tips, suggestions and testing. Especially, I like to thank <em>lck</em> and <em>frase</em> for early testing and feedback, <em>manu</em> for helping with the TinyMCE 4 plugin, and <em>Holger</em> for helping with the CKEditor plugin.</p>
-<p>And last but not least many thanks to <a href="https://harteg.dk/">Peter Harteg</a>, the “father” of CMSimple, and all developers of <a href="https://www.cmsimple-xh.org">CMSimple_XH</a> without whom this amazing CMS would not exist.</p>
+<p>Many thanks to the community at the <a
+href="https://www.cmsimpleforum.com">CMSimple_XH forum</a> for tips,
+suggestions and testing. Especially, I like to thank <em>lck</em> and
+<em>frase</em> for early testing and feedback, <em>manu</em> for helping
+with the TinyMCE 4 plugin, and <em>Holger</em> for helping with the
+CKEditor plugin.</p>
+<p>And last but not least many thanks to <a
+href="https://harteg.dk/">Peter Harteg</a>, the “father” of CMSimple,
+and all developers of <a
+href="https://www.cmsimple-xh.org">CMSimple_XH</a> without whom this
+amazing CMS would not exist.</p>
 </body>
 </html>
