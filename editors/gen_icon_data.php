@@ -59,6 +59,7 @@ function v5Icons(string $folder): array
 {
     $icons = [];
     foreach (yaml_parse_file($folder . "/icons.yml") as $id => $icon) {
+        if (isset($icon["private"]) && $icon["private"]) continue;
         $classes = [
             "solid" => "fas",
             "brands" => "fab",
