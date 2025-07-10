@@ -259,6 +259,8 @@ für Tipps, Anregungen und das Testen.
 Besonders möchte ich *lck* und *frase* für frühes Testen und Feedback danken,
 *manu* für Hilfe bei dem TinyMCE 4 Plugin,
 und *Holger* für Hilfe bei dem CKEditor Plugin.
+Und vielen Dank an *lck* und *olape* für Hilfe bei der FontAwesome 5 and 6
+Unterstützung des TinyMCE-Plugins.
 
 Zu guter Letzt vielen Dank an
 [Peter Harteg](https://harteg.dk/), den „Vater“ von CMSimple,
