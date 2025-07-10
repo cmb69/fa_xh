@@ -58,7 +58,11 @@ class RequireCommand
         }
         self::$isEmitted = true;
 
-        $hjs .= '<meta name="fontawesome_version" content="' . XH_hsc($this->conf['fontawesome_version']) . '">';
+        $conf = [
+            "version" => (int) $this->conf['fontawesome_version'],
+            "shim" => (bool) $this->conf['fontawesome_shim'],
+        ];
+        $hjs .= '<meta name="fontawesome_conf" content=\'' . json_encode($conf) . '\'>';
         switch ($this->conf['fontawesome_version']) {
             case "5":
                 $fa_css_pth = 'css/v5/all.min.css';
