@@ -45,9 +45,13 @@ jobs:
           cd cmsimplexh/plugins/fa
           patch vendor/approvals/approval-tests/src/Reporters/DiffInfo.php .github/DiffInfo.php.patch
           patch vendor/approvals/approval-tests/src/Approvals.php .github/Approvals.php.patch
+      - name: Install JS tools
+        run: npm install -g jshint
       - name: phing sniff
         run: cd cmsimplexh/plugins/fa && PATH=tools:vendor/bin:$PATH phing sniff
       - name: phing stan
         run: cd cmsimplexh/plugins/fa && PATH=tools:vendor/bin:$PATH phing stan
       - name: phing test
         run: cd cmsimplexh/plugins/fa && PATH=tools:vendor/bin:$PATH phing test
+      - name: phing js
+        run: cd cmsimplexh/plugins/fa && PATH=tools:vendor/bin:$PATH phing js

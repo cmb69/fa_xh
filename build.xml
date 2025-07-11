@@ -26,7 +26,13 @@
         </exec>
     </target>
 
-    <target name="check" description="runs all checks" depends="sniff,stan,test"/>
+    <target name="js" description="check JavaScript">
+        <exec executable="jshint" passthru="true" checkreturn="true">
+            <arg line="editors/tinymce5/fontawesome/"/>
+        </exec>
+    </target>
+
+    <target name="check" description="runs all checks" depends="sniff,stan,test,js"/>
 
     <target name="coverage" description="generates coverage report">
         <exec executable="phpunit" passthru="true" checkreturn="true">
